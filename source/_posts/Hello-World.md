@@ -42,3 +42,6 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+* [nodejs版本太高导致deploy 为0 bytes](https://alanlee.fun/2021/02/28/hexo-empty-html/)
+* [node下载地址 hexo3.9 对应nodejs12](https://nodejs.org/dist/latest-v12.x/)
