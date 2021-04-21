@@ -39,8 +39,8 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
-  auto_detect: false
+  line_number: false
+  auto_detect: true
   tab_replace:
 
 # Category & Tag
@@ -65,7 +65,10 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: fexo4bak
 
-
+search:
+  path: search.json
+  source: all # other values: posts, pages
+  trim_html: false
 deploy:
   type: git
   repository: git@github.com:codewindy/codewindy.github.io.git

@@ -10,7 +10,7 @@ avatar: /images/avatar.png
 favicon: /images/favicon.ico
 
 # For seo
-keywords: codewindy,后端,Spring,Hexo主题,后端开发,SpringBoot,设计,backend,Java,nodejs,JavaScript
+keywords: codewindy,后端,Spring,Hexo主题,后端开发,SpringBoot,Kafka,backend,Java,nodejs,JavaScript,RabbitMQ
 
 home_nav:
   - name: Blog
@@ -34,15 +34,15 @@ page_nav:
   - name: 博客
     url: /archives/
     target_blank: false # 不在新页面打开
-  - name: 分类
-    url: /category/
-    target_blank: false
-  - name: 标签
-    url: /tag/
-    target_blank: false
-  - name: 友链
-    url: /link/
-    target_blank: false
+#  - name: 分类
+#    url: /category/
+#    target_blank: false
+#  - name: 标签
+#    url: /tag/
+#    target_blank: false
+#  - name: 友链
+#    url: /link/
+#    target_blank: false
   - name: 关于
     url: /about/
     target_blank: false
@@ -59,10 +59,10 @@ page_nav_style: CIRCLE  # CIRCLE|ROUND_RECT
 breadcrumb:
   isShow: false # true|fase
 
-# 盒子
+# Home
 toolbox:
   isShow: true # true|fase
-  text: 盒子
+  text: Home
 
 search_slogan:
   isShow: true # true|fase
@@ -75,18 +75,18 @@ link_slogan:
 
 # set backtop show or hide
 backtop:
-  home: false
-  archive: false
+  home: true
+  archive: true
   category: true
   tag: true
   post: true
-  link: false
+  link: true
   about: false
 
 donation:
   show: true
   btn_text: 支持一下
-  tip: 扫一扫，支持forsigner
+  tip: 扫一扫，支持codewindy
   items:
     - type: 微信
       text: 微信扫一扫
@@ -184,8 +184,8 @@ valine:
   guest_info: nick,mail,link # custom comment header
   pageSize: 10 # pagination size
 
-
-
+#copyright: true
+#since: 2015
 
 # 不算子,文章访问量统计和显示
 busuanzi: true
