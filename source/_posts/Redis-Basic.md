@@ -397,3 +397,4 @@ Keys 的通用操作
 
 * 获取 Key 的类型，如果 Key 不存在返回None。
 * [redis源码string分析](https://blog.csdn.net/qq_33996921/article/details/105226259)
+* [redis String源码分析 debug object key1](https://artisan.blog.csdn.net/article/details/105757490)
