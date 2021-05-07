@@ -34,6 +34,8 @@ Proxifier MacOS Setting
 
 * [几鸡-学习助理](https://ji-f.pw/signin) 台湾的学习免费节点网速很棒，注册需要能先上Google
 * [lncn.org](https://lncn.org/) 能满足日常使用，但需要配置hosts文件
+* [xueyun.club](https://xueyun.club/auth/register)
+* [freeyes.xyz](https://freeyes.xyz)
   
 ```shell
   在本地host文件中将本站域名绑定到 69.194.14.16
@@ -51,3 +53,4 @@ Proxifier MacOS Setting
 * [几鸡-学习助理](https://ji-f.pw/signin) 台湾学习助理
 * [geewan](http://dl.geewan.com/%E6%96%90%E8%AE%AF%E8%B7%AF%E7%94%B1-Phicomm/%E6%9C%80%E6%96%B0%E5%85%8D%E6%8B%86%E6%9C%BA%E6%96%90%E8%AE%AFK1K2%E5%88%B7%E6%9E%81%E7%8E%A9%E5%9B%BA%E4%BB%B6%E6%95%99%E7%A8%8B.rar) 斐讯k2/极路由固件教程
 * [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
+* [v2ray-clients-download](https://tlanyan.pp.ua/v2ray-clients-download/)

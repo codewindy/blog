@@ -31,3 +31,4 @@ clusterClient.shutdown();
 # 三. 参考
 * [redis整合letture自动拓扑更新](https://www.colabug.com/2020/0107/6815444/)
 * [SpringBoot2.X与redis Lettuce集成踩坑](https://juejin.cn/post/6844904039096778759)
+* [redis 字符串和SDS](https://blog.csdn.net/weichi7549/article/details/107621458)
