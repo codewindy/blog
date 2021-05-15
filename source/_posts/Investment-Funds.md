@@ -13,6 +13,8 @@ Investment Funds
 * [https://upsort.com/](https://upsort.com/) 关注北向资金的动向
 * [招财大牛猫](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MjAxNTE4MA==&scene=124#wechat_redirect)
 * 从小培育理财思维,收益10个点就半仓止盈
+* 财富的本质是可以流通交换的等价物，而共识和流动性，是发生交换的基础条件
+* 每次都等额补仓 跌一个月或者跌了10%之后在补仓，把每只股票基金当成诺安谨慎买入
 * <font style="color:black; background:yellow">宽货币宽信用前提下放水无熊市</font> 股市赚央行放水的钱 公司盈利和低吸高抛的钱 资产按1/3比例配置
 * 普通散户理财最大的优势在于 **耐心和时间成本** 前提是要**提前埋伏好对的低估标的物**
 ```java
