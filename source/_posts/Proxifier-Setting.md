@@ -54,3 +54,7 @@ Proxifier MacOS Setting
 * [geewan](http://dl.geewan.com/%E6%96%90%E8%AE%AF%E8%B7%AF%E7%94%B1-Phicomm/%E6%9C%80%E6%96%B0%E5%85%8D%E6%8B%86%E6%9C%BA%E6%96%90%E8%AE%AFK1K2%E5%88%B7%E6%9E%81%E7%8E%A9%E5%9B%BA%E4%BB%B6%E6%95%99%E7%A8%8B.rar) 斐讯k2/极路由固件教程
 * [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
 * [v2ray-clients-download](https://tlanyan.pp.ua/v2ray-clients-download/)
+* [雷霆加速器](https://www.rufrsp.com/) www.leiting66.com
+* [黑洞加速器](https://www.heidongfast.com)
+* [Clash for Windows/Android apk](https://docs.cfw.lbyczf.com) Clash 各个平台软件下载
+* [金坷垃](https://jinkela001.xyz/auth/register/)  免费小飞机场
