@@ -24,6 +24,7 @@ tags: life
 
 # 三. 参考
 * [apkpure](https://m.apkpure.com/) 下载纯净apk
+* [www.yxssp.com](https://www.yxssp.com/23740.html) 破解版安卓软件下载 IDM+ 滴答清单 rosettaStone
 * [Redmi K40/POCO F3刷MIUI EU(欧洲版) 12.6+Root+大陆本土化套件选装](https://www.yongchangguo.com/archives/RedMiFlushToEUAndRoot.html)
 * [解锁工具](https://www.miui.com/unlock/index.html) 注意解锁需要绑定mi账号并且要等7 天
 * [下载k40 rom](https://xiaomi.eu/community/threads/miui-12-0-12-1-12-2-12-5-stable-release.56191/)
