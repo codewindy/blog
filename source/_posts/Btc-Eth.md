@@ -29,6 +29,7 @@ Investment  BTC & ETH & USTD & BNB
 * 通过ustd 币币交易买入eth 或者btc
 * 等到牛市结束 四年一个周期 考虑金字塔模型分批卖出转换成ustd
 * 把ustd转化成法币 `如果金额比较大会比较麻烦，因为受到金融银行体系的监管`
+* 首先币全部在交易所换成usdt，换好后几个交易平台分别转一部分usdt进去，低杠杆滚一下，然后卖出（每日5k以下），最好是去地方银行开卡，钱一到立马转走买基金或者股票
 
 # 三. 参考
 
@@ -36,3 +37,7 @@ Investment  BTC & ETH & USTD & BNB
 * [币安](https://www.binance.com/)
 * [OKCoin](https://www.okcoin.com/)
 * [imtoken](https://token.im/) eth btc wallet
+* [2021-06-12最近的金融数据](https://www.youtube.com/watch?v=_ffQjIImKbk)m2同比增速代表印钞回落到8%
+* [年轻人选择“躺平”，已是政府的幸运了](https://www.youtube.com/watch?v=s_ZXSgymL9U)
+* [中国有几个主要部门？他们的权力究竟有多大？！](https://www.youtube.com/watch?v=_HxZZyd9E9Q)
+* [中国经济和股市继续下行，流动行拐点加速下坠【20210519第199期】社融数据和m2的关系](https://www.youtube.com/watch?v=J_o6FAZDi9k)
