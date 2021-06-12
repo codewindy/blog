@@ -174,7 +174,7 @@ gitment:
 
 # Valine comment system  https://valine.js.org
 valine:
-  enable: true # 如果使用valine，请设置改之为true
+  enable: false # 如果使用valine，请设置改之为true
   appid:  qe3Kl6NAUeYp0pQjDQJn2K50-gzGzoHsz  # your leancloud application appid
   appkey: bIsb5tY0ibN5kvEYaTvmXkBL # your leancloud application appkey
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
