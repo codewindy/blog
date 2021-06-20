@@ -84,3 +84,6 @@ Investment Funds
 * [十问美债收益率](https://mp.weixin.qq.com/s/TzLhmZL3oqgKiP8QvlbSYw)
 * [易方达张坤投资逻辑](https://mp.weixin.qq.com/s/cWf-1HaQUEMHPkxOSA8tXA)
 * [深圳房子投资标的物 微信图片_20201115222106_66w_75m2.jpg](https://i.loli.net/2021/04/10/lEveRMrVgnhzI7T.jpg)
+* [最好的投资是投资自己](https://read678.com/amazonManage/index/471)
+* [韭菜的自我修养](https://read678.com/amazonManage/index/572)
+* [行为投资原则](https://read678.com/JdBook/index/25829)
