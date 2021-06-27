@@ -159,4 +159,6 @@ MacOS Install Tutorial
 * [macAppDownload.com](https://www.macappdownload.com/cleanmymac-x/)
 * [appsTorrent.ru](https://www.appstorrent.ru/programs/)
 * [macwk](https://macwk.com/)
+* [https://kirainmoe.com/](https://kirainmoe.com/)
 * [Clover Configurator](https://mackie100projects.altervista.org/)
+* [战神Z7-KP7GZ 驱动下载](http://www.hasee.com/Chinese/drivers/drivers/index.php/Download/Index/model.html?id=525)
