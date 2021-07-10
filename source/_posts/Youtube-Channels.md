@@ -3,7 +3,7 @@ title: Youtube和 Telegram 频道收集
 date: 2021-07-10 17:54:20
 tags: btc
 ---
-Youtube和 Telegram 频道收集
+财经和技术类频道收集
 ---
 
 * 收集备份youtube和Telegram的财经类up，从刚刚接触的听不懂到现在基本能算入门，尤其是财政部的财政政策以及央行的货币政策相关知识
@@ -15,7 +15,7 @@ Youtube和 Telegram 频道收集
    <!--more-->
 # 一. 财经类
 * [吾爱财经](https://space.bilibili.com/96081167?from=search&seid=7793786144972043101)
-* [sun riches](https://www.youtube.com/channel/UCkHrq03gWLLx6vjS2DOJ8aA]
+* [sun riches](https://www.youtube.com/channel/UCkHrq03gWLLx6vjS2DOJ8aA)
 * [蒙面财经MaskFinance](https://www.youtube.com/channel/UCjJklW6MyT2yjHEOrRu-FOA)
 * [长赢指数投资](https://hackershare.dev/en/bookmarks?set_locale=true&sortby=smart&tag=%E9%95%BF%E8%B5%A2%E6%8C%87%E6%95%B0%E6%8A%95%E8%B5%84)
 * [曹山石](https://t.me/caoshanshiqun)
