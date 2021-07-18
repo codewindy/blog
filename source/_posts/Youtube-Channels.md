@@ -16,6 +16,7 @@ tags: btc
 # 一. 财经类
 * [吾爱财经](https://space.bilibili.com/96081167?from=search&seid=7793786144972043101)
 * [sun riches](https://www.youtube.com/channel/UCkHrq03gWLLx6vjS2DOJ8aA)
+* [路财主](https://www.youtube.com/channel/UCHiUGbWH0Tpudc6ImtKRWYg)
 * [蒙面财经MaskFinance](https://www.youtube.com/channel/UCjJklW6MyT2yjHEOrRu-FOA)
 * [长赢指数投资](https://hackershare.dev/en/bookmarks?set_locale=true&sortby=smart&tag=%E9%95%BF%E8%B5%A2%E6%8C%87%E6%95%B0%E6%8A%95%E8%B5%84)
 * [曹山石](https://t.me/caoshanshiqun)
