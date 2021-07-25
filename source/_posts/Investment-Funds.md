@@ -87,3 +87,4 @@ Investment Funds
 * [最好的投资是投资自己](https://read678.com/amazonManage/index/471)
 * [韭菜的自我修养](https://read678.com/amazonManage/index/572)
 * [行为投资原则](https://read678.com/JdBook/index/25829)
+* [invest apk](https://www.yxssp.com/27760.html)

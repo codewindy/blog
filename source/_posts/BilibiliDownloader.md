@@ -14,5 +14,8 @@ tags: life
 # 二. 参考
 * [https://runine.cn/DuPan/](https://runine.cn/DuPan/)
 * [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown/releases)
+* [idm apk](https://www.yxssp.com/23740.html)
+* [TickTick apk](https://www.yxssp.com/26151.html)
+
 
 
