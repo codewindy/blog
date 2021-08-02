@@ -7,7 +7,7 @@ Profile
 
 * 周鹏/男/1993
 * 现居地:   <font style="color:black; background:yellow">深圳南山</font>
-*  **[简历详细版pdf下载](https://codewindy.github.io/resume/resume.pdf)**
+*  **[简历详细版pdf下载](https://codewindy.github.io/resume/周鹏-Java开发-简历2021.pdf)**
 * <font color="pink">*请使用`chrome`查看,或安装`PDF Viewer`*</font>
 
 
@@ -15,7 +15,7 @@ Contact
 ---
 
 -  联系电话: [13714156452](tel://13714156452)
--  电子邮箱: [codewindy@foxmail.com](mailto:codewindy@@foxmail.com)
+-  电子邮箱: [jkwindy@126.com](mailto:jkwindy@126.com)
 -  个人博客: [codewindy码风](https://codewindy.github.io/)
 
 
