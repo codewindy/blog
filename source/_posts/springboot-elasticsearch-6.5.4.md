@@ -5,10 +5,10 @@ tags: java
 ---
 
 ## springboot整合elk 并安装elasticsearch-analysis-ik分词器插件
-# 一. 背景
+# 背景
 * 业务中需要使用`ik分词`进行文章关键字搜索来查询对应的数据
 <!--more-->
-# 二. 步骤
+# 步骤
 * 在服务上首先安装使用docker和 docker-compose
 * 根据最后面的docker-compose.yml拉取镜像创建服务器
 * 修改服务器配置
@@ -44,7 +44,7 @@ tags: java
       - elasticsearch
 ```
   ***
-# 三. 参考
+# 参考
 * [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik)
 * [docker和docker-compose安装](https://www.runoob.com/docker/docker-compose.html)
 * [Elasticsearch7使用详解](https://rstyro.github.io/blog/2020/09/10/Elasticsearch7%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
