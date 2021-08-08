@@ -44,7 +44,7 @@ tags: java
   docker-compose --version
   ```
 
-* docker-compose.yml
+* docker-compose.yml 配置
 
   ```
   version: "3.1"
@@ -69,7 +69,7 @@ tags: java
   	depends_on:
   	  - elasticsearch
   ```
-
+* docker-compose -d 启动
 * 启动docker-compose 失败后问题解决
 
   ```
@@ -87,8 +87,30 @@ tags: java
 * ![image-20210804223814572.png](https://i.loli.net/2021/08/08/t4Uuj8hTvMzcxPp.png)
 
 * http://192.168.106.129:9200/_cat/health?pretty  查询节点状态
+```shell
+  1.检查集群的健康状况
+  
+  GET	/_cat/health?v
+  
+  2.查看集群中索引
+  
+  GET	/_cat/indices?v
+  
+  3.集群健康
+  
+  GET _cat/health?v
+  
+  4.磁盘使用情况
+  
+  GET _cat/allocation?v
+  
+  5.内存使用情况 
+  
+  GET _cat/nodes?v
+  
+```
 
-* 安装ik分词器
+* 安装ik分词器最好先下载到本地后通过搭建http服务的方式安装
 
   ```
   跟es版本对应安装记住 通过http 方式安装可以自己用nginx 服务或者everything 搭建
@@ -108,4 +130,3 @@ tags: java
 * [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik)
 * [docker和docker-compose安装](https://www.runoob.com/docker/docker-compose.html)
 * [Elasticsearch7使用详解](https://rstyro.github.io/blog/2020/09/10/Elasticsearch7%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
-
