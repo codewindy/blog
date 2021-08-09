@@ -1,5 +1,5 @@
 ---
-title: ElasticSearch 7.9.0 环境搭建以及使用部署
+title: ElasticSearch 7.9.0 环境搭建以及部署
 date: 2021-08-08 16:00:56
 tags: java
 ---
