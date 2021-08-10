@@ -130,3 +130,15 @@ tags: java
 * [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik)
 * [docker和docker-compose安装](https://www.runoob.com/docker/docker-compose.html)
 * [Elasticsearch7使用详解](https://rstyro.github.io/blog/2020/09/10/Elasticsearch7%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
+* [aqs-theory-and-apply](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
+* [synchronized-reentrantlock](https://lrh1993.gitbooks.io/android_interview_guide/content/java/concurrence/synchronized-reentrantlock.html)
+* [elasticsearch-interview.html](https://dunwu.github.io/db-tutorial/nosql/elasticsearch/elasticsearch-interview.html) 倒排索引
+* [hashmapxue-xi-bi-ji](http://luokangyuan.com/hashmapxue-xi-bi-ji/)
+* [千峰教育es](https://www.bilibili.com/video/BV1Qz411e7yx?p=37) 千峰教育es 视频下载
+* [elasticsearch-Rest-Client](https://oy6090.top/posts/c8221b76/#%E4%B8%83%E3%80%81elasticsearch-Rest-Client)
+* [es文档](https://www.yuque.com/xiongsanxiansheng/qfvqxo)  es文档
+* [docker教程](https://oy6090.top/posts/949df4a0/)  docker 教程
+* [yuque.com](https://www.yuque.com/xiongsanxiansheng/nlrnxo/mgm32s) 减小docker 体积
+* [sekibetu.com](https://sekibetu.com/elasticsearch02.html) elasticsearch02
+* [rabbitmq01](https://sekibetu.com/rabbitmq01.html)
+* [gmqj](https://sekibetu.com/gmqj.html)
