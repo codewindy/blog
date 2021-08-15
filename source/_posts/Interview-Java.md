@@ -167,3 +167,4 @@ shopee面试 20210805
 * [职级体系应该为员工提供明确的胜任标准](http://tech.ipalfish.com/blog/2020/06/07/profession/)
 * [支付宝钱包系统架构内部剖析（架构图）](http://www.woshipm.com/pmd/160822.html)
 * [支付系统如何进行分布式改造](https://blog.csdn.net/qq_27384769/article/details/80221007)
+* [面试必问的线程池计算coresize](https://mp.weixin.qq.com/s/v3eClGAgC7iDW09MoDKiEA)
