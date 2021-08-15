@@ -32,6 +32,7 @@ tags: btc
 * [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html) 各种破解vpn和免费机场
 * [https://www.duyaoss.com测速](https://www.duyaoss.com/archives)
 * [TempoVPN](https://t.me/TempoVPNChannel)
+* [熊猫VPN ExpressVPN](https://t.me/pjzyj0)
 # 三. java技术资料类
 * [JDMa2](https://t.me/JDMa2)
 * [懒得勤快官网](https://t.me/masuit)
