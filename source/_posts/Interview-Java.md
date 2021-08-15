@@ -6,12 +6,17 @@ tags: Java
 
 ## Java 面试题
 
-# 一. 背景
+# 背景
 
 * 准备换工作了，总结复习一下迎接下一个挑战
 <!--more-->
 
-# 二. 参考
+# 面经
+
+![面经.jpg](https://i.loli.net/2021/08/15/huUHbVO9deP2Fqm.jpg)
+
+# 参考
+
 * [2021年中高级最全Java面试题](https://zhuanlan.zhihu.com/p/346994550)
 * [sakura-editor](https://github.com/sakura-editor/sakura)
 * [理解浏览器渲染流程](https://www.liuxing.io/blog/how-browser-rendering-works/)

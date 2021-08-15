@@ -30,8 +30,10 @@ Investment  BTC & ETH
 * 等到牛市结束 四年一个周期 考虑金字塔模型分批卖出转换成ustd
 * 把ustd转化成法币 `如果金额比较大会比较麻烦，因为受到金融银行体系的监管`
 * 首先币全部在交易所换成usdt，换好后几个交易平台分别转一部分usdt进去，低杠杆滚一下，然后卖出（每日5k以下），最好是去地方银行开卡，钱一到立马转走买基金或者股票
+* 转账可以少量大额在1w左右
 # 收益**Yield Curve**
-![2021-08-08-14-53-21-855_pro.huobi.jpg](https://i.loli.net/2021/08/08/SLNaMFEIjcxGYRK.jpg) 截止2021-04-01 到2021-08-08
+![Screenshot_2021-08-14-09-48-39-967_pro.huobi.jpg](https://i.loli.net/2021/08/15/1beunMPR5ALgFEV.jpg)
+截止2021-04-01 到2021-08-08
 # 参考
 
 * [火币](https://www.huobi.com/)
