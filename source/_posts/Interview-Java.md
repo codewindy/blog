@@ -156,6 +156,7 @@ shopee面试 20210805
 # 参考
 
 * [2021年中高级最全Java面试题](https://zhuanlan.zhihu.com/p/346994550)
+* [atguigu尚硅谷面试题](http://www.atguigu.com/mst/java/gaopin/17832.html)
 * [sakura-editor](https://github.com/sakura-editor/sakura)
 * [理解浏览器渲染流程](https://www.liuxing.io/blog/how-browser-rendering-works/)
 * [adblock-for-youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk)
