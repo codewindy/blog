@@ -25,6 +25,7 @@ tags: java
 * 【Spring Cloud微服务实战】 链接: https://pan.baidu.com/s/1EOm95PDwlpUlzgIOfR4WnA 提取码: 9ysb  
 * 【长投理财_ALL】 链接: https://pan.baidu.com/s/154u0B8b6aGFKahRrwzcPng 提取码: a861
 * 【[学习资料](https://t.me/learningdatabase)】 链接: https://t.me/learningdatabase
+* 【小马哥讲spring AOP 编程思想】 链接：https://www.aliyundrive.com/s/2ezh6zWGdK1 提取码：slh1
 *  [空巷记](https://ikays.im) 免费分享技术视频
 *  [https://jike.info/](https://jike.info/) 
 *  [Java技术分享ppt](https://github.com/rfyiamcool/notes/blob/main/git.md)

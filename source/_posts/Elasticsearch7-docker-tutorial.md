@@ -142,3 +142,5 @@ tags: java
 * [sekibetu.com](https://sekibetu.com/elasticsearch02.html) elasticsearch02
 * [rabbitmq01](https://sekibetu.com/rabbitmq01.html)
 * [gmqj](https://sekibetu.com/gmqj.html)
+* [ES倒排索引为什么查询速度会这么快](https://www.jianshu.com/p/addefe15f3e9)
+* [how-to-setup-easily-elk-docker-swarm](https://blog.creekorful.org/2020/12/how-to-setup-easily-elk-docker-swarm/)
