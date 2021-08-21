@@ -30,6 +30,7 @@ tags: life
 * 其实一开始是想着抓包或者直接Root Explore 后获取`/data/usr/0/com.pandavpn.androidproxy` 目录下找到了对应的服务器地址以及连接账号密码但是用ssr试了发现无法使用应该是被限制了而且密码是每次连接随机生成的还加上了超时机制等于是作罢
 * ![panda_VPN_2021-08-15.jpg](https://i.loli.net/2021/08/16/QOqDbYjIrzEZfsV.png)
 * 在ios 以及macos 端也可以照着这种方式实现高速刷Twitter
+* ios端shadowrocket 在连接热点的时候手动设置http代理有的软件可能还是无法使用，最好设置socket5代理，即 点击 + 号在类型里面填socket5 并填入热点的ip 地址`192.168.167.5 `以及 every proxy 上配置的自定义代理端口号1088 就能使用了
 * ![image.png](https://i.loli.net/2021/08/16/ojxNsJm8Inf2D4r.png)
 
 # 参考
