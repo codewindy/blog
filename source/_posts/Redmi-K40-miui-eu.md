@@ -29,6 +29,7 @@ tags: life
 * 注意刷欧版miui后不能手动升级系统需要下载对应的[twrp-350-root-xiaomi-redmi-k40](https://unofficialtwrp.com/twrp-350-root-xiaomi-redmi-k40/)
 * [mifirm](https://mifirm.net/mostdownload) 下载ROM 以及TWRP
 * [apkpure](https://m.apkpure.com/) 下载纯净apk
+* [mail.yandex.com](https://lncn.org/) 注册yandex mail 和disk需要使用Russia的VPN节点云盘实现类似Google Photos的图片上传备份
 * [www.yxssp.com](https://www.yxssp.com/23740.html) 破解版安卓软件下载 IDM+ 滴答清单 rosettaStone
 * [Redmi K40/POCO F3刷MIUI EU(欧洲版) 12.6+Root+大陆本土化套件选装](https://www.yongchangguo.com/archives/RedMiFlushToEUAndRoot.html)
 * [解锁工具](https://www.miui.com/unlock/index.html) 注意解锁需要绑定mi账号并且要等7 天
