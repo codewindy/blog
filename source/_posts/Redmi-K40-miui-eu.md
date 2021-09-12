@@ -25,6 +25,7 @@ tags: life
 
 # 参考
 * 注意刷欧版miui后不能手动升级系统需要下载对应的[twrp-350-root-xiaomi-redmi-k40](https://unofficialtwrp.com/twrp-350-root-xiaomi-redmi-k40/)
+* [mifirm](https://mifirm.net/mostdownload) 下载ROM 以及TWRP
 * [apkpure](https://m.apkpure.com/) 下载纯净apk
 * [www.yxssp.com](https://www.yxssp.com/23740.html) 破解版安卓软件下载 IDM+ 滴答清单 rosettaStone
 * [Redmi K40/POCO F3刷MIUI EU(欧洲版) 12.6+Root+大陆本土化套件选装](https://www.yongchangguo.com/archives/RedMiFlushToEUAndRoot.html)

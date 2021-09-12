@@ -19,6 +19,7 @@ tags: life
   | hasee z7-kp7gz              | window 10     | [proxifier 下载](https://www.proxifier.com/download/)            |
   | MacBook pro 2019 【黑苹果】   | macOS Big Sur | [proxifier 下载](https://macwk.com/soft/proxifier)           |
 * 纪念一下今天早上出门过天桥摔倒了左手臂着地以及电脑包也是，到自习的地方发现左手臂一摸就很痛以及电脑转轴也坏了不影响使用但是淘宝问了一下修一次又要好几百内心很奔溃，才用了两年的新电脑摔了不完美了内心不舒服
+* 现在是2021-09-12 左手还没好还有点痛啊，以及这段时间发生了很多变化，需要自己妥善处理
 
 #  步骤
 * 下载  [熊猫vpn](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 仅限 Android ，记住 隔 4h清除app 的应用数据可以无限制重新连接
