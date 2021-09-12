@@ -22,6 +22,8 @@ tags: life
 * 但是我这边装完magisk后本地化`mi pay`和`应用商店`不兼容导致一直卡顿重启
 * 效果图如下
 * ![2021-05-22com.jpg](https://i.loli.net/2021/05/22/8vbo69lWzID4Urc.jpg)
+* 彻底试了刷miui.eu 需要自己手动刷twrp才能实现自动升级，否则每次都需要自己重新刷系统来实现更新，
+  每次都会数据备份和恢复很繁琐，用大陆版本就可以省事但是开YouTube和VPN 可能会导致系统奔溃各有优劣吧
 
 # 参考
 * 注意刷欧版miui后不能手动升级系统需要下载对应的[twrp-350-root-xiaomi-redmi-k40](https://unofficialtwrp.com/twrp-350-root-xiaomi-redmi-k40/)
