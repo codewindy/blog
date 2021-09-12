@@ -397,4 +397,5 @@ Keys 的通用操作
 
 * 获取 Key 的类型，如果 Key 不存在返回None。
 * [redis源码string分析](https://blog.csdn.net/qq_33996921/article/details/105226259)
+* [Redis中String的实现细节](https://somersames.xyz/2021/07/01/Redis%E4%B8%ADString%E7%9A%84%E5%AE%9E%E7%8E%B0%E7%BB%86%E8%8A%82/)
 * [redis String源码分析 debug object key1](https://artisan.blog.csdn.net/article/details/105757490)

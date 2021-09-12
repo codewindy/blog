@@ -143,4 +143,5 @@ tags: java
 * [rabbitmq01](https://sekibetu.com/rabbitmq01.html)
 * [gmqj](https://sekibetu.com/gmqj.html)
 * [ES倒排索引为什么查询速度会这么快](https://www.jianshu.com/p/addefe15f3e9)
+* [ES7中大小写不敏感的模糊匹配](https://somersames.xyz/2020/03/20/ES7%E4%B8%AD%E5%A4%A7%E5%B0%8F%E5%86%99%E4%B8%8D%E6%95%8F%E6%84%9F%E7%9A%84%E6%A8%A1%E7%B3%8A%E5%8C%B9%E9%85%8D/)
 * [how-to-setup-easily-elk-docker-swarm](https://blog.creekorful.org/2020/12/how-to-setup-easily-elk-docker-swarm/)

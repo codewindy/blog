@@ -236,3 +236,4 @@ shopee面试 20210805
 * [支付宝钱包系统架构内部剖析（架构图）](http://www.woshipm.com/pmd/160822.html)
 * [支付系统如何进行分布式改造](https://blog.csdn.net/qq_27384769/article/details/80221007)
 * [面试必问的线程池计算coresize](https://mp.weixin.qq.com/s/v3eClGAgC7iDW09MoDKiEA)
+* [difference-between-synchronized-and-volatile](https://somersames.xyz/2021/05/30/difference-between-synchronized-and-volatile/)
