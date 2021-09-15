@@ -33,7 +33,7 @@ tags: life
 * 在ios 以及macos 端也可以照着这种方式实现高速刷Twitter
 * **ios端shadowrocket 在连接热点的时候手动设置http代理有的软件可能还是无法使用，最好设置socket5代理，即 点击 + 号在类型里面填socket5 并填入热点的ip 地址`192.168.167.5 `以及 every proxy 上配置的自定义代理端口号`1088` 就能使用了**
 * ![image.png](https://i.loli.net/2021/08/16/ojxNsJm8Inf2D4r.png)
-* 截至时间`2021-09-12` 目前`pandaVPN`已经被禁了免费试用,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。
+* 截至时间`2021-09-15` 目前`pandaVPN`已经被禁了免费试用HK节点，可以换连接稍慢的节点乌克兰-哈尔科夫,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。
 
 # 参考
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
