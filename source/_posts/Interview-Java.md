@@ -238,3 +238,8 @@ shopee面试 20210805
 * [面试必问的线程池计算coresize](https://mp.weixin.qq.com/s/v3eClGAgC7iDW09MoDKiEA)
 * [difference-between-synchronized-and-volatile](https://somersames.xyz/2021/05/30/difference-between-synchronized-and-volatile/)
 * [力扣算法题lenovobenben](https://github.com/lenovobenben/wen)
+* [阿里面试视频](https://www.bilibili.com/video/BV1kU4y1574X?p=23)  阿里面试视频
+* [面试笔记](https://github.com/jujunchen/Java-interview-question/blob/master/4.JVM.md) 面试笔记
+* [Java-interview-question](https://github.com/jujunchen/Java-interview-question/blob/master/11.Spring%20Boot.md)
+* [renyong-jmovm面试题笔记整理](https://www.yuque.com/renyong-jmovm/ds/vepkxm)   面试题笔记整理
+* [面试题](https://www.yuque.com/lexiangqizhong/java/anqlsy)  面试题
