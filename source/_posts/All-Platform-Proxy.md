@@ -14,8 +14,8 @@ tags: life
 
   | 设备名                      | 系统          | 软件                 |
   | --------------------------- | ------------- | -------------------- |
-  | Redmi k40                   | Android       | [pandaVPN](https://github.com/codewindy/Mikrotik-Phicomm-Backup)  everyproxy |
-  | iPhone 8 plus               | IOS           | [shadowrocket](https://1.v2w.org/ios/)         |
+  | Redmi k40     买偶数196g     | Android       | [pandaVPN](https://github.com/codewindy/Mikrotik-Phicomm-Backup)  everyproxy |
+  | iPhone 8 plus          202g | IOS           | [shadowrocket](https://1.v2w.org/ios/)         |
   | hasee z7-kp7gz              | window 10     | [proxifier 下载](https://www.proxifier.com/download/)            |
   | MacBook pro 2019 【黑苹果】   | macOS Big Sur | [proxifier 下载](https://macwk.com/soft/proxifier)           |
 * 纪念一下今天早上出门过天桥摔倒了左手臂着地以及电脑包也是，到自习的地方发现左手臂一摸就很痛以及电脑转轴也坏了不影响使用但是淘宝问了一下修一次又要好几百内心很奔溃，才用了两年的新电脑摔了不完美了内心不舒服
