@@ -40,5 +40,5 @@ tags: life
 * [熊猫vpn](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 
 * [Proxifier教程](https://codewindy.github.io/2019/10/14/Proxifier-Setting/)
 * [ExpressVPN MOD APK 10.10.0 (Unlimited Trial)](https://apkdone.com/expressvpn/)
-* [a2zapk.com](https://a2zapk.com/History/com.expressvpn.vpn/) a2zapk
+* [a2zapk.com](https://a2zapk.com/History/com.expressvpn.vpn/)
 

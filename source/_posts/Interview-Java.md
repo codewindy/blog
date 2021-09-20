@@ -228,7 +228,7 @@ shopee面试 20210805
 * [sakura-editor](https://github.com/sakura-editor/sakura)
 * [理解浏览器渲染流程](https://www.liuxing.io/blog/how-browser-rendering-works/)
 * [adblock-for-youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk)
-* [新一代基于UDP的低延时网络传输层协议——QUIC详解](https://www.ahfesco.com.cn/affairs/Article.asp?id=3466)
+* [新一代基于UDP的低延时网络传输层协议——QUIC详解](https://www.ahf****esco.com.cn/affairs/Article.asp?id=3466)
 * [hashmap](https://howtodoinjava.com/java/collections/hashmap/how-hashmap-works-in-java/)
 * [KPI 结果导向](http://tech.ipalfish.com/blog/2020/03/20/recruitment/)
 * [面试SOP 标准流程](http://tech.ipalfish.com/blog/2020/04/01/interview/)
@@ -241,5 +241,12 @@ shopee面试 20210805
 * [阿里面试视频](https://www.bilibili.com/video/BV1kU4y1574X?p=23)  阿里面试视频
 * [面试笔记](https://github.com/jujunchen/Java-interview-question/blob/master/4.JVM.md) 面试笔记
 * [Java-interview-question](https://github.com/jujunchen/Java-interview-question/blob/master/11.Spring%20Boot.md)
-* [renyong-jmovm面试题笔记整理](https://www.yuque.com/renyong-jmovm/ds/vepkxm)   面试题笔记整理
-* [面试题](https://www.yuque.com/lexiangqizhong/java/anqlsy)  面试题
+* [renyong-jmovm面试题笔记整理](https://www.yuque.com/renyong-jmovm/ds/vepkxm)   210道面试题笔记整理
+* [lexiangqizhong面试题](https://www.yuque.com/lexiangqizhong/java/anqlsy)
+* [ppt 分享](https://github.com/rfyiamcool/notes/blob/main/git.md) ppt
+* [ld246.com](https://ld246.com/article/1624867520367)
+* [ld246.com](https://ld246.com/article/1622557526714)
+* [ld246.com](https://blog.csdn.net/qq193423571/article/details/81637075)
+* [woshimaxiao1](https://blog.csdn.net/woshimaxiao1/article/details/83661464)
+* [chengkui1990](https://blog.csdn.net/chengkui1990/article/details/85253328)
+* [java-thread-x-juc-AtomicInteger](https://www.pdai.tech/md/java/thread/java-thread-x-juc-AtomicInteger.html)
