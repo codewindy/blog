@@ -250,3 +250,4 @@ shopee面试 20210805
 * [woshimaxiao1](https://blog.csdn.net/woshimaxiao1/article/details/83661464)
 * [chengkui1990](https://blog.csdn.net/chengkui1990/article/details/85253328)
 * [java-thread-x-juc-AtomicInteger](https://www.pdai.tech/md/java/thread/java-thread-x-juc-AtomicInteger.html)
+* [macrozheng 技术笔记](http://www.macrozheng.com/#/README)
