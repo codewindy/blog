@@ -89,4 +89,5 @@ Investment Funds
 * [行为投资原则](https://read678.com/JdBook/index/25829)
 * [invest apk](https://www.yxssp.com/27760.html)
 * [48 块钱的平安，至暗时刻](https://www.v2ex.com/t/803718)
+* [微信qq 防止撤回app](https://xiaoyuboi.lanzoui.com/b0c3l6nab)
 * [investment-path-for-young](https://www.bmpi.dev/money/investment-path-for-young/)
