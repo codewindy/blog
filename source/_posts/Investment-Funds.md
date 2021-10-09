@@ -64,7 +64,36 @@ Investment Funds
 * 截止目前时间20210101 `算了一下如果2020年一直拿着2800-2600买的基金到现在同期沪深300是27%的收益, 我在收益5.8%卖了那个时候19%的整体收益赚了4k多一直拿到现在估计有42%的收益本金1.6w的话收益是6800左右, 实际情况就是我7月份连续3天涨停10%/天的踏空快速拉升, 追高医药暴跌40%补仓到现在已经12w多了实际浮盈1k多，且不考虑到年前花的1k买衣服和请吃饭发红包和理财费800块等，如果真止盈交割还存在0.5%的手续费起码600多，总体来看实际是亏钱的. 争取2021上半年清仓吧！`
 * 截止时间`2021-01-21` 半导体和医药板块走强然后从`2020-11-29`开始一直到现在尤其是元旦后的那些天已经回到了累计1w多收益，恰好今天是周四于是昨天清仓了虽然今天医药板块还是有3个点的涨幅少了3k的收益但还是要坚持自己的交易体系，现在只留下了券商和红利etf指数一共 2w也不会担心市场波动了，实际到了2021-01-22截止医药板块又涨了8个点踏空5600，但是半导体也亏了，不过都清空了也就没啥好埋冤的，耐心等待下次的机会吧!
   ![IMG_0743.PNG](https://i.loli.net/2021/01/21/roAtmZ1KLeVWH3D.png)
-# 三. 参考
+  ![Screenshot_2021-10-09-09-29-08-033_com.lphtsccft.jpg](https://i.loli.net/2021/10/09/dsfq9bNIrin8TFm.jpg)
+# 三. 开户优惠
+```java
+        第一个开户优惠方式
+        华泰低佣金开户渠道：
+        https://m.zhangle.com/h5Account/mobile-h5/guide.htm?ly=HTC1-9000022967&param1=011311
+
+        开户步骤详情看这个https://www.yuque.com/docs/share/15491065-5da6-4e53-87e7-daeddce0b7fc?from=singlemessage
+
+        需要注意不要用app注册，直接点链接注册&开户完成后再用app登录，否则不是新用户无法享受低佣金优惠
+
+        有问题可以留言，晚上统一回复
+
+
+        第二个开户优惠方式
+        海通证券 股票万1.02 ,基金万0.5免五 官方优惠渠道开户（读者专属福利，所以没有门槛，优惠费率终身有效）
+        请点击下方链接，查看详细内容
+
+        http://note.youdao.com/s/ZZuR3VPH
+
+        请加开户助理微信： yuan6688ze
+
+
+        华泰证券股票万1.3,基金万一免五开户（读者专属福利，所以没有门槛，优惠费率终身有效）
+        https://mp.weixin.qq.com/s/EyyWMhM3BSkI0md-u5kXyw
+
+
+```
+
+# 四. 参考
 * [交易纪律](https://mednoter.com/two-rules-for-investment.html)
 * [“新印”的21万亿元人民币，都被谁拿走了](https://www.mg21.com/guide/?p=6309)
 * [中国投资者如何投资美国证券市场](https://www.cs.jhu.edu/~grant/investment.html)
@@ -91,3 +120,8 @@ Investment Funds
 * [48 块钱的平安，至暗时刻](https://www.v2ex.com/t/803718)
 * [微信qq 防止撤回app](https://xiaoyuboi.lanzoui.com/b0c3l6nab)
 * [investment-path-for-young](https://www.bmpi.dev/money/investment-pinath-for-young/)
+* [美股heatmap](https://finviz.com/)
+* [coin360 币圈heatmap](https://coin360.com/)
+* [ticktick-premium](https://apkmazon.com/ticktick-premium.html)
+* [musubikiln瓷器](https://musubikiln.com/)
+* [haojiubujian-raygp华泰证券开户优惠](https://www.yuque.com/haojiubujian-raygp/fxnnqr/fy6vbu)

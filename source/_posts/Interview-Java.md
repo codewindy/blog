@@ -240,6 +240,10 @@ shopee面试 20210805
     20210918 商汤科技 二面
     
     在15G文本中取出top10的单词 功能设计
+    
+    20210918 商汤科技 三面
+
+    在1亿人脸 256 浮点数一张脸数据中取top k的值 功能设计
 总结
     简历要写好一点，不然面试机会都没有，去大厂不要包装工作经验，如果要跳槽，请至少提前一个月准备，我是去年10月份就有今年跳槽的想法，然后开始学习，跳槽前一个月我都还在学习，前一个月是分模块准备面试题，不会的模块就学好了再答题。
     面试问的内容无非是看你简历写的东西问，我写了spring源码，问我的公司还是比较少的，大部分是问线程、锁、mysql、redis、jvm。spring是很少问，算法其实真的不准备也是可以的，问算法的公司还是挺少，不过年限大的估计问算法的公司会多。
@@ -280,5 +284,6 @@ shopee面试 20210805
 * [chengkui1990](https://blog.csdn.net/chengkui1990/article/details/85253328)
 * [java-thread-x-juc-AtomicInteger](https://www.pdai.tech/md/java/thread/java-thread-x-juc-AtomicInteger.html)
 * [macrozheng 技术笔记](http://www.macrozheng.com/#/README)
-* [duibiao.info](https://duibiao.info/)
+* [面经和离职吐槽duibiao](https://duibiao.info/category/6)
 * [210道面试题笔记整理pdf下载](https://github.com/codewindy/win-toolbak/blob/master/interview210_yuque-zgpx1l.pdf)
+* [ikays.im](https://ikays.im/category/%e7%bb%bc%e5%90%88%e6%95%99%e7%a8%8b) Java资源
