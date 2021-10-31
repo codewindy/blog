@@ -120,7 +120,7 @@ Investment Funds
 * [48 块钱的平安，至暗时刻](https://www.v2ex.com/t/803718)
 * [微信qq 防止撤回app](https://xiaoyuboi.lanzoui.com/b0c3l6nab)
 * [investment-path-for-young](https://www.bmpi.dev/money/investment-pinath-for-young/)
-* [美股heatmap](https://finviz.com/)
+* [美股heatmap](https://finviz.com/) https://finviz.com/map.ashx?t=sec
 * [coin360 币圈heatmap](https://coin360.com/)
 * [ticktick-premium](https://apkmazon.com/ticktick-premium.html)
 * [musubikiln瓷器](https://musubikiln.com/)
