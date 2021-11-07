@@ -34,15 +34,18 @@ tags: life
 * 在ios 以及macos 端也可以照着这种方式实现高速刷Twitter
 * **ios端shadowrocket 在连接热点的时候手动设置http代理有的软件可能还是无法使用，最好设置socket5代理，即 点击 + 号在类型里面填socket5 并填入热点的ip 地址`192.168.167.5 `以及 every proxy 上配置的自定义代理端口号`1088` 就能使用了**
 * ![Screenshot_2021-10-09-14-30-41-321_com.miui.home.jpg](https://i.loli.net/2021/10/09/rPvyYt2TSaDg8Ji.jpg)
-* 截至时间`2021-10-31` 老版本可以用 **PandaVPN_v1.6.2会员版.apk** ，目前`pandaVPN`已经被禁了免费试用HK节点，可以换连接稍慢的节点乌克兰-哈尔科夫,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。
+* ~~截至时间`2021-10-31` 老版本可以用 **PandaVPN_v1.6.2会员版.apk** ，目前`pandaVPN`已经被禁了免费试用HK节点，可以换连接稍慢的节点乌克兰-哈尔科夫,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。~~
+* 截至时间`2021-11-07` 可以使用[**优途加速器_v1.1.29.apk**](https://www.mediafire.com/file/zm22yrvw2gwveb8/优途加速器_v1.1.29.apk/file) 秒连HK 速度还不错
 # 参考
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
 * [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 
-* [**letsvpn**](https://letsvpn.world/) 
+* [**letsvpn**](https://letsvpn.world/)  https://www.mediafire.com/file/9qkxeia7ur21z4d/letvpn3.0.zip/file
 * [Proxifier教程](https://codewindy.github.io/2019/10/14/Proxifier-Setting/)
 * [ExpressVPN MOD APK 10.10.0 (Unlimited Trial)](https://apkdone.com/expressvpn/)
 * [a2zapk.com](https://a2zapk.com/History/com.expressvpn.vpn/)
 * [emo_VPN_1.0.0.apk](https://emo001.club/)
 * [AnXray.apk](https://github.com/XTLS/AnXray/releases)
+* [优途加速器_v1.1.29.apk](https://www.mediafire.com/file/zm22yrvw2gwveb8/优途加速器_v1.1.29.apk/file)
 * [PandaVPN_v1.6.2会员版.apk](https://www.mediafire.com/file/uhvk81ptquxdxyj/PandaVPN_v1.6.2会员版.apk/file)
+
 
