@@ -1,10 +1,10 @@
 ---
-title: 滴答清单
+title: TickTick Pro
 date: 2021-11-21 16:46:56
 tags: life
 ---
 
-##  `TickTick Pro` 在工作生活上的应用
+##   滴答清单在工作生活上的应用
 
 # 背景
 * 日常任务规划需要有软件记录下来
