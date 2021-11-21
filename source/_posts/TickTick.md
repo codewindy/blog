@@ -14,6 +14,12 @@ tags: life
 * [cracked-ticktick-windows](https://github.com/yazdipour/cracked-ticktick-windows)
 * [TickTick-Windows-4.0.7.2-Crack](https://github.com/chesterchong/TickTick-Windows-4.0.7.2-Crack)
 * [TickTick_2.6.50 MacOS](https://www.mediafire.com/file/xlozb7eohr739qq/TickTick_2.6.50(74).dmg/file)
+# 同步
+* 在window下会出现数据不一致的问题，因为滴答清单和TickTick跟抖音一样是独立运营的，所以有以下操作
+* [登录滴答清单后导出](https://dida365.com/webapp/#settings/backup) csv列表
+* [Login TickTick import settings](https://ticktick.com/webapp/#settings/backup) 导入滴答清单的csv列表
+* 最终可以在win10上使用TickTick 而且数据实现了同步
+
 
 # 参考
 * [minorpatch](https://www.minorpatch.com/iosapps/page/2/)
