@@ -269,3 +269,4 @@ public class ConsumerMessageHandler {
 * [springboot 集成rabbitmq](https://my.oschina.net/10000000000/blog/1624963)
 * [rabbitmq_ppt_reference](https://github.com/codewindy/mac_soft/blob/master/rabbitmq_ppt.zip)
 * [JavaTutorials](https://github.com/codewindy/JavaTutorials)
+* [Rocketmq 教程](http://www.pbteach.com/java/java_05_04/20210527/582530502511034368.html)

@@ -127,3 +127,5 @@ Investment Funds
 * [musubikiln瓷器](https://musubikiln.com/)
 * [华泰证券开户优惠步骤转化成pdf](https://github.com/codewindy/blog/blob/master/source/efunds/2021-10-09_2021%E5%8D%8E%E6%B3%B0%E8%AF%81%E5%88%B8%E5%BC%80%E6%88%B7%20%E4%BD%A3%E9%87%91%E4%BD%8E%E8%87%B3%E4%B8%871.pdf)
 * [haojiubujian-raygp华泰证券开户优惠](https://www.yuque.com/haojiubujian-raygp/fxnnqr/fy6vbu)
+* [rmb sample](http://www.pbc.gov.cn/rmyh/2019rmb/index.html)
+* [carrie999 比特币是脱离政府控制自由的货币](https://carrie999.github.io/carrie/post/btc/)
