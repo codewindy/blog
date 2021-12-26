@@ -49,5 +49,6 @@ tags: life
 * [PandaVPN_v1.6.2会员版.apk](https://www.mediafire.com/file/uhvk81ptquxdxyj/PandaVPN_v1.6.2会员版.apk/file)
 * [mediafire文件上传](https://app.mediafire.com/myfiles)
 * [gsoula.com 机场](https://gsoula.com/auth/register)
+* [.NET Framework 4.8 运行库官方离线安装包【2019/03/18】（Windows 10 已经自带）](https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe) `https://www.423down.com/2545.html`
 * [shadowrocket账号试用](https://opssh.cn/fenxiang/4.html) `https://opssh.cn/fenxiang/4.html`
 
