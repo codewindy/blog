@@ -25,6 +25,7 @@ tags: life
 # 四.在线临时邮箱
 
 * [10minutemail.net](https://10minutemail.net/)
+* [https://mail.imlam.com/](https://mail.imlam.com/)
 * [10minutemail.com](https://10minutemail.com/)
 * [http://ss.netnr.com/](http://ss.netnr.com/)
 * [不死鸟](https://hao.su/1492/#menu_index_6)

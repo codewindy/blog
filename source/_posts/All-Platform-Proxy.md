@@ -12,12 +12,12 @@ tags: life
 
 * 我的设备如下表
 
-  | 设备名                      | 系统          | 软件                 |
-  | --------------------------- | ------------- | -------------------- |
-  | Redmi k40     买偶数196g     | Android       | [pandaVPN](https://github.com/codewindy/Mikrotik-Phicomm-Backup)  everyproxy |
-  | iPhone 8 plus          202g | IOS           | [shadowrocket](https://1.v2w.org/ios/)         |
-  | hasee z7-kp7gz              | window 10     | [proxifier 下载](https://www.proxifier.com/download/)            |
-  | MacBook pro 2019 【黑苹果】   | macOS Big Sur | [proxifier 下载](https://macwk.com/soft/proxifier)           |
+  | 设备名                      | 系统          | 软件                 | shadowrocket账号 |
+  | --------------------------- | ------------- | -------------------- | --------------------------- |
+  | Redmi k40     买偶数196g     | Android       | [pandaVPN](https://github.com/codewindy/Mikrotik-Phicomm-Backup)  everyproxy | 美国账号正常<br />fp8se6x8j@maoe.cc<br />TeUC7afmvPIFCrNlFJaK |
+  | iPhone 8 plus          202g | IOS           | [shadowrocket](https://1.v2w.org/ios/)         | 香港账号正常<br />vn7572@163.com<br />GsouSou2021 |
+  | hasee z7-kp7gz              | window 10     | [proxifier 下载](https://www.proxifier.com/download/)            | 美国账号正常<br />gvqdppbal@hotmail.com<br />Qi1122113 |
+  | MacBook pro 2019 【黑苹果】   | macOS Big Sur | [proxifier 下载](https://macwk.com/soft/proxifier)           |  |
 * 纪念一下今天早上出门过天桥摔倒了左手臂着地以及电脑包也是，到自习的地方发现左手臂一摸就很痛以及电脑转轴也坏了不影响使用但是淘宝问了一下修一次又要好几百内心很奔溃，才用了两年的新电脑摔了不完美了内心不舒服
 * 现在是2021-09-12 左手还没好还有点痛啊，以及这段时间发生了很多变化，需要自己妥善处理
 
@@ -35,7 +35,7 @@ tags: life
 * **ios端shadowrocket 在连接热点的时候手动设置http代理有的软件可能还是无法使用，最好设置socket5代理，即 点击 + 号在类型里面填socket5 并填入热点的ip 地址`192.168.167.5 `以及 every proxy 上配置的自定义代理端口号`1088` 就能使用了**
 * ![Screenshot_2021-10-09-14-30-41-321_com.miui.home.jpg](https://i.loli.net/2021/10/09/rPvyYt2TSaDg8Ji.jpg)
 * ~~截至时间`2021-10-31` 老版本可以用 **PandaVPN_v1.6.2会员版.apk** ，目前`pandaVPN`已经被禁了免费试用HK节点，可以换连接稍慢的节点乌克兰-哈尔科夫,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。~~
-* 截至时间`2021-11-07` 可以使用[**优途加速器_v1.1.29.apk**](https://www.mediafire.com/file/zm22yrvw2gwveb8/优途加速器_v1.1.29.apk/file) 秒连HK 速度还不错
+* 截至时间`2021-11-07` 可以使用[**优途加速器_v1.1.29.apk**](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 秒连HK 速度还不错
 # 参考
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
 * [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 
@@ -45,7 +45,9 @@ tags: life
 * [a2zapk.com](https://a2zapk.com/History/com.expressvpn.vpn/)
 * [emo_VPN_1.0.0.apk](https://emo001.club/)
 * [AnXray.apk](https://github.com/XTLS/AnXray/releases)
-* [优途加速器_v1.1.29.apk](https://www.mediafire.com/file/zm22yrvw2gwveb8/优途加速器_v1.1.29.apk/file)
+* [优途加速器_v1.1.29.apk](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file)
 * [PandaVPN_v1.6.2会员版.apk](https://www.mediafire.com/file/uhvk81ptquxdxyj/PandaVPN_v1.6.2会员版.apk/file)
-
+* [mediafire文件上传](https://app.mediafire.com/myfiles)
+* [gsoula.com 机场](https://gsoula.com/auth/register)
+* [shadowrocket账号试用](https://opssh.cn/fenxiang/4.html) `https://opssh.cn/fenxiang/4.html`
 
