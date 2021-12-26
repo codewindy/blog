@@ -39,7 +39,7 @@ tags: life
 # 参考
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
 * [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 
-* [**letsvpn 官网**](https://letsvpn.world/)  [mediafire下载地址](https://www.mediafire.com/file/9qkxeia7ur21z4d/letvpn3.0.zip/file)  https://download.dwladold.xyz/windows/letsvpn-3.0.0.exe 
+* [**letsvpn 官网**](https://letsvpn.world/)  [mediafire下载地址](https://www.mediafire.com/file/9qkxeia7ur21z4d/letvpn3.0.zip/file)  https://download.dwladold.xyz/windows/letsvpn-3.2.2.exe 
 * [Proxifier教程](https://codewindy.github.io/2019/10/14/Proxifier-Setting/)
 * [ExpressVPN MOD APK 10.10.0 (Unlimited Trial)](https://apkdone.com/expressvpn/)
 * [a2zapk.com](https://a2zapk.com/History/com.expressvpn.vpn/)
