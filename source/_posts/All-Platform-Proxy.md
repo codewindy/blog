@@ -18,13 +18,13 @@ tags: life
   | iPhone 8 plus          202g | IOS           | [shadowrocket](https://1.v2w.org/ios/)         | 香港账号正常<br />vn7572@163.com<br />GsouSou2021 |
   | hasee z7-kp7gz              | window 10     | [proxifier 下载](https://www.proxifier.com/download/)            | 美国账号正常<br />gvqdppbal@hotmail.com<br />Qi1122113 |
   | MacBook pro 2019 【黑苹果】   | macOS Big Sur | [proxifier 下载](https://macwk.com/soft/proxifier)           |  |
+  | CentBrowser浏览器 | 插件 crx | [GreenHub绿墙](https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/knmhokeiipedacnhpjklbjmfgedfohco_v0.9.13.zip)  或者在https://crxdl.com/ 下载 | |
 * 纪念一下今天早上出门过天桥摔倒了左手臂着地以及电脑包也是，到自习的地方发现左手臂一摸就很痛以及电脑转轴也坏了不影响使用但是淘宝问了一下修一次又要好几百内心很奔溃，才用了两年的新电脑摔了不完美了内心不舒服
 * 现在是2021-09-12 左手还没好还有点痛啊，以及这段时间发生了很多变化，需要自己妥善处理
 
 #  步骤
 * 下载  [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 仅限 Android ，记住 隔 4h清除app 的应用数据可以无限制重新连接
-*  或者下载[**letsvpn-3.1.1.exe**](https://letsvpn.world/) 快连VPN 秒开YouTube 速度快  然后执行破解1小时无限试用[unlimited patch](https://github.com/codewindy/win-toolbak/blob/master/%E5%BF%AB%E8%BF%9EVPN%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%813.0.exe)
-* ![Screenshot_2021-08-15-14-19-05-058_com.pandavpn.androidproxy.jpg](https://i.loli.net/2021/08/15/sBKebS27r8Zojd9.jpg)
+*  或者下载[**letsvpn-3.1.1.exe**](https://letsvpn.world/) 快连VPN 秒开YouTube 速度快  然后执行破解1小时无限试用[unlimited patch
 * 然后安装  [Every Proxy](https://apkpure.com/every-proxy/com.gorillasoftware.everyproxy/download?from=details) 并简单设置一下 `http 代理`或者`socket5 代理`
 * ![image.png](https://i.loli.net/2021/08/15/7ROWiqKFtPoaDJn.png)
 * 在安卓手机Redmi k40 上开启无线热点
@@ -33,9 +33,10 @@ tags: life
 * ![panda_VPN_2021-08-15.jpg](https://i.loli.net/2021/08/16/QOqDbYjIrzEZfsV.png)
 * 在ios 以及macos 端也可以照着这种方式实现高速刷Twitter
 * **ios端shadowrocket 在连接热点的时候手动设置http代理有的软件可能还是无法使用，最好设置socket5代理，即 点击 + 号在类型里面填socket5 并填入热点的ip 地址`192.168.167.5 `以及 every proxy 上配置的自定义代理端口号`1088` 就能使用了**
-* ![Screenshot_2021-10-09-14-30-41-321_com.miui.home.jpg](https://i.loli.net/2021/10/09/rPvyYt2TSaDg8Ji.jpg)
+* ![3321641003085_.pic.jpg](https://s2.loli.net/2022/01/01/ZjWSPBMoOd4Ym3V.jpg)
 * ~~截至时间`2021-10-31` 老版本可以用 **PandaVPN_v1.6.2会员版.apk** ，目前`pandaVPN`已经被禁了免费试用HK节点，可以换连接稍慢的节点乌克兰-哈尔科夫,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。~~
-* 截至时间`2021-11-07` 可以使用[**优途加速器_v1.1.29.apk**](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 秒连HK 速度还不错
+* ~~可以使用[**优途加速器_v1.1.29.apk**](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 秒连HK 速度还不错 流量套餐用完了已失效~~
+* 截至时间`2022-01-01` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  网速也挺快的
 # 参考
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
 * [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 
@@ -51,4 +52,5 @@ tags: life
 * [gsoula.com 机场](https://gsoula.com/auth/register)
 * [.NET Framework 4.8 运行库官方离线安装包【2019/03/18】（Windows 10 已经自带）](https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe) `https://www.423down.com/2545.html`
 * [shadowrocket账号试用](https://opssh.cn/fenxiang/4.html) `https://opssh.cn/fenxiang/4.html`
+*  [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)   `http://android.weiyee.cn/sheep/` 下载
 
