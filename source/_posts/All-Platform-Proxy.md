@@ -41,6 +41,7 @@ tags: life
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
 * [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 
 * [**letsvpn 官网**](https://letsvpn.world/)  [mediafire下载地址](https://www.mediafire.com/file/9qkxeia7ur21z4d/letvpn3.0.zip/file)  https://download.dwladold.xyz/windows/letsvpn-3.2.2.exe 
+* [快连一键破解补丁3.2.exe.zip](https://www.mediafire.com/file/wuyxj0pb4y3sgpi/%25E5%25BF%25AB%25E8%25BF%259E%25E4%25B8%2580%25E9%2594%25AE%25E7%25A0%25B4%25E8%25A7%25A3%25E8%25A1%25A5%25E4%25B8%25813.2.exe.zip/file)
 * [Proxifier教程](https://codewindy.github.io/2019/10/14/Proxifier-Setting/)
 * [ExpressVPN MOD APK 10.10.0 (Unlimited Trial)](https://apkdone.com/expressvpn/)
 * [a2zapk.com](https://a2zapk.com/History/com.expressvpn.vpn/)
@@ -52,5 +53,5 @@ tags: life
 * [gsoula.com 机场](https://gsoula.com/auth/register)
 * [.NET Framework 4.8 运行库官方离线安装包【2019/03/18】（Windows 10 已经自带）](https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe) `https://www.423down.com/2545.html`
 * [shadowrocket账号试用](https://opssh.cn/fenxiang/4.html) `https://opssh.cn/fenxiang/4.html`
-*  [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)   `http://android.weiyee.cn/sheep/` 下载
+* [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)   `http://android.weiyee.cn/sheep/` 下载
 
