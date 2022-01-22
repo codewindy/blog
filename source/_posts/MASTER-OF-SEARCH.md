@@ -12,12 +12,13 @@ MASTER OF SEARCH
 * https://sm.ms/  免费好用的图床
 * <!--more-->
 ## 下载安装后登录百度账号就可以了
-*  [pandownload ](http://pandownload.com/)下载后在里面搜索**一般用于找java开发、极客时间等资源**
-*  [亿寻v0.1.0065.zip](https://www.lanzous.com/i7xao2b)
-*  ![截图如下](https://i.loli.net/2019/09/03/SMr6m3qGyXRVAJ7.png)
+* [pandownload ](http://pandownload.com/)下载后在里面搜索**一般用于找java开发、极客时间等资源**
+* [亿寻v0.1.0065.zip](https://www.lanzous.com/i7xao2b)
+* ![截图如下](https://i.loli.net/2019/09/03/SMr6m3qGyXRVAJ7.png)
 * https://rsload.net/  一般用于下载win软件的时候使用的帐号密码都是**rsload.net**
 * ![rsload.net](https://i.loli.net/2019/09/04/mIvdk5W4yc8VZpM.png)
 * [https://jd.ma/](https://jd.ma/) 在`https://t.me/JDMa1`里面有很多百度云java等资源链接
 * [https://shikey.com/](https://t.me/shikeycom) 
 * [百度云下载加速工具](https://alkt.lanzoui.com/iDWoxgdkowf)
+* [https://www.niceso.fun/](https://www.niceso.fun/) 阿里云盘文件搜索
 
