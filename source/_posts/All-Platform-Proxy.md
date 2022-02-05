@@ -14,9 +14,9 @@ tags: life
 
   | 设备名                      | 系统          | 软件                 | shadowrocket账号                                                         |
   | --------------------------- | ------------- |------------------------------------------------------------------------| --------------------------- |
-  | Redmi k40     买偶数196g     | Android       | [pandaVPN](https://github.com/codewindy/Mikrotik-Phicomm-Backup)  everyproxy | 美国账号正常<br />fp8se6x8j@maoe.cc<br />TeUC7afmvPIFCrNlFJaK                |
-  | iPhone 8 plus          202g | IOS           | [shadowrocket](https://1.v2w.org/ios/)         | https://5ishare.xyz/ <br/>香港账号正常<br />vn7572@163.com<br />GsouSou2021 |
-  | hasee z7-kp7gz              | window 10     | [proxifier 下载](https://www.proxifier.com/download/)            | 美国账号正常<br />gvqdppbal@hotmail.com<br />Qi1122113                       |
+  | Redmi k40     买偶数196g     | Android       | [pandaVPN](https://github.com/codewindy/Mikrotik-Phicomm-Backup)  everyproxy |                 |
+  | iPhone 8 plus          202g | IOS           | [shadowrocket](https://1.v2w.org/ios/)         | 账号：lengjiao9@gmail.com<br/>密码：LengJiao0909 |
+  | hasee z7-kp7gz              | window 10     | [proxifier 下载](https://www.proxifier.com/download/)            |                        |
   | MacBook pro 2019 【黑苹果】   | macOS Big Sur | [proxifier 下载](https://macwk.com/soft/proxifier)           |                                                                        |
   | CentBrowser浏览器 | 插件 crx | [GreenHub绿墙](https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/knmhokeiipedacnhpjklbjmfgedfohco_v0.9.13.zip)  或者在https://crxdl.com/ 下载 |                                                                        |
 * 纪念一下今天早上出门过天桥摔倒了左手臂着地以及电脑包也是，到自习的地方发现左手臂一摸就很痛以及电脑转轴也坏了不影响使用但是淘宝问了一下修一次又要好几百内心很奔溃，才用了两年的新电脑摔了不完美了内心不舒服
@@ -54,4 +54,5 @@ tags: life
 * [.NET Framework 4.8 运行库官方离线安装包【2019/03/18】（Windows 10 已经自带）](https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe) `https://www.423down.com/2545.html`
 * [shadowrocket账号试用](https://opssh.cn/fenxiang/4.html) `https://opssh.cn/fenxiang/4.html` https://freeroad.org/138.html
 * [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)   `http://android.weiyee.cn/sheep/` 下载
+* [shadowrocket账户](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/ID.html)
 
