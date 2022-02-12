@@ -287,3 +287,7 @@ shopee面试 20210805
 * [面经和离职吐槽duibiao](https://duibiao.info/category/6)
 * [210道面试题笔记整理pdf下载](https://github.com/codewindy/win-toolbak/blob/master/interview210_yuque-zgpx1l.pdf)
 * [ikays.im](https://ikays.im/category/%e7%bb%bc%e5%90%88%e6%95%99%e7%a8%8b) Java资源
+* [huzb.me](http://huzb.me/2021/08/21/%E9%9B%B6%E6%95%A3%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/)
+* [Spring-data-jpa和mybatis的比较](https://www.cnblogs.com/mr-wuxiansheng/p/14491139.html)
+* [Java知识整理](https://www.yuque.com/fcant)
+* [arthas 教程](https://www.sunshanpeng.com/tags/arthas/)
