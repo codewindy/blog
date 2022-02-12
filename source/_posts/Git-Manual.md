@@ -357,5 +357,42 @@ git add -A
 git commit -am "my update msg"
 git push
 ```
+## 注释规范
+
+```
+feature：新增feature
+fix: 修复bug
+docs: 仅仅修改了文档，比如README, CHANGELOG, CONTRIBUTE等等
+sql: 新增、修改SQL文件
+style: 仅仅修改了空格、格式缩进、符号等等，不改变代码逻辑
+refactor: 代码重构，没有加新功能或者修复bug
+perf: 优化相关，比如提升性能、体验
+test: 测试用例，包括单元测试、集成测试等
+chore: 改变构建流程、或者增加依赖库、工具等
+revert: 回滚到上一个版本
+```
+
+每个commit必须包含以上注释，方便review。
+
+## 分支规范
+
+- master分支：生产分支，用于存放发布到生产环境的代码。该分支只能从其他分支合并，不能直接修改推送。
+- feature/*分支：功能分支，用来开发新功能。开发完成后合入测试或者生产分支，被合并后删除。
+- hotfix/*分支：补丁分支，用来紧急修复生产环境的缺陷。开发完成后合入测试或者生产分支，被合并后删除。
+- 环境分支：可选项，如果有要求可以加测试环境的分支，规范同生产分支。
+
+每次开发从master分支中检出，命名为feature/version_no，开发完成后通过pull request/merger request合入环境分支进行测试，最后合入master分支。上线部署后，在master分支增加版本号tag。
+
+## Label规范
+
+- feature：新功能
+- enhancement：性能优化或者功能增强
+- bug：问题修复
+- backend：后端功能（如果前后端代码都有）
+- frontend：前端功能（如果前后端代码都有）
+- 其他特性label
+
+Issues和Pull Request/Merge Request最好都加上Label，方便分类。
+
 * [git rebase教程](https://blog.csdn.net/zeng6325998/article/details/109320301?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242)
 * [git rebase push commit](https://blog.csdn.net/u010176097/article/details/96875148)
