@@ -44,6 +44,8 @@ Investment  BTC & ETH
 * 截至时间2022-01-08 又投资6300rmb 到binance.eth目前剩余资金 5400
 * ![photo_2022-01-08_16-53-06.jpg](https://s2.loli.net/2022/01/08/cRbkZtFmD8Mqyzh.jpg)
 * ![photo_2022-01-08_16-53-11.jpg](https://s2.loli.net/2022/01/08/eStDoUjkhYMlaXK.jpg)
+* 截止时间2022-02-25 加仓了19000RMB, eth/2614$ 累计持仓25400，必须要赚27000才算回本
+* [![bDtMRS.png](https://s1.ax1x.com/2022/03/06/bDtMRS.png)](https://imgtu.com/i/bDtMRS)
 # 参考
 
 * [火币](https://www.huobi.com/)
