@@ -52,7 +52,6 @@ tags: life
 * [mediafire文件上传](https://app.mediafire.com/myfiles)
 * [gsoula.com 机场](https://gsoula.com/auth/register)
 * [.NET Framework 4.8 运行库官方离线安装包【2019/03/18】（Windows 10 已经自带）](https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe) `https://www.423down.com/2545.html`
-* [shadowrocket账号试用](https://opssh.cn/fenxiang/4.html) `https://opssh.cn/fenxiang/4.html` https://freeroad.org/138.html
 * [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)   `http://android.weiyee.cn/sheep/` 下载
-* [shadowrocket账户](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/ID.html)
+* [aoxvpn小牛vpn](https://www.aoxvpn.com/zhs)
 
