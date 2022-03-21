@@ -35,6 +35,8 @@ Investment  BTC & ETH
  以后每年的买入时机以及买入金额都分批次小额处理做好仓位管理
   记住，普通的投资者，只能在上涨趋势中赚到钱。 抄底的，90%的情况下，抄底都抄在了山腰。 也就是说，大家一般赚的是右侧的钱。
   矫枉过正  市场很悲观的时候入场等机会
+  大市值龙头跌10%加一次，成长股跌20%加一次, 不出大新闻和吐槽帖坚决不入市
+  送进去一头猪领回一只鸡，买得慢卖的快盈利15%左右就可以跑
 ```
 # 收益**Yield Curve**
 * 截止2021-04-01 到2021-08-08
@@ -59,3 +61,4 @@ Investment  BTC & ETH
 * [中国经济和股市继续下行，流动行拐点加速下坠【20210519第199期】社融数据和m2的关系](https://www.youtube.com/watch?v=J_o6FAZDi9k)
 * [invest apk](https://www.yxssp.com/27760.html)
 * [coin360 heatMap](https://coin360.com/)
+* [mian5开户优惠](https://www.mian5.com/) https://www.mian5.com/

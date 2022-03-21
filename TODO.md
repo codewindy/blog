@@ -1,4 +1,7 @@
 # Todo List
+* RedMi AX6
+* rocketmq学习
+* 区块链开发视频
 * 
 
 
