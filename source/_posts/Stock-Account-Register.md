@@ -18,7 +18,7 @@ tags: btc
   | 华泰证券 | 股票万1.3，基金万0.5免五       | 参考下面的图，有门槛需要2w资金<br />https://docs.qq.com/doc/DY2FwV2VQSmR2UE55                                                                                             | 2w   |
   | 国胜证券 | 股票万1免五，基金万0.6免五     | 参考下面的图，0.01起收费<br />https://docs.qq.com/doc/DY3pFVVRVZ1V4SnhG?_t=1639820227837                                                                              | 2w   |
   
-  ![微信图片_20211218172917.jpg](https://s2.loli.net/2021/12/18/kTQwnmj8UL7c9hI.jpg)
+  ![img](https://i.bmp.ovh/imgs/2022/03/09e87000aa45205c.jpg)
 
 >  需要**注意不要用app注册**，直接点链接注册&开户完成后再用app登录，否则不是新用户无法享受低佣金优惠
 >
@@ -32,4 +32,5 @@ tags: btc
 * [华泰证券开户操作流程](https://mp.weixin.qq.com/s/EyyWMhM3BSkI0md-u5kXyw)
 * [飞书_2022年华泰证券免费开户](https://esl3hn0h21.feishu.cn/docs/doccn3nb5QNAK6oYJCRBFZyO69g#YSlzoQ)
 * [海通证券](http://note.youdao.com/s/ZZuR3VPH)
+* [https://mian5.com/](https://mian5.com/) https://github.com/codewindy/blog/issues/1
 
