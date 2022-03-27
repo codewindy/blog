@@ -1,8 +1,11 @@
 # Todo List
 * RedMi AX6
-* rocketmq学习
+* Media 洗衣机
+* Rocketmq学习
 * 区块链开发视频
-* 
+* 小马哥spring 视频
+* binance 25400 本金
+
 
 
 # DONE
