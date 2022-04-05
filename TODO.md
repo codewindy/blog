@@ -9,6 +9,7 @@
 
 
 # DONE
+* [Mybatis Log 插件](https://github.com/Link-Kou/intellij-mybaitslog) https://github.com/Link-Kou/intellij-mybaitslog
 * http://huzb.me/archives
 * https://www.cnblogs.com/mr-wuxiansheng/p/14491139.html
 * https://www.yuque.com/fcant
