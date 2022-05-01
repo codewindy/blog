@@ -35,6 +35,7 @@ tags: eth
   * 加仓别太急，一点一点加，用闲钱投资，不卖，就永远不亏，如果卖了，就是实亏了
 
   * 学会跑路，不幻想，形势不妙，要坚决。一旦你被套个 10%，你可能就舍不得出来了，其结果你可能被套 30%、40%。，牢记 5%的止损!
+  * 人生是自我实现的预言
 
   * https://www.cnblogs.com/bitterz/p/14820898.html java controller 木马制作实验 https://github.com/bitterzzZZ
 
