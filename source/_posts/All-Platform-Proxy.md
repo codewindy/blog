@@ -36,9 +36,10 @@ tags: life
 * ![3321641003085_.pic.jpg](https://s2.loli.net/2022/01/01/ZjWSPBMoOd4Ym3V.jpg)
 * ~~截至时间`2021-10-31` 老版本可以用 **PandaVPN_v1.6.2会员版.apk** ，目前`pandaVPN`已经被禁了免费试用HK节点，可以换连接稍慢的节点乌克兰-哈尔科夫,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。~~
 * ~~可以使用[**优途加速器_v1.1.29.apk**](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 秒连HK 速度还不错 流量套餐用完了已失效~~
-* 截至时间`2022-01-01` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  网速也挺快的
+* 截至时间`2022-05-01` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  和  [阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 网速也挺快的
 # 参考
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
+* [阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快
 * [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 
 * [**letsvpn 官网**](https://letsvpn.world/)  [mediafire下载地址](https://www.mediafire.com/file/9qkxeia7ur21z4d/letvpn3.0.zip/file)  https://download.dwladold.xyz/windows/letsvpn-3.2.2.exe 
 * [快连一键破解补丁3.2.exe.zip](https://www.mediafire.com/file/wuyxj0pb4y3sgpi/%25E5%25BF%25AB%25E8%25BF%259E%25E4%25B8%2580%25E9%2594%25AE%25E7%25A0%25B4%25E8%25A7%25A3%25E8%25A1%25A5%25E4%25B8%25813.2.exe.zip/file)
