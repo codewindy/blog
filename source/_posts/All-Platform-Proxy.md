@@ -30,13 +30,11 @@ tags: life
 * 在安卓手机Redmi k40 上开启无线热点
 * 最后在电脑上使用[ **proxifier** ](https://www.proxifier.com/download/)配置一下无线热点对应的ip 地址`192.168.167.5 `以及 every proxy 上配置的自定义代理端口号`1088 `就能使用了
 * 其实一开始是想着抓包或者直接Root Explore 后获取`/data/usr/0/com.pandavpn.androidproxy` 目录下找到了对应的服务器地址以及连接账号密码但是用ssr试了发现无法使用应该是被限制了而且密码是每次连接随机生成的还加上了超时机制等于是作罢
-* ![panda_VPN_2021-08-15.jpg](https://i.loli.net/2021/08/16/QOqDbYjIrzEZfsV.png)
 * 在ios 以及macos 端也可以照着这种方式实现高速刷Twitter
 * **ios端shadowrocket 在连接热点的时候手动设置http代理有的软件可能还是无法使用，最好设置socket5代理，即 点击 + 号在类型里面填socket5 并填入热点的ip 地址`192.168.167.5 `以及 every proxy 上配置的自定义代理端口号`1088` 就能使用了**
-* ![3321641003085_.pic.jpg](https://s2.loli.net/2022/01/01/ZjWSPBMoOd4Ym3V.jpg)
 * ~~截至时间`2021-10-31` 老版本可以用 **PandaVPN_v1.6.2会员版.apk** ，目前`pandaVPN`已经被禁了免费试用HK节点，可以换连接稍慢的节点乌克兰-哈尔科夫,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。~~
 * ~~可以使用[**优途加速器_v1.1.29.apk**](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 秒连HK 速度还不错 流量套餐用完了已失效~~
-* 截至时间`2022-05-01` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  和  [阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 网速也挺快的
+* 截至时间`2022-05-01` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  和  [阿特加速器_秒开4k](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 网速也挺快的
 # 参考
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
 * [阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快
@@ -55,4 +53,5 @@ tags: life
 * [.NET Framework 4.8 运行库官方离线安装包【2019/03/18】（Windows 10 已经自带）](https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe) `https://www.423down.com/2545.html`
 * [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)   `http://android.weiyee.cn/sheep/` 下载
 * [aoxvpn小牛vpn](https://www.aoxvpn.com/zhs)
+* [ustc 测速](http://test.ustc.edu.cn/)
 

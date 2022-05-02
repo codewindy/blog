@@ -5,7 +5,7 @@
 * 区块链开发视频
 * 小马哥spring 视频
 * binance 25400 本金
-* spring batch 学习
+* spring batch 分片学习
 * 
 
 
