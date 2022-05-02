@@ -12,5 +12,3 @@
 * npm 版本更新`npm install -g npm`
 * `ssh -T git@github.com -vvv` 定位github不能push
 * [harvies hexo theme](https://github.com/sabrinaluo/hexo-theme-replica) `https://harvies.github.io/2019/12/04/lin-shi-you-xiang-fu-wu-hui-zong/`临时邮件汇总 
-* [基金助手](https://denghao.me/index.php/category/chrome/)
-* [自选基金助手](https://rabt.gitee.io/funds/docs/dist/index.html#/Download)
