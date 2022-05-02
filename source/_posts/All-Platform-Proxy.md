@@ -24,7 +24,7 @@ tags: life
 
 #  步骤
 * 下载  [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 仅限 Android ，记住 隔 4h清除app 的应用数据可以无限制重新连接
-*  或者下载[**letsvpn-3.1.1.exe**](https://letsvpn.world/) 快连VPN 秒开YouTube 速度快  然后执行破解1小时无限试用[unlimited patch
+* 或者下载[**letsvpn-3.1.1.exe**](https://letsvpn.world/) 快连VPN 秒开YouTube 速度快  然后执行破解1小时无限试用[unlimited patch
 * 然后安装  [Every Proxy](https://apkpure.com/every-proxy/com.gorillasoftware.everyproxy/download?from=details) 并简单设置一下 `http 代理`或者`socket5 代理`
 * ![image.png](https://i.loli.net/2021/08/15/7ROWiqKFtPoaDJn.png)
 * 在安卓手机Redmi k40 上开启无线热点
@@ -34,6 +34,7 @@ tags: life
 * **ios端shadowrocket 在连接热点的时候手动设置http代理有的软件可能还是无法使用，最好设置socket5代理，即 点击 + 号在类型里面填socket5 并填入热点的ip 地址`192.168.167.5 `以及 every proxy 上配置的自定义代理端口号`1088` 就能使用了**
 * ~~截至时间`2021-10-31` 老版本可以用 **PandaVPN_v1.6.2会员版.apk** ，目前`pandaVPN`已经被禁了免费试用HK节点，可以换连接稍慢的节点乌克兰-哈尔科夫,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。~~
 * ~~可以使用[**优途加速器_v1.1.29.apk**](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 秒连HK 速度还不错 流量套餐用完了已失效~~
+* ![proxifier 流量代理](https://user-images.githubusercontent.com/15072465/166215662-eaee41b2-de0a-4f0b-8741-27fee6ef60c0.png)
 * 截至时间`2022-05-01` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  和  [阿特加速器_秒开4k](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 网速也挺快的
 # 参考
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
