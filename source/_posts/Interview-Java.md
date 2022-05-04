@@ -292,3 +292,19 @@ shopee面试 20210805
 * [Java知识整理](https://www.yuque.com/fcant)
 * [arthas 教程](https://www.sunshanpeng.com/tags/arthas/)  [工商银行打造在线诊断平台的探索与实践.md](https://github.com/lyghzh/pub/blob/main/doc/%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E6%89%93%E9%80%A0%E5%9C%A8%E7%BA%BF%E8%AF%8A%E6%96%AD%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)
 * [ 3-5 年 Java 的面试资源](https://www.v2ex.com/t/850159)
+* 以下是面试题和算法题
+
+* https://manbucoding.com/travel-coding/leetcode/001_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.html
+* http://www.jayh.club/#/README
+* http://notfound9.github.io/interviewGuide/#/
+* https://www.pdai.tech/
+* https://hadyang.com/interview/docs/basic/
+* https://osjobs.net/topk/all/
+* https://doocs.gitee.io/advanced-java/#/
+* https://snailclimb.gitee.io/javaguide/#/
+* https://github.com/AobingJava/JavaFamily
+* https://github.com/javagrowing/JGrowing/blob/master/JGrade.png
+* https://github.com/CyC2018/CS-Notes
+* https://github.com/xingshaocheng/architect-awesome
+* https://github.com/allentofight/easy-cs
+
