@@ -290,5 +290,5 @@ shopee面试 20210805
 * [huzb.me](http://huzb.me/2021/08/21/%E9%9B%B6%E6%95%A3%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/)
 * [Spring-data-jpa和mybatis的比较](https://www.cnblogs.com/mr-wuxiansheng/p/14491139.html)
 * [Java知识整理](https://www.yuque.com/fcant)
-* [arthas 教程](https://www.sunshanpeng.com/tags/arthas/)
-* [arthas 教程](https://www.sunshanpeng.com/tags/arthas/)
+* [arthas 教程](https://www.sunshanpeng.com/tags/arthas/)  [工商银行打造在线诊断平台的探索与实践.md](https://github.com/lyghzh/pub/blob/main/doc/%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E6%89%93%E9%80%A0%E5%9C%A8%E7%BA%BF%E8%AF%8A%E6%96%AD%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)
+* [ 3-5 年 Java 的面试资源](https://www.v2ex.com/t/850159)
