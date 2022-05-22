@@ -37,6 +37,7 @@ tags: life
 * ![proxifier 流量代理](https://user-images.githubusercontent.com/15072465/166215662-eaee41b2-de0a-4f0b-8741-27fee6ef60c0.png)
 * 截至时间`2022-05-01` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  和  [阿特加速器_秒开4k](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 网速也挺快的
 # 参考
+* [fflemon快柠檬🍋](https://fflemon.com/p/downloads) 全平台覆盖 每天签到可上网
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
 * [阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快
 * [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 
