@@ -97,8 +97,10 @@ tags:
 3、除了`count`、`sum`、`max`、`min`等少数几个函数，将计算工作放在应用层来做，把计算和存储分离。
 
 > 无状态应用迁移、扩容简单，有状态应用迁移、扩容复杂。
-
-
+##  **sql 优化**
+1、 [MySQL-性能优化最佳实践课程学习](http://dbase.cc/2017/11/09/mysql/MySQL-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/10-MySQL-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
+2、 [MySQL索引原理及慢查询优化](https://tech.meituan.com/2014/06/30/mysql-index.html)
+3、[select for update锁表](https://blog.51cto.com/javastack/4635681)
 
 ## 参考
 
