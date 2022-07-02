@@ -56,4 +56,6 @@ tags: ppt
 # 四、参考
 
 * https://cn.sli.dev/guide/ 
+* [slidev 部署到github pages](https://blog.csdn.net/be5yond/article/details/120778369)
+* [程序员的软技能时间管理](https://programmer-soft-skills.vercel.app/3)
 
