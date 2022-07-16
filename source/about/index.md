@@ -5,7 +5,7 @@ date: 2017-05-13 14:15:06
 Profile
 ---
 
-* 周鹏/男/1993
+* 周鹏/男/90后
 * 现居地:   <font style="color:black; background:yellow">深圳南山</font>
 *  **[简历详细版pdf下载](https://codewindy.github.io/resume/周鹏-Java开发-简历2021.pdf)**
 
