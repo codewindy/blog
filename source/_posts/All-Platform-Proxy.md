@@ -35,7 +35,8 @@ tags: life
 * ~~截至时间`2021-10-31` 老版本可以用 **PandaVPN_v1.6.2会员版.apk** ，目前`pandaVPN`已经被禁了免费试用HK节点，可以换连接稍慢的节点乌克兰-哈尔科夫,可以下载1.6版本或者使用`ExpressVPN`来替代, 连接时间和速度稍微差一点可能是换回miui国内版的原因吧。~~
 * ~~可以使用[**优途加速器_v1.1.29.apk**](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 秒连HK 速度还不错 流量套餐用完了已失效~~
 * ![proxifier 流量代理](https://user-images.githubusercontent.com/15072465/166215662-eaee41b2-de0a-4f0b-8741-27fee6ef60c0.png)
-* 截至时间`2022-05-01` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  和  [阿特加速器_秒开4k](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 网速也挺快的
+* 截至时间`2022-09-11` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  
+和  [安易加速器](https://www.anyi8.com/) 默认7天会员 支持android & win10 网速也挺快的
 # 参考
 * [fflemon快柠檬🍋](https://fflemon.com/p/downloads) 全平台覆盖 每天签到可上网
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
@@ -56,4 +57,5 @@ tags: life
 * [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)   `http://android.weiyee.cn/sheep/` 下载
 * [aoxvpn小牛vpn](https://www.aoxvpn.com/zhs)
 * [ustc 测速](http://test.ustc.edu.cn/)
+* [安易加速器](https://www.anyi8.com/) 默认7天会员 支持android & win10
 
