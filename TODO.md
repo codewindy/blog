@@ -7,6 +7,8 @@
 * binance 25400 本金 + 20000 +39000=94400  /balance amount= 66000 / 亏损28400
 * spring batch 分片学习
 * https://tobyqin.cn/posts/2022-07-28/a-hires-a/
+* golang 学习
+* 
 ``` sql
 https://blog.51cto.com/omaidb/4119083
 
