@@ -8,7 +8,7 @@
 * spring batch 分片学习
 * https://tobyqin.cn/posts/2022-07-28/a-hires-a/
 * golang 学习
-* 
+* 离线数仓学习hive 和dwd表加工
 ``` sql
 https://blog.51cto.com/omaidb/4119083
 
