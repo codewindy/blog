@@ -33,4 +33,5 @@ tags: btc
 * [飞书_2022年华泰证券免费开户](https://esl3hn0h21.feishu.cn/docs/doccn3nb5QNAK6oYJCRBFZyO69g#YSlzoQ)
 * [海通证券](http://note.youdao.com/s/ZZuR3VPH)
 * [https://mian5.com/](https://mian5.com/) https://github.com/codewindy/blog/issues/1
+* [https://couponhk.net/](https://couponhk.net/) 香港开户优惠
 
