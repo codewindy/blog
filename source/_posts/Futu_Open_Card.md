@@ -6,7 +6,7 @@ tags: life
 
 ## 开户送优惠券和股票
 
-# 一. 步骤
+# 一. 背景
 富途牛牛 ，领1200港币礼包专属奖励，具体步骤如下：
 1. 下载富途牛牛APP，注册登录；
 2. 输入我的专属邀请码(长按复制）：**ZVKDR2YE**
@@ -28,7 +28,7 @@ https://note.youdao.com/s/1GoLuG4c
 
 香港富途牛牛在线开户指引：
 https://note.youdao.com/s/PUkdl00o
-
+# 二. 步骤
 * ![wx chatgroup](https://user-images.githubusercontent.com/15072465/243160075-fc574cce-65e8-43c7-bf84-8dc23d7a6f47.jpg)
 * ![ftnn](https://user-images.githubusercontent.com/15072465/243160076-f15d6dc5-936e-44df-a411-164199d9458b.jpg)
 * ![4_hk_bank_app](https://user-images.githubusercontent.com/15072465/243160074-818f40da-f8b7-4133-a4f8-a45b536e5cc1.jpg)
