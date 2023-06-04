@@ -34,7 +34,7 @@ https://note.youdao.com/s/PUkdl00o
 * ![4_hk_bank_card](https://user-images.githubusercontent.com/15072465/243160004-1196345b-06f3-4630-98f4-eb06c9d1f44a.jpg)
 
 # 三. 参考
-* [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501 开始没有实体卡了
+* [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501，开始没有实体卡了，需要自己在app手动申请
 * [开卡视频教程](https://www.youtube.com/watch?v=oQASsPm0j7k)
 * [中银香港银行卡开户攻略](https://acuario.xyz/others/bochk-debit-card/)  看这个
 * [**中银香港银行卡开户攻略forecho**](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html) 
