@@ -32,7 +32,6 @@ https://note.youdao.com/s/PUkdl00o
 * ![ftnn](https://user-images.githubusercontent.com/15072465/243160076-f15d6dc5-936e-44df-a411-164199d9458b.jpg)
 * ![4_hk_bank_app](https://user-images.githubusercontent.com/15072465/243160074-818f40da-f8b7-4133-a4f8-a45b536e5cc1.jpg)
 * ![4_hk_bank_card](https://user-images.githubusercontent.com/15072465/243160004-1196345b-06f3-4630-98f4-eb06c9d1f44a.jpg)
-* ![wx chatgroup](https://user-images.githubusercontent.com/15072465/243160075-fc574cce-65e8-43c7-bf84-8dc23d7a6f47.jpg)
 
 # 三. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501 开始没有实体卡了
