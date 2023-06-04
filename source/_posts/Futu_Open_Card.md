@@ -29,10 +29,12 @@ https://note.youdao.com/s/1GoLuG4c
 香港富途牛牛在线开户指引：
 https://note.youdao.com/s/PUkdl00o
 
-* ![p9gpVXV.jpg](https://s1.ax1x.com/2023/05/14/p9gpVXV.jpg)](https://imgse.com/i/p9gpVXV)
-* ![p9gp86x.jpg](https://s1.ax1x.com/2023/05/14/p9gp86x.jpg)](https://imgse.com/i/p9gp86x)
-* ![p9gSvOf.jpg](https://s1.ax1x.com/2023/05/14/p9gSvOf.jpg)](https://imgse.com/i/p9gSvOf)
+* ![p9gpVXV.jpg](https://s1.ax1x.com/2023/05/14/p9gpVXV.jpg)
+* ![p9gp86x.jpg](https://s1.ax1x.com/2023/05/14/p9gp86x.jpg)
+
 # 三. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501 开始没有实体卡了
-* https://imgse.com/
-
+* [开卡视频教程](https://www.youtube.com/watch?v=oQASsPm0j7k)
+* [中银香港银行卡开户攻略](https://acuario.xyz/others/bochk-debit-card/) 
+* [**中银香港银行卡开户攻略forecho**](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html) 
+* [za bank open card](https://bank.za.group/hk/account-open)
