@@ -42,7 +42,7 @@ tags: life
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
 * [阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快
 * [**熊猫vpn**](https://github.com/codewindy/Mikrotik-Phicomm-Backup) 
-* [**letsvpn 官网**](https://letsvpn.world/)  [mediafire下载地址](https://www.mediafire.com/file/9qkxeia7ur21z4d/letvpn3.0.zip/file)  https://download.dwladold.xyz/windows/letsvpn-3.2.2.exe 
+* [**letsvpn 官网**](https://letsvpn.world/)  [mediafire下载地址](https://www.mediafire.com/file/9qkxeia7ur21z4d/letvpn3.0.zip/file)  https://download.dwladold.xyz/windows/letsvpn-3.2.2.exe / https://pay.eradpd.xyz/windows/letsvpn-latest.exe
 * [快连一键破解补丁3.2.exe.zip](https://www.mediafire.com/file/wuyxj0pb4y3sgpi/%25E5%25BF%25AB%25E8%25BF%259E%25E4%25B8%2580%25E9%2594%25AE%25E7%25A0%25B4%25E8%25A7%25A3%25E8%25A1%25A5%25E4%25B8%25813.2.exe.zip/file)
 * [Proxifier教程](https://codewindy.github.io/2019/10/14/Proxifier-Setting/)
 * [ExpressVPN MOD APK 10.10.0 (Unlimited Trial)](https://apkdone.com/expressvpn/)
