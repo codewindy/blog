@@ -29,3 +29,5 @@ https://blog.csdn.net/be5yond/article/details/120778369
 * alt 全选
 * [PPPOE拨号上网流程及密码窃取具体实现](https://www.cnblogs.com/sky-star/p/pppoe.html)
 * [arthas 教程](https://www.sunshanpeng.com/tags/arthas/)
+* [https://www.16personalities.com/](https://www.16personalities.com/) 性格测试
+* kitco.cn  Gold/Silver Ratio > 80 
