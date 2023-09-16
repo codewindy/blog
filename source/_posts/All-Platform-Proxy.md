@@ -16,7 +16,7 @@ tags: life
   | --------------------------- | ------------- |------------------------------------------------------------------------| --------------------------- |
   | Redmi k40     买偶数196g     | Android       | [pandaVPN](https://github.com/codewindy/Mikrotik-Phicomm-Backup)  everyproxy |                 |
   | iPhone 8 plus          202g | IOS           | [shadowrocket](https://1.v2w.org/ios/)         | 账号：lengjiao9@gmail.com<br/>密码：LengJiao0909 |
-  | hasee z7-kp7gz              | window 10     | [proxifier 下载](https://www.proxifier.com/download/)            |                        |
+  | hasee z7-kp7gz              | window 10     | [proxifier 下载](https://www.proxifier.com/download/)            | b02@balecc.com/SgK451Pn7X |
   | MacBook pro 2019 【黑苹果】   | macOS Big Sur | [proxifier 下载](https://macwk.com/soft/proxifier)           |                                                                        |
   | CentBrowser浏览器 | 插件 crx | [GreenHub绿墙](https://crxdl-1257117300.file.myqcloud.com/crx0795607d11df537/knmhokeiipedacnhpjklbjmfgedfohco_v0.9.13.zip)  或者在https://crxdl.com/ 下载 |                                                                        |
 * 纪念一下今天早上出门过天桥摔倒了左手臂着地以及电脑包也是，到自习的地方发现左手臂一摸就很痛以及电脑转轴也坏了不影响使用但是淘宝问了一下修一次又要好几百内心很奔溃，才用了两年的新电脑摔了不完美了内心不舒服
@@ -58,4 +58,5 @@ tags: life
 * [aoxvpn小牛vpn](https://www.aoxvpn.com/zhs)
 * [ustc 测速](http://test.ustc.edu.cn/)
 * [安易加速器](https://www.anyi8.com/) 默认7天会员 支持android & win10
+* [番石榴](bale.co) 
 
