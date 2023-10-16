@@ -56,6 +56,26 @@ https://note.youdao.com/s/PUkdl00o
 
 基金飞书文档：
 https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf 
+
+```shell
+资产配置：
+1货币基金：
+易方达货币基金
+
+2债券基金:
+1、20年期的美债ETF，代码：TLT
+2、投资级公司债，代码：LQD
+
+3股票基金：
+1、纳指ETF，代码：QQQ
+2、中国海外互联网ETF，代码是：KWEB 
+3、医疗保健ETF，代码：XLV
+4、消费品行业ETF：XLP 
+5、黄金ETF，股票代码：GLD 
+
+4股票：
+苹果+特斯拉+腾讯+友邦保险+可口可乐+麦当劳+粮食巨头ADM
+```
 # 三. 图示
 * ![ftnn](https://user-images.githubusercontent.com/15072465/243160076-f15d6dc5-936e-44df-a411-164199d9458b.jpg)
 * ![4_hk_bank_app](https://user-images.githubusercontent.com/15072465/243160074-818f40da-f8b7-4133-a4f8-a45b536e5cc1.jpg)
