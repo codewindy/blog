@@ -28,7 +28,7 @@ tags: life
 
 3. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户
 
-4. 注意： 带微**众银行卡在全球包括香港取现金免费**的哈
+4. 注意： 带**微众银行卡在全球包括香港取现金免费**的哈
 
 # 二. 步骤
 
@@ -53,6 +53,9 @@ https://note.youdao.com/s/1GoLuG4c
 
 香港富途牛牛在线开户指引：
 https://note.youdao.com/s/PUkdl00o
+
+基金飞书文档：
+https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf 
 # 三. 图示
 * ![ftnn](https://user-images.githubusercontent.com/15072465/243160076-f15d6dc5-936e-44df-a411-164199d9458b.jpg)
 * ![4_hk_bank_app](https://user-images.githubusercontent.com/15072465/243160074-818f40da-f8b7-4133-a4f8-a45b536e5cc1.jpg)
