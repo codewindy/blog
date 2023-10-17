@@ -11,18 +11,26 @@ tags: life
 1. 首先开香港银行卡一张（必须本人去HK）
    预约的网址 https://www.bochk.com/sc/contact/online/hkpaccountopen.html
 
-   以下是全香港地址的明细，最好选择人少的 **美孚或者葵芳地铁口**一出来就是中银香港啦
+   以下是所有中银香港的分行地址: 
+   
+   | /                | 分行地址Pdf                                                  | 作用                                                       |
+   | ---------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
+   | 中银香港中文地址 | [中银香港所有分行地址中文pdf](https://www.cashpayout.gov.hk/chi/pdf/bank/BOCHK-c.pdf) | 预约中银的时候选择美孚或葵芳或自己选分行                   |
+   | 中银香港英文地址 | [bochk_branch_list_en_pdf](https://www.bochk.com/dam/more/ccf/branch_list_en.pdf) | 英文地址方便后续在中国银行购汇后免费国际汇款的地址填写使用 |
+   
+   
+2. 最好选择人少的 **美孚或者葵芳地铁口**一出来就是中银香港啦
 
    <font style="color:black; background:yellow">**参考必看3个视频教程(看完就知道选哪个银行卡了)：** </font>
    
-   ​         ①    [0 门槛中银香港开户保姆级教程！轻松拥有一张境外银行卡](https://www.youtube.com/watch?v=frCpO_R4D7M)
+   ​         ①    [0 门槛中银香港开户保姆级教程！轻松拥有一张境外银行卡](https://v.douyin.com/idmAjXJg/) https://www.youtube.com/watch?v=frCpO_R4D7M
    
-   ​		 ②   [中银香港银行卡的开户过程手把手](https://www.youtube.com/watch?v=BLmolwWztvs&t=2s)
+   ​		 ②   [中银香港银行卡的开户过程手把手](https://v.douyin.com/idmAcM7D/) https://www.youtube.com/watch?v=BLmolwWztvs&t=2s
    
    ​         ③  [香港银行卡中银香港  zabank ]( https://v.douyin.com/ieuqDRe2/)
    
    > 众安银行za bank 邀请码： **JT78T4**
-  
+
 
 2. 富途开户指引（如何领取1600 富途返利，输入我的专属邀请码(长按复制）：ZVKDR2YE）
 
