@@ -13,7 +13,7 @@ tags: life
 
    以下是全香港地址的明细，最好选择人少的 **美孚或者葵芳地铁口**一出来就是中银香港啦
 
-   参考视频教程：
+   <font style="color:black; background:yellow">**参考必看3个视频教程(看完就知道选哪个银行卡了)：** </font>
    
    ​         ①    [0 门槛中银香港开户保姆级教程！轻松拥有一张境外银行卡](https://www.youtube.com/watch?v=frCpO_R4D7M)
    
@@ -22,7 +22,7 @@ tags: life
    ​         ③  [香港银行卡中银香港  zabank ]( https://v.douyin.com/ieuqDRe2/)
    
    > 众安银行za bank 邀请码： **JT78T4**
-
+  
 
 2. 富途开户指引（如何领取1600 富途返利，输入我的专属邀请码(长按复制）：ZVKDR2YE）
 
@@ -54,19 +54,19 @@ https://note.youdao.com/s/1GoLuG4c
 香港富途牛牛在线开户指引：
 https://note.youdao.com/s/PUkdl00o
 
-基金飞书文档：
+基金文档：
 https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf 
 
-```shell
+```sql
 资产配置：
-1货币基金：
+1 货币基金：
 易方达货币基金
 
-2债券基金:
+2 债券基金:
 1、20年期的美债ETF，代码：TLT
 2、投资级公司债，代码：LQD
 
-3股票基金：
+3 股票基金：
 1、纳指ETF，代码：QQQ
 2、中国海外互联网ETF，代码是：KWEB 
 3、医疗保健ETF，代码：XLV
@@ -87,4 +87,4 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 * [中银香港银行卡开户攻略](https://acuario.xyz/others/bochk-debit-card/)  看这个
 * [**中银香港银行卡开户攻略forecho**](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html) 
 * [za bank open card](https://bank.za.group/hk/account-open)
-* [applybankcard](https://applybankcard.com/?p=12) 银行app下载地址和介绍
+* [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
