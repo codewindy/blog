@@ -31,3 +31,4 @@ https://blog.csdn.net/be5yond/article/details/120778369
 * [arthas 教程](https://www.sunshanpeng.com/tags/arthas/)
 * [https://www.16personalities.com/](https://www.16personalities.com/) 性格测试
 * kitco.cn  Gold/Silver Ratio > 80 
+* 本金 8929   佣金 20 股款8910 2800x500 招商永隆bank 
