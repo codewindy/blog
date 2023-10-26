@@ -1,38 +1,67 @@
-name: Deploy blog
+name: CI
+
 on:
   push:
     branches:
-      - main
+      - master
+
+env:
+  GIT_USER: codewindy
+  GIT_EMAIL: bravohex@gmail.com
+  THEME_REPO: forsigner/fexo
+  THEME_BRANCH: master
+  DEPLOY_REPO: codewindy/codewindy.github.io
+  DEPLOY_BRANCH: master
+
 jobs:
-  deploy:
+  build:
+    name: Build on node ${{ matrix.node_version }} and ${{ matrix.os }}
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        node_version: [12.x]
+
     steps:
-      - name: checkout repo
+      - name: Checkout
         uses: actions/checkout@v2
-      - name: prepare node env
+
+      - name: Checkout theme repo
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ env.THEME_REPO }}
+          ref: ${{ env.THEME_BRANCH }}
+          path: themes/fexo
+
+      - name: Checkout deploy repo
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ env.DEPLOY_REPO }}
+          ref: ${{ env.DEPLOY_BRANCH }}
+          path: .deploy_git
+
+      - name: Use Node.js ${{ matrix.node_version }}
         uses: actions/setup-node@v1
         with:
-          node-version: "18.18.0"
-      - uses: webfactory/ssh-agent@v0.7.0
-        with:
-          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - name: set github profile
+          node-version: ${{ matrix.node_version }}
+
+      - name: Configuration environment
+        env:
+          HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
         run: |
-          git config --global user.name 'codewindy'
-          git config --global user.email 'bravohex@gmail.com'
-      - name: hexo generate
+          sudo timedatectl set-timezone "Asia/Shanghai"
+          mkdir -p ~/.ssh/
+          echo "$HEXO_DEPLOY_PRI" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git config --global user.name $GIT_USER
+          git config --global user.email $GIT_EMAIL
+          cp _config.theme.yml themes/fexo/_config.yml
+
+      - name: Install dependencies
         run: |
-          npm i -g hexo
-          npm i
-          hexo clean && hexo g && hexo d
-      - name: ssh remove server
-        uses: appleboy/ssh-action@v1.0.0
-        with:
-          host: ${{ secrets.SERVER_HOST }}
-          username: ${{ secrets.SERVER_USER }}
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          port: 22
-          script: |
-            cd blog
-            git pull origin gh-pages --rebase
-            sudo nginx -s reload
+          npm install
+
+      - name: Deploy hexo
+        run: |
+          npm run deploy
