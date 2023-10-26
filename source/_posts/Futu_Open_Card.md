@@ -23,7 +23,7 @@ tags: life
 
    <font style="color:black; background:yellow">**参考必看3个视频教程(看完就知道选哪个银行卡了)：** </font>
    
-   ​         ①    [0 门槛中银香港开户保姆级教程！轻松拥有一张境外银行卡](https://v.douyin.com/idmAjXJg/) [y2b_source_1](https://www.youtube.com/watch?v=frCpO_R4D7M)
+   ​         ①    [0 门槛中银香港开户保姆级教程！轻松拥有一张境外银行卡](https://v.douyin.com/idtRSnQm/) [y2b_source_1](https://www.youtube.com/watch?v=frCpO_R4D7M)
    
    ​		 ②   [中银香港银行卡的开户过程手把手](https://v.douyin.com/idmAcM7D/)  [y2b_source_2](https://www.youtube.com/watch?v=BLmolwWztvs&t=2s)
    
