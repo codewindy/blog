@@ -25,6 +25,9 @@ home_nav:
   - name: V2ex
     url: https://www.v2ex.com
     target_blank: true
+  - name: 网站统计
+    url: https://umami-chi-teal.vercel.app/share/YJWt0NZglTk6BANu/codewindy
+    target_blank: true
 #  - name: Twitter
 #    url: https://twitter.com/forsigner
 #    target_blank: true
