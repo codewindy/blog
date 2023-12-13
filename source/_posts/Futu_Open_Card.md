@@ -65,6 +65,7 @@ https://note.youdao.com/s/PUkdl00o
 基金文档：
 https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf 
 
+* [盈立证券开户，入金1万，交易一笔放30天](https://m.yxzq.com/webapp/open-account/apply.html?ICode=U01899#/register) 邀请码 **U01899**
 ```sql
 资产配置：
 1 货币基金：
@@ -75,11 +76,11 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 2、投资级公司债，代码：LQD
 
 3 股票基金：
-1、纳指ETF，代码：QQQ
-2、中国海外互联网ETF，代码是：KWEB 
-3、医疗保健ETF，代码：XLV
-4、消费品行业ETF：XLP 
-5、黄金ETF，股票代码：GLD 
+1、纳指ETF，代码： QQQ
+2、中国海外互联网ETF，代码是： KWEB 
+3、医疗保健ETF，代码： XLV
+4、消费品行业ETF： XLP 
+5、黄金ETF，股票代码： GLD 
 
 4股票：
 苹果+特斯拉+腾讯+友邦保险+可口可乐+麦当劳+粮食巨头ADM
@@ -88,6 +89,8 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 * ![ftnn](https://user-images.githubusercontent.com/15072465/243160076-f15d6dc5-936e-44df-a411-164199d9458b.jpg)
 * ![4_hk_bank_app](https://user-images.githubusercontent.com/15072465/243160074-818f40da-f8b7-4133-a4f8-a45b536e5cc1.jpg)
 * ![4_hk_bank_card](https://user-images.githubusercontent.com/15072465/243160004-1196345b-06f3-4630-98f4-eb06c9d1f44a.jpg)
+* ![usmart](https://github.com/codewindy/blog/assets/15072465/e28bef69-e9c1-4ea9-bf21-dbc0944d2bc5)
+
 
 # 四. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
