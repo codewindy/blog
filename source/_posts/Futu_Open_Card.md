@@ -100,4 +100,6 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 * [**中银香港银行卡开户攻略forecho**](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html) 
 * [za bank open card](https://bank.za.group/hk/account-open)
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
-* 
+* 中银香港 BOCHK中银香港 APP下载：<div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"><div><div>bochk官网下載安裝檔APK</div></div></a></div>
+
+
