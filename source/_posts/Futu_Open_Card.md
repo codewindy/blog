@@ -90,6 +90,8 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 * ![usmart](https://github.com/codewindy/blog/assets/15072465/e28bef69-e9c1-4ea9-bf21-dbc0944d2bc5)
 * ![bochk apk下载以及提前资料提交](https://private-user-images.githubusercontent.com/15072465/294726306-221b05cc-bfe2-46c8-9293-5205d1a0a1c8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ1OTE5MDQsIm5iZiI6MTcwNDU5MTYwNCwicGF0aCI6Ii8xNTA3MjQ2NS8yOTQ3MjYzMDYtMjIxYjA1Y2MtYmZlMi00NmM4LTkyOTMtNTIwNWQxYTBhMWM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA3VDAxNDAwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmZGY2MzQzOGQ3ZThlZmU1NjdmYWM5ZDQwZjA0MWZiMzNiZGI0OTZhYzA0NjNhOTAyYmQ0YmE1OTMzZmRlZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PEWRpW0nVeONigo2gbEXe2M8w7qqJj3serpMDwLqpNU)
   > 1. 先根据上图美孚的① [下载安卓或ios对应app](https://www.bochk.com/dam/more/mobilebanking/tc.html#download)
+  > 2. 下载后进入bochk app 内部点击`右上角的铃铛`然后点设置，可以看到`二维码扫描开户`的一栏扫描②提交个人资料
+  > 3. 提交完资料后直接可以来香港hk 美孚地铁站直接开户了
 
 # 四. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
