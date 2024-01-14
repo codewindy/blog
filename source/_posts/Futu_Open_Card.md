@@ -21,7 +21,7 @@ tags: life
    
 2. 最好选择人少的 **美孚B出口或者葵芳D出口地铁口**一出来就是中银香港啦
 
-   <font style="color:black; background:yellow">**参考必看3个视频教程(看完就知道选哪个银行卡了)：** </font>
+   <span style="color:black; background:yellow">**参考必看3个视频教程(看完就知道选哪个银行卡了)：** </span>
    
    ​         ①    [0 门槛中银香港开户保姆级教程！轻松拥有一张境外银行卡](https://v.douyin.com/idtRSnQm/) [y2b_source_1](https://www.youtube.com/watch?v=frCpO_R4D7M)
    
@@ -38,10 +38,10 @@ tags: life
 
 5. 注意： 带**微众银行卡在全球包括香港取现金免费**的,微众银行开户I类卡请联系 微信id: `lyp27636773`/手机号`13125153050`
 6. 入港开户要求：
-   1. 本人身份证
-   2. 港澳通行证
-   3. 过关小票
-   4. 地址证明 (**信用卡地址账单**或者**煤气水电费单**或者**保险单地址**或者 **房产证红本原件不能是复印件**) 注意这里的地址证明很魔幻，因为好多次只要上面3个材料即可，地址证明可有可无的，只是开户的时候支行开户人多就会触发这个要求或者身份证地址没有具体地址而是集体户的也不行
+  - [x] 本人身份证
+  - [x] 港澳通行证
+  - [x] 过关小票
+  - [x] 地址证明 ( <span style="color:black; background:yellow">**信用卡地址账单**或者**煤气水电费单**或者**保险单地址**或者 **房产证红本原件不能是复印件**</span>) 注意这里的地址证明很魔幻，因为好多次只要上面3个材料即可，地址证明可有可无的，只是开户的时候支行开户人多就会触发这个要求或者身份证地址没有具体地址而是集体户的也不行
    > 例如： 入深户了身份证是福田平安中心一楼的地址， 或者买房后身份证地址是某小区没有具体几栋几号房的都会被拒绝所以才需要提供4 里面的地址证明
 
 # 二. 步骤
@@ -58,7 +58,7 @@ tags: life
   ①匯豐控股 (0005.HK) - 15股（约850港币）
   ②亞馬遜 (NASDAQ: AMZN)  - 1股（约100美元）
   ③HK$800 電子超市禮券
--  <font style="color:black; background:yellow">**④HK$1,200 理財現金券** 选这个风险最低相当于余额宝兑换券</font>
+-  <span style="color:black; background:yellow">**④HK$1,200 理財現金券** 选这个风险最低相当于余额宝兑换券</span>
 - ⑤ 港股Lv.2 串流報價 (4個月)
   ⑥HK$1200 期權優惠 (美股期權佣金卡88美元, 美股期權深度行情卡6個月, 全美綜合報價6個月)
 
@@ -104,7 +104,7 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 
 
   > 1. 先根据上图美孚的① [下载安卓或ios对应app](https://www.bochk.com/dam/more/mobilebanking/tc.html#download) 中银香港 BOCHK中银香港 APP下载：<div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'><div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"></a></div></div>
-  > 2. <font style="color:white; background:blue">下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描②提交个人资料 </font>
+  > 2. <span style="color:white; background:blue">下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描②提交个人资料 </span>
   > 3. 提交完资料后直接可以来香港hk 美孚地铁站直接9点之前排队取号开户了
  
 # 四. 参考
