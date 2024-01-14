@@ -27,16 +27,16 @@ tags: life
    
    ​		 ②   [中银香港银行卡的开户过程手把手](https://v.douyin.com/idmAcM7D/)  [y2b_source_2](https://www.youtube.com/watch?v=BLmolwWztvs&t=2s)
    
-   ​         ③  [香港银行卡中银香港  zabank ]( https://v.douyin.com/ieuqDRe2/)
+   ​         ③  [香港银行卡中银香港  zabank ]( https://v.douyin.com/ieuqDRe2/) 支持币圈出入金
    
    > 众安银行za bank 邀请码： **JT78T4**
 
 
 3. 富途开户指引（如何领取1600 富途返利，输入我的专属邀请码(长按复制）：ZVKDR2YE）
 
-4. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户
+4. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户,感兴趣的[**请进电报群**](https://t.me/+XmyIgG47SW0zMTU1): https://t.me/+XmyIgG47SW0zMTU1
 
-5. 注意： 带**微众银行卡在全球包括香港取现金免费**的
+5. 注意： 带**微众银行卡在全球包括香港取现金免费**的,微众银行开户I类卡请联系 微信id: `lyp27636773`/手机号`13125153050`
 
 # 二. 步骤
 
