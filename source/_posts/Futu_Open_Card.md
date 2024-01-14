@@ -34,9 +34,15 @@ tags: life
 
 3. 富途开户指引（如何领取1600 富途返利，输入我的专属邀请码(长按复制）：ZVKDR2YE）
 
-4. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户,感兴趣的[**请进电报群**](https://t.me/+XmyIgG47SW0zMTU1): https://t.me/+XmyIgG47SW0zMTU1
+4. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户,感兴趣的[**请进电报群讨论**](https://t.me/+XmyIgG47SW0zMTU1): https://t.me/+XmyIgG47SW0zMTU1
 
 5. 注意： 带**微众银行卡在全球包括香港取现金免费**的,微众银行开户I类卡请联系 微信id: `lyp27636773`/手机号`13125153050`
+6. 入港开户要求：
+   1. 本人身份证
+   2. 港澳通行证
+   3. 过关小票
+   4. 地址证明 (**信用卡地址账单**或者**煤气水电费单**或者**保险单地址**或者 **房产证红本原件不能是复印件**) 注意这里的地址证明很魔幻，因为好多次只要上面3个材料即可，地址证明可有可无的，只是开户的时候支行开户人多就会触发这个要求或者身份证地址没有具体地址而是集体户的也不行
+   > 例如： 入深户了身份证是福田平安中心一楼的地址， 或者买房后身份证地址是某小区没有具体几栋几号房的都会被拒绝所以才需要提供4 里面的地址证明
 
 # 二. 步骤
 
@@ -94,7 +100,7 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
   > 1. 先根据上图美孚的① [下载安卓或ios对应app](https://www.bochk.com/dam/more/mobilebanking/tc.html#download) 中银香港 BOCHK中银香港 APP下载：<div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'><div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"></a></div></div>
   > 2. <font style="color:white; background:blue">下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描②提交个人资料 </font>
   > 3. 提交完资料后直接可以来香港hk 美孚地铁站直接9点之前排队取号开户了
-  <div></div>    
+  > 4. 输入我的专属富途牛牛开户邀请码领取奖金 **ZVKDR2YE**, 注意当最后一步提示
 # 四. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
 * [开卡视频教程](https://www.youtube.com/watch?v=oQASsPm0j7k)
