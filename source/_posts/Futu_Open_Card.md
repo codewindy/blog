@@ -71,7 +71,8 @@ https://note.youdao.com/s/PUkdl00o
 基金文档：
 https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf 
 
-#### 富途牛牛开户最后一步需要提供 **存量内地认证投资者pdf文件**
+#### 富途牛牛开户最后一步需要提供 **存量内地认证投资者pdf文件**此为央行于20231001颁发的新规[境外机构投资者境内证券期货投资资金管理规定](http://www.pbc.gov.cn/tiaofasi/144941/144979/3941920/5130102/2023111016075821696.pdf)
+
 ![photo_2024-01-14_21-50-57](https://github.com/codewindy/blog/assets/15072465/59956bd1-14c1-4bb5-b9f5-444ff2de1819)
 * 输入我的专属富途牛牛开户邀请码领取奖金 **ZVKDR2YE**, 注意当最后一步提示**存量内地认证投资者pdf文件**，请扫描以下二维码开盈立证券得到pdf
 * [盈立证券开户，入金1万，交易一笔放30天](https://m.yxzq.com/webapp/open-account/apply.html?ICode=U01899#/register) 邀请码 **U01899**
