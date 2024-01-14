@@ -112,14 +112,14 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 * [**中银香港银行卡开户攻略forecho**](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html) 
 * [za bank open card](https://bank.za.group/hk/account-open)
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
-<div>
+
 <details>
 <summary>存量内地认证投资者pdf文件</summary>
 * 富途牛牛开户最后一步需要提供 **存量内地认证投资者pdf文件**此为央行于20231001颁发的新规[境外机构投资者境内证券期货投资资金管理规定](http://www.pbc.gov.cn/tiaofasi/144941/144979/3941920/5130102/2023111016075821696.pdf)
-* ![photo_2024-01-14_21-50-57](https://github.com/codewindy/blog/assets/15072465/59956bd1-14c1-4bb5-b9f5-444ff2de1819)
+ ![photo_2024-01-14_21-50-57](https://github.com/codewindy/blog/assets/15072465/59956bd1-14c1-4bb5-b9f5-444ff2de1819)
 * 输入我的专属富途牛牛开户邀请码领取奖金 **ZVKDR2YE**, 注意当最后一步提示**存量内地认证投资者pdf文件**，请扫描以下二维码开盈立证券得到pdf
 * [盈立证券开户，入金1万，交易一笔放30天](https://m.yxzq.com/webapp/open-account/apply.html?ICode=U01899#/register) 邀请码 **U01899**
-* ![usmart](https://github.com/codewindy/blog/assets/15072465/e28bef69-e9c1-4ea9-bf21-dbc0944d2bc5)
+ ![usmart](https://github.com/codewindy/blog/assets/15072465/e28bef69-e9c1-4ea9-bf21-dbc0944d2bc5)
 </details>
 
 
