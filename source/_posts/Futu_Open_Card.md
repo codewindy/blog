@@ -73,6 +73,8 @@ https://note.youdao.com/s/PUkdl00o
 基金文档：
 https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf 
 
+富途牛牛出金 t日11点之前当日到账，否则t+1到账，入金选edda或者fps就好了
+
 ```sql
 资产配置：
 1 货币基金：
