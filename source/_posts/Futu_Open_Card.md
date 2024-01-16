@@ -1,5 +1,5 @@
 ---
-title: 富途牛牛开户送1600
+title: 富途牛牛开户送1900
 date: 2023-05-02 23:58:56
 tags: life
 ---
@@ -31,7 +31,7 @@ tags: life
    > 众安银行za bank 邀请码： **JT78T4**
 
 
-3. 富途开户指引（如何领取1600 富途返利，输入我的专属邀请码(长按复制）：ZVKDR2YE）
+3. 富途开户指引（如何领取1900 富途返利，输入我的专属邀请码(长按复制）：ZVKDR2YE）
 
 4. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户,感兴趣的[**请进电报群讨论**](https://t.me/+XmyIgG47SW0zMTU1): https://t.me/+XmyIgG47SW0zMTU1
 
@@ -47,22 +47,20 @@ tags: life
 
 # 二. 步骤
 
-富途牛牛 ，领1200港币礼包专属奖励，具体步骤如下：
-1. 下载富途牛牛APP，注册登录；
-2. 输入我的专属邀请码(长按复制）：**ZVKDR2YE**
-   （PS：须在提交开户前输入邀请码，可额外获得200港币现金券专属奖励）
+`2024/01/16`入金到账后如何领取奖励1900（富途牛牛填邀请码 **ZVKDR2YE**）
+1. 兑换码专属200港币现金奖励：入金到账1万港币后，在“富途牛牛APP-我的-我的奖励”中点击使用；已使用后3个工作日内200港币现金会返现到账（PS：开户前填写兑换码才能享受）
 
-3. 1200+港币礼包奖励包含：
-- 200港币股票现金券（输入邀请码享受）
-- 200港币现金券（交易客户专属，私信咨询）
-- 官方六选一福利：
-  ①匯豐控股 (0005.HK) - 15股（约850港币）
-  ②亞馬遜 (NASDAQ: AMZN)  - 1股（约100美元）
-  ③HK$800 電子超市禮券
--  <span style="color:black; background:yellow">**④HK$1,200 理財現金券** 选这个风险最低相当于余额宝兑换券</span>
-- ⑤ 港股Lv.2 串流報價 (4個月)
-  ⑥HK$1200 期權優惠 (美股期權佣金卡88美元, 美股期權深度行情卡6個月, 全美綜合報價6個月)
+2. 入金福利：福利1 or 福利2 选其一
+   （可复制整段内容发送到富途牛牛在线客服对话框，在APP中点击对应链接打开领取）
 
+💰福利1：赠股奖励，需留存60天
+①活动期间净入资达1W港币，送1股阿里巴巴(NYSE:BABA)
+②活动期间净入资达8W港币，再送1股谷歌(NASDAQ:GOOGL)
+领取链接：https://hk.futuhk.com/act/rewards
+
+💰福利2：5%开户奖赏
+闲置资金买入2W港币基金持仓，60天后可一次性获得持仓金额5%的回赠，上限1000港币
+领取链接：https://fund-upgrowth.futuhk.com/fego/cashplus-newusers-240199
 香港富途牛牛兑换码使用流程：
 https://note.youdao.com/s/1GoLuG4c
 
@@ -94,7 +92,7 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 苹果+特斯拉+腾讯+友邦保险+可口可乐+麦当劳+粮食巨头ADM
 ```
 # 三. 图示
-* ![ftnn](https://user-images.githubusercontent.com/15072465/243160076-f15d6dc5-936e-44df-a411-164199d9458b.jpg)
+* ![ftnn](https://private-user-images.githubusercontent.com/15072465/296554437-13bd767f-e4a2-4de7-b943-df7c2f978f02.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0MTIyNzMsIm5iZiI6MTcwNTQxMTk3MywicGF0aCI6Ii8xNTA3MjQ2NS8yOTY1NTQ0MzctMTNiZDc2N2YtZTRhMi00ZGU3LWI5NDMtZGY3YzJmOTc4ZjAyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE2VDEzMzI1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3MzA4ZjI4N2YxY2FhNGYzMGExZTAyMjc3M2I2ZjI3NTZkMWNkZDMwZDI3OWQ5YTY2MmFkY2EwN2I3YzdiODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5ZM6np1lQ4EVUwPaqhwmKu496cvFGnlgmoKBBYKu4hg)
 * ![photo_2024-01-14_21-51-04](https://github.com/codewindy/blog/assets/15072465/63d6846a-3ec8-4b74-a067-0b4b381ad093) 美孚b出口支行工作时间
 * ![参考上面图片 bochk apk下载以及提前资料提交](https://i2.100024.xyz/2024/01/08/ch7uqi.webp) 参考上面图片 bochk apk下载以及提前资料提交
 
