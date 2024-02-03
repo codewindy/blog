@@ -92,9 +92,7 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 苹果+特斯拉+腾讯+友邦保险+可口可乐+麦当劳+粮食巨头ADM
 ```
 # 三. 图示
-* ![ftnn](https://private-user-images.githubusercontent.com/15072465/296554437-13bd767f-e4a2-4de7-b943-df7c2f978f02.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0MTIyNzMsIm5iZiI6MTcwNTQxMTk3MywicGF0aCI6Ii8xNTA3MjQ2NS8yOTY1NTQ0MzctMTNiZDc2N2YtZTRhMi00ZGU3LWI5NDMtZGY3YzJmOTc4ZjAyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE2VDEzMzI1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3MzA4ZjI4N2YxY2FhNGYzMGExZTAyMjc3M2I2ZjI3NTZkMWNkZDMwZDI3OWQ5YTY2MmFkY2EwN2I3YzdiODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5ZM6np1lQ4EVUwPaqhwmKu496cvFGnlgmoKBBYKu4hg)
-* ![photo_2024-01-14_21-51-04](https://github.com/codewindy/blog/assets/15072465/63d6846a-3ec8-4b74-a067-0b4b381ad093) 美孚b出口支行工作时间
-* ![参考上面图片 bochk apk下载以及提前资料提交](https://i2.100024.xyz/2024/01/08/ch7uqi.webp) 参考上面图片 bochk apk下载以及提前资料提交
+![参考上面图片 bochk apk下载以及提前资料提交](https://i2.100024.xyz/2024/01/08/ch7uqi.webp) 参考上面图片 bochk apk下载以及提前资料提交
 
 
   > 1. 先根据上图美孚的① [下载安卓或ios对应app](https://www.bochk.com/dam/more/mobilebanking/tc.html#download) 中银香港 BOCHK中银香港 APP下载：<div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'><div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"></a></div></div>
@@ -108,13 +106,3 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 * [**中银香港银行卡开户攻略forecho**](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html) 
 * [za bank open card](https://bank.za.group/hk/account-open)
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
-* 存量内地认证投资者pdf文件
-* 富途牛牛开户最后一步需要提供 **存量内地认证投资者pdf文件**此为央行于20231001颁发的新规[境外机构投资者境内证券期货投资资金管理规定](http://www.pbc.gov.cn/tiaofasi/144941/144979/3941920/5130102/2023111016075821696.pdf)
- ![photo_2024-01-14_21-50-57](https://github.com/codewindy/blog/assets/15072465/59956bd1-14c1-4bb5-b9f5-444ff2de1819)
-* 输入我的专属富途牛牛开户邀请码领取奖金 **ZVKDR2YE**, 注意当最后一步提示**存量内地认证投资者pdf文件**，请扫描以下二维码开盈立证券得到pdf
-* [盈立证券开户，入金1万，交易一笔放30天](https://m.yxzq.com/webapp/open-account/apply.html?ICode=U01899#/register) 邀请码 **U01899**
- ![usmart](https://github.com/codewindy/blog/assets/15072465/e28bef69-e9c1-4ea9-bf21-dbc0944d2bc5)
-
-
-
-
