@@ -94,7 +94,6 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 # 三. 图示
 ![参考上面图片 bochk apk下载以及提前资料提交](https://i2.100024.xyz/2024/01/08/ch7uqi.webp) 参考上面图片 bochk apk下载以及提前资料提交
 
-
   > 1. 先根据上图美孚的① [下载安卓或ios对应app](https://www.bochk.com/dam/more/mobilebanking/tc.html#download) 中银香港 BOCHK中银香港 APP下载：<div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'><div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"></a></div></div>
   > 2. <span style="color:white; background:blue">下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描②提交个人资料 </span>
   > 3. 提交完资料后直接可以来香港hk 美孚地铁站直接9点之前排队取号开户了
