@@ -62,6 +62,7 @@ jobs:
         run: |
           npm install hexo-cli -g
           npm install -g npm
+          npm config set strict-ssl false
           npm install -f
       - name: Deploy hexo
         run: |
