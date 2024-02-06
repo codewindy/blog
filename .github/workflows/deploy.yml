@@ -49,6 +49,7 @@ jobs:
         env:
           HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
         run: |
+          npm install -g npm
           sudo timedatectl set-timezone "Asia/Shanghai"
           mkdir -p ~/.ssh/
           echo "$HEXO_DEPLOY_PRI" > ~/.ssh/id_rsa
