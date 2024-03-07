@@ -68,7 +68,8 @@ https://m.usmartsg.com/promo/overseas/sg-register.html?langType=1&HCode=n794l6&H
 或者直接搜索【新加坡盈立证券】下载
 麻烦注册，**输入邀请码：n794l6**
 
-
+【腾讯文档】长桥证券开户
+https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
 ```sql
 1. 兑换码专属200港币现金奖励：入金到账1万港币后，在“富途牛牛APP-我的-我的奖励”中点击使用；已使用后3个工作日内200港币现金会返现到账（PS：开户前填写兑换码才能享受）
 
