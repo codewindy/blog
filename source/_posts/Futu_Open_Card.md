@@ -48,28 +48,23 @@ tags: life
 
 # 二. 步骤
 
-~~`2024/02/01以后`入金到账后如何领取奖励1900（富途牛牛填邀请码 **ZVKDR2YE**）无法正常开富途牛牛了，什么时候能开等通知~~，**可以试着开盈立证券**
-🧧微信打开链接，即可办理
-
-新加坡盈立证券开户链接SG：
-https://m.usmartsg.com/promo/overseas/sg-register.html?langType=1&HCode=n794l6&HBox=1#/marketing-register
-
-1. 新手奖励
-   但对应完成6个任务激活
-   现金奖励35美金（交易一笔）
-2. **首次入金1.2万港币or1500美金 ，资金留存30天**
-   活动截止时间2024.03.21
-3. 所有新客户都享有期权零佣金活动（活动中）+0.5平台费🧧
-4. 盈立证券介绍：
-   持有香港+新加坡牌照，创始团队来自阿里巴巴，获得周大福战略投资，该集团是香港最大的企业集团之一
-5. 立证券新加坡app下载：
-   网址：https://www.usmart.sg/cn/download
-
-或者直接搜索【新加坡盈立证券】下载
-麻烦注册，**输入邀请码：n794l6**
-
 【腾讯文档】长桥证券开户
 https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
+3月企业员工专属渠道奖励
+💵 基本奖励（首次净入资2万HKD）
+700HKD股票现金卡+期权现金券5美金
+港股永久免佣 +美股永久免佣
+货币基金收益率5.5%+港股现金打新免费
+
+💵 额外渠道奖励  入金前填邀请码：621475
+领取额外： 100港币现金
+（奖励5个工作日发）
+
+**企业同学认证开户**
+https://activity.longbridgehk.com/certification?ce_redirect_lb=true&invite-code=621475&channel=HB100006
+
+![rewards](https://cdnjson.com/image/9f203566cfa827c0e938811c47b764b.0MtiA)
+
 ```sql
 1. 兑换码专属200港币现金奖励：入金到账1万港币后，在“富途牛牛APP-我的-我的奖励”中点击使用；已使用后3个工作日内200港币现金会返现到账（PS：开户前填写兑换码才能享受）
 
@@ -128,9 +123,9 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 </div></div>
 
 </div>
-  > 1. 先[下载安卓或ios对应app](https://www.bochk.com/dam/more/mobilebanking/tc.html#download) 中银香港 BOCHK/HSBC HK APP下载：<div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'><div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"></a></div></div>
-  > 2. <span style="color:white; background:blue">下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描②提交个人资料 </span>
-  > 3. 提交完资料后直接可以来香港hk直接9点之前排队取号开户了
+  * 1. 先下载安卓或ios对应app 中银香港 BOCHK/HSBC HK APP下载：<div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'><div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"></a></div></div>
+  * 2. <span style="color:white; background:blue">下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描②提交个人资料 </span>
+  * 3. 提交完资料后直接可以来香港hk直接9点之前排队取号开户了
 
 # 四. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
