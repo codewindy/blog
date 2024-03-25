@@ -1,5 +1,5 @@
 ---
-title: 富途牛牛开户送1900
+title: 香港银行卡开户记录
 date: 2023-05-02 23:58:56
 tags: life
 ---
@@ -32,12 +32,13 @@ tags: life
    > 众安银行za bank 邀请码： **JT78T4**
 
 
-3. 富途开户指引（如何领取1900 富途返利，输入我的专属邀请码(长按复制）：ZVKDR2YE）
+3. ~~富途开户指引（如何领取1900 富途返利，输入我的专属邀请码(长按复制）：ZVKDR2YE）~~
 
-4. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户,感兴趣的[**请进电报群讨论**](https://t.me/+XmyIgG47SW0zMTU1): https://t.me/+XmyIgG47SW0zMTU1
+4. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户,感兴趣的
+   > [**请进电报群讨论**](https://t.me/+XmyIgG47SW0zMTU1): https://t.me/+XmyIgG47SW0zMTU1
 
 5. 注意： 带**微众银行卡在全球包括香港取现金免费**的，中银香港卡在汇丰银行atm取钱扣了15手续费心疼`20240206`,</br>
-   微众银行开户I类卡请联系 微信id: `lyp27636773`/手机号`13125153050`
+   > 微众银行开户I类卡请联系 微信id: `lyp27636773`/手机号`13125153050`
 6. 入港开户要求：
  - [x] 本人身份证
  - [x] 港澳通行证
@@ -49,63 +50,25 @@ tags: life
 # 二. 步骤
 
 【腾讯文档】长桥证券开户
-https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
-3月企业员工专属渠道奖励
+- https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
+
+**长桥证券企业同学认证开户**
+* https://activity.longbridgehk.com/certification?ce_redirect_lb=true&invite-code=621475&channel=HB100006
+
+```sql
+开户链接：https://activity.longbridgehk.com/certification?ce_redirect_lb=true&invite-code=621475&channel=HB100006
+【腾讯文档】证券账户开户全流程指引
+https://docs.qq.com/doc/DQmFYRFNkSUVsVHZn
+欢迎新进群
+🏦 3月企业员工专属渠道奖励
 💵 基本奖励（首次净入资2万HKD）
-700HKD股票现金卡+期权现金券5美金
-港股永久免佣 +美股永久免佣
-货币基金收益率5.5%+港股现金打新免费
+1⃣️700HKD股票现金卡+期权现金券5美金
+2⃣️港股永久免佣 +美股永久免佣
+3⃣️货币基金收益率5.5%+港股现金打新免费
 
 💵 额外渠道奖励  入金前填邀请码：621475
 领取额外： 100港币现金
 （奖励5个工作日发）
-
-**企业同学认证开户**
-https://activity.longbridgehk.com/certification?ce_redirect_lb=true&invite-code=621475&channel=HB100006
-
-![rewards](https://cdnjson.com/image/9f203566cfa827c0e938811c47b764b.0MtiA)
-
-```sql
-1. 兑换码专属200港币现金奖励：入金到账1万港币后，在“富途牛牛APP-我的-我的奖励”中点击使用；已使用后3个工作日内200港币现金会返现到账（PS：开户前填写兑换码才能享受）
-
-2. 入金福利：福利1 or 福利2 选其一
-（可复制整段内容发送到富途牛牛在线客服对话框，在APP中点击对应链接打开领取）
-
-💰福利1：赠股奖励，需留存60天
-①活动期间净入资达1W港币，送1股阿里巴巴(NYSE:BABA)
-②活动期间净入资达8W港币，再送1股谷歌(NASDAQ:GOOGL)
-领取链接：https://hk.futuhk.com/act/rewards
-
-💰福利2：5%开户奖赏
-闲置资金买入2W港币基金持仓，60天后可一次性获得持仓金额5%的回赠，上限1000港币
-领取链接：https://fund-upgrowth.futuhk.com/fego/cashplus-newusers-240199
-香港富途牛牛兑换码使用流程：
-https://note.youdao.com/s/1GoLuG4c
-
-香港富途牛牛在线开户指引：
-https://note.youdao.com/s/PUkdl00o
-
-基金文档：
-https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf 
-
-富途牛牛出金 t日11点之前当日到账，否则t+1到账，入金选edda或者fps就好了
-资产配置：
-1 货币基金：
-易方达货币基金
-
-2 债券基金:
-1、20年期的美债ETF，代码：TLT
-2、投资级公司债，代码：LQD
-
-3 股票基金：
-1、纳指ETF，代码： QQQ
-2、中国海外互联网ETF，代码是： KWEB 
-3、医疗保健ETF，代码： XLV
-4、消费品行业ETF： XLP 
-5、黄金ETF，股票代码： GLD 
-
-4股票：
-苹果+特斯拉+腾讯+友邦保险+可口可乐+麦当劳+粮食巨头ADM
 
 ```
 # 三. 图示
@@ -123,9 +86,9 @@ https://futu.feishu.cn/docx/L0Zzd5MT1oaIWPxrbjacPni0nMf
 </div></div>
 
 </div>
-  * 1. 先下载安卓或ios对应app 中银香港 BOCHK/HSBC HK APP下载：<div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'><div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"></a></div></div>
-  * 2. <span style="color:white; background:blue">下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描②提交个人资料 </span>
-  * 3. 提交完资料后直接可以来香港hk直接9点之前排队取号开户了
+   1. 先下载安卓或ios对应app 中银香港 BOCHK/HSBC HK APP下载：<div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'><div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"></a></div></div>
+   2. 下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描②提交个人资料 <br/>
+   3. 提交完资料后直接可以来香港hk直接9点之前排队取号开户了
 
 # 四. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
