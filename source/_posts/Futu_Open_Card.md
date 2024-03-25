@@ -49,16 +49,13 @@ tags: life
 
 # 二. 步骤
 
-【腾讯文档】长桥证券开户
-- https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
+**【腾讯文档】长桥证券开户**
+- 汇丰银行卡取美元以及开户流程文档 https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
 
 **长桥证券企业同学认证开户**
 * https://activity.longbridgehk.com/certification?ce_redirect_lb=true&invite-code=621475&channel=HB100006
 
 ```sql
-开户链接：https://activity.longbridgehk.com/certification?ce_redirect_lb=true&invite-code=621475&channel=HB100006
-【腾讯文档】证券账户开户全流程指引
-https://docs.qq.com/doc/DQmFYRFNkSUVsVHZn
 欢迎新进群
 🏦 3月企业员工专属渠道奖励
 💵 基本奖励（首次净入资2万HKD）
