@@ -57,11 +57,11 @@ tags: life
 
 ```sql
 欢迎新进群
-🏦 3月企业员工专属渠道奖励
-💵 基本奖励（首次净入资2万HKD）
-1⃣️700HKD股票现金卡+期权现金券5美金
-2⃣️港股永久免佣 +美股永久免佣
-3⃣️货币基金收益率5.5%+港股现金打新免费
+3月企业员工专属渠道奖励
+基本奖励（首次净入资2万HKD）
+1 700HKD股票现金卡+期权现金券5美金
+2 港股永久免佣 +美股永久免佣
+3 货币基金收益率5.5%+港股现金打新免费
 
 💵 额外渠道奖励  入金前填邀请码：621475
 领取额外： 100港币现金
@@ -77,9 +77,9 @@ tags: life
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
 <div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'>
-<a href="https://apps.apple.com/app/apple-store/id1164066737?pt=118152957&amp;ct=APPLE_PWS_SC_DCM21311_5&amp;mt=8"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apple-tc.png" alt="" class="wp-image-62" style="object-fit:cover;width:168px;height:48px"></a><a href="https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-google-tc-1.png" alt="" class="wp-image-63" style="object-fit:cover;width:168px;height:48px"></a>
-<a href="https://m.mobilex-static.hsbc.com.hk/apk/3.38.2/23090207/SIGNED-hongkong-production-3.38.2-92692-secure-release-5.rasp.apk"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apk-tc.png" alt="" class="wp-image-64" style="object-fit:cover;width:168px;height:48px"></a>
-<a href="https://www.hsbc.com.hk/zh-cn/"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/hongkong-hsbc-logo-sc.png" alt="" class="wp-image-87" style="object-fit:cover;width:160px;height:48px"></a>
+<a href="https://apps.apple.com/app/apple-store/id1164066737?pt=118152957&amp;ct=APPLE_PWS_SC_DCM21311_5&amp;mt=8"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apple-tc.png" alt="" class="wp-image-62" style="object-fit:cover;width:168px;height:48px"></a><a href="https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-google-tc-1.png" alt="" class="wp-image-63" style="object-fit:cover;width:168px;height:42px"></a>
+<a href="https://m.mobilex-static.hsbc.com.hk/apk/3.38.2/23090207/SIGNED-hongkong-production-3.38.2-92692-secure-release-5.rasp.apk"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apk-tc.png" alt="" class="wp-image-64" style="object-fit:cover;width:168px;height:42px"></a>
+<a href="https://www.hsbc.com.hk/zh-cn/"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/hongkong-hsbc-logo-sc.png" alt="" class="wp-image-87" style="object-fit:cover;width:160px;height:42px"></a>
 </div></div>
 
 </div>
