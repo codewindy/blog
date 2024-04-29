@@ -7,9 +7,9 @@ tags: life
 ## 开户送优惠券和股票
 
 # 一. 前提
-0. **可以先试着用`bochk.app `直接线上开户限额20w/天，不一定能成功但是不需要排队**
+0. **可以先试着用`bochk.apk `直接线上开户限额20w/天，不一定能成功但是不需要排队**
    * [中银香港支持手机app直接开户ClickMe](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
-1. 首先开香港银行卡一张（必须本人去HK）
+1. 如果上面线上开户失败那就要走线下了，首先开香港银行卡一张（必须本人去HK）
    预约的网址 https://www.bochk.com/sc/contact/online/hkpaccountopen.html
 
    以下是所有中银香港的分行地址: 
