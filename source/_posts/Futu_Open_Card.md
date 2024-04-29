@@ -8,7 +8,7 @@ tags: life
 
 # 一. 前提
 0. 可以先试着用bochk.app 直接线上开户限额20w/天，不一定能成功但是成功不需要排队
-   * 中银香港支持 手机app 直接开户 http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd
+   * [中银香港支持手机app直接开户](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
 1. 首先开香港银行卡一张（必须本人去HK）
    预约的网址 https://www.bochk.com/sc/contact/online/hkpaccountopen.html
 
@@ -71,15 +71,15 @@ tags: life
 ```
 # 三. 图示
 [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
-* http://mp.weixin.qq.com/s?__biz=MjM5MTM0NTgxNQ==&mid=2648635927&idx=1&sn=78d34c4e29ba3bbfeddb2c006394de87&chksm=be9ca7ef89eb2ef944a35515cac6c5403a283633877221d876da3142597f49627baf482140d4&mpshare=1&scene=24&srcid=0424jlBoyGjJkbMJ8i7rn8Rz&sharer_shareinfo=503d9e5c89a8cbcb31422231e0b86177&sharer_shareinfo_first=503d9e5c89a8cbcb31422231e0b86177#rd 这张卡的好处
-<p> 这里申请的默认是 红色的汇丰ONE 免年费的屌丝卡哈, 权益够用, 有钱的话可以升级成汇丰卓越卡权益更多要存50w</p>
+* [汇丰万事达卡](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NTgxNQ==&mid=2648635927&idx=1&sn=78d34c4e29ba3bbfeddb2c006394de87&chksm=be9ca7ef89eb2ef944a35515cac6c5403a283633877221d876da3142597f49627baf482140d4&mpshare=1&scene=24&srcid=0424jlBoyGjJkbMJ8i7rn8Rz&sharer_shareinfo=503d9e5c89a8cbcb31422231e0b86177&sharer_shareinfo_first=503d9e5c89a8cbcb31422231e0b86177#rd 这张卡的好处)
+* <p> 这里申请的默认是 红色的汇丰ONE 免年费的屌丝卡哈, 权益够用, 有钱的话可以升级成汇丰卓越卡权益更多要存50w</p>
 <img loading="lazy" decoding="async" width="299" height="187" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-union-card.png" alt="" class="wp-image-115" style="object-fit:cover;width:300px;height:187px">
 <p> APP里可以申请<strong>汇丰万事达卡</strong>，会通过邮寄方式寄到你的居住地址，默认是平邮, 记得提前下载下面的汇丰香港app </p>
-<img loading="lazy" decoding="async" width="684" height="433" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png" alt="" class="wp-image-117" style="object-fit:cover;width:300px;height:183px" srcset="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png 684w, https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card-300x190.png 300w" sizes="(max-width: 684px) 100vw, 684px">
+<img loading="lazy" decoding="async" width="684" height="433" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png" alt="" class="wp-image-117" style="object-fit:cover;width:300px;height:187px" srcset="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png 684w, https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card-300x190.png 300w" sizes="(max-width: 684px) 100vw, 684px">
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
 <div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'>
-<a href="https://apps.apple.com/app/apple-store/id1164066737?pt=118152957&amp;ct=APPLE_PWS_SC_DCM21311_5&amp;mt=8"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apple-tc.png" alt="" class="wp-image-62" style="object-fit:cover;width:168px;height:48px"></a><a href="https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-google-tc-1.png" alt="" class="wp-image-63" style="object-fit:cover;width:168px;height:42px"></a>
+<a href="https://apps.apple.com/app/apple-store/id1164066737?pt=118152957&amp;ct=APPLE_PWS_SC_DCM21311_5&amp;mt=8"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apple-tc.png" alt="" class="wp-image-62" style="object-fit:cover;width:168px;height:42px"></a><a href="https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-google-tc-1.png" alt="" class="wp-image-63" style="object-fit:cover;width:168px;height:42px"></a>
 <a href="https://m.mobilex-static.hsbc.com.hk/apk/3.38.2/23090207/SIGNED-hongkong-production-3.38.2-92692-secure-release-5.rasp.apk"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apk-tc.png" alt="" class="wp-image-64" style="object-fit:cover;width:168px;height:42px"></a>
 <a href="https://www.hsbc.com.hk/zh-cn/"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/hongkong-hsbc-logo-sc.png" alt="" class="wp-image-87" style="object-fit:cover;width:160px;height:42px"></a>
 </div></div>
@@ -93,7 +93,7 @@ tags: life
 * 开通WeChatpay HK 可以直接使用香港银行卡里面存的港币，每天消费额度很高10-100w不等，完全可以买房买车，
 * 汇丰银行支持每天深圳取rmb 8w，会扣几十块钱手续费
 * 中银香港取现额度是2w rmb，也会扣手续费，所以**直接消费用微信香港支付二维码完全免费**还有优惠券使用
-* 开通过程如下 http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484122&idx=1&sn=95f99ecd139aa12267230267b2681fee&chksm=c24db6cef53a3fd85b1c8cd350a50a03c63258368ed8b5218b3d678a04b5a478e019d9970c2d&mpshare=1&scene=24&srcid=04152zVeWxV77G2SqxPoTy5H&sharer_shareinfo=aee3a799410dfaa2219c01f29246b5ac&sharer_shareinfo_first=aee3a799410dfaa2219c01f29246b5ac#rd
+* [开通过程如下]( http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484122&idx=1&sn=95f99ecd139aa12267230267b2681fee&chksm=c24db6cef53a3fd85b1c8cd350a50a03c63258368ed8b5218b3d678a04b5a478e019d9970c2d&mpshare=1&scene=24&srcid=04152zVeWxV77G2SqxPoTy5H&sharer_shareinfo=aee3a799410dfaa2219c01f29246b5ac&sharer_shareinfo_first=aee3a799410dfaa2219c01f29246b5ac#rd)
 # 五. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
 * [开卡视频教程](https://www.youtube.com/watch?v=oQASsPm0j7k)
