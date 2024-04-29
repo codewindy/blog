@@ -7,8 +7,8 @@ tags: life
 ## 开户送优惠券和股票
 
 # 一. 前提
-0. **可以先试着用bochk.app 直接线上开户限额20w/天，不一定能成功但是不需要排队**
-   * [中银香港支持手机app直接开户](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
+0. **可以先试着用`bochk.app `直接线上开户限额20w/天，不一定能成功但是不需要排队**
+   * [中银香港支持手机app直接开户ClickMe](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
 1. 首先开香港银行卡一张（必须本人去HK）
    预约的网址 https://www.bochk.com/sc/contact/online/hkpaccountopen.html
 
@@ -69,9 +69,10 @@ tags: life
 （奖励5个工作日发）
 
 ```
+
 # 三. 图示
-* [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
 * [汇丰万事达卡](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NTgxNQ==&mid=2648635927&idx=1&sn=78d34c4e29ba3bbfeddb2c006394de87&chksm=be9ca7ef89eb2ef944a35515cac6c5403a283633877221d876da3142597f49627baf482140d4&mpshare=1&scene=24&srcid=0424jlBoyGjJkbMJ8i7rn8Rz&sharer_shareinfo=503d9e5c89a8cbcb31422231e0b86177&sharer_shareinfo_first=503d9e5c89a8cbcb31422231e0b86177#rd 这张卡的好处)
+*  [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
 
 <p> 这里申请的默认是红色的汇丰ONE免年费的屌丝卡哈,权益够用,有钱的话可以升级成汇丰卓越卡权益更多要存50w</p>
 <img loading="lazy" decoding="async" width="299" height="187" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-union-card.png" alt="" class="wp-image-115" style="object-fit:cover;width:300px;height:187px">
@@ -91,7 +92,7 @@ tags: life
    3. 提交完资料后直接可以来香港hk直接9点之前排队取号开户了
 
 # 四. 开通微信香港钱包
-* 开通WeChatpay HK 可以直接使用香港银行卡里面存的港币，每天消费额度很高10-100w不等，完全可以买房买车，
+* 开通WeChatpay HK 可以直接使用香港银行卡里面存的港币每天消费额度很高10-100w不等,完全可以买房买车
 * 汇丰银行支持每天深圳取rmb 8w，会扣几十块钱手续费
 * 中银香港取现额度是2w rmb，也会扣手续费，所以**直接消费用微信香港支付二维码完全免费**还有优惠券使用
 * [开通微信香港钱包clickMe]( http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484122&idx=1&sn=95f99ecd139aa12267230267b2681fee&chksm=c24db6cef53a3fd85b1c8cd350a50a03c63258368ed8b5218b3d678a04b5a478e019d9970c2d&mpshare=1&scene=24&srcid=04152zVeWxV77G2SqxPoTy5H&sharer_shareinfo=aee3a799410dfaa2219c01f29246b5ac&sharer_shareinfo_first=aee3a799410dfaa2219c01f29246b5ac#rd)
