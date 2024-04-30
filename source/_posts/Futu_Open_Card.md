@@ -19,7 +19,7 @@ tags: life
    | 中银香港中文地址 | [中银香港所有分行地址中文pdf](https://www.cashpayout.gov.hk/chi/pdf/bank/BOCHK-c.pdf) | 预约中银的时候选择元朗分行【新界元朗青山公路 102-108 號】 |
    | 中银香港英文地址 | [bochk_branch_list_en_pdf](https://www.bochk.com/dam/more/ccf/branch_list_en.pdf) | 英文地址方便后续在中国银行购汇后免费国际汇款的地址填写使用     |
    
-2. 最好选择人少的 **朗屏b1 出口地铁口走几步元朗分行【新界元朗青山公路 102-108 號】** 一出来就是中银香港和汇丰银行,这两个银行在一起记得先开汇丰银行现场拿卡后再去开中银这样一上午就能开完两个
+2. 最好选择人少的 **朗屏b1 出口地铁口走几步元朗分行【新界元朗青山公路 102-108 號】这条马路一共3个中银香港分行随便选一个** 一出来就是中银香港和汇丰银行,这两个银行在一起记得先开汇丰银行现场拿卡后再去开中银这样一上午就能开完两个
 3. 注意点： 汇丰的直接 walkin 就能开/ 中银香港的需要下面 6的那些地址证明哈
 
    <span style="color:black; background:yellow">**参考必看3个视频教程(看完就知道选哪个银行卡了)：** </span>
@@ -43,6 +43,8 @@ tags: life
 6. 入港开户要求（中银香港开户最好带上地址证明）：
  - [x] 本人身份证
  - [x] 港澳通行证
+ - [x] 微众银行卡/宁波银行卡/兴业银行卡（优先选webank，其余两个银行限制取港币的次数只能取3次/月，而香港的atm机器只能取4000港币/次，超过3次的非微众银行卡要收手续费15块钱）
+ - [x] 支付宝-> 境外上网 -> 填写手机号码 ->  购买流量 ->  当地漫游 28块钱一日套餐即可， 别自作聪明说有香港sim卡实际是流量卡不能接短信，银行要的是能接收短信的电话卡
  - [x] 过关小票
  - [x] 支付宝境外流量开通,支付宝里面买境外流量套餐选本地漫游大概28块钱（为了接收短信验证码的，先在内地扫码提交资料后到香港开户的时候还是需要验证码的，这个钱还是不能省）
  - [x] 地址证明 ( <span style="color:black; background:yellow">**招行信用卡地址3个月内账单**或者**煤气水电费单**或者**保险单地址**或者 **房产证红本原件不能是复印件**</span>) 注意这里的地址证明很魔幻，因为好多次只要上面3个材料即可，地址证明可有可无的，只是开户的时候支行开户人多就会触发这个要求或者身份证地址没有具体地址而是集体户的也不行
@@ -71,8 +73,8 @@ tags: life
 ```
 
 # 三. 图示
-* [汇丰万事达卡](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NTgxNQ==&mid=2648635927&idx=1&sn=78d34c4e29ba3bbfeddb2c006394de87&chksm=be9ca7ef89eb2ef944a35515cac6c5403a283633877221d876da3142597f49627baf482140d4&mpshare=1&scene=24&srcid=0424jlBoyGjJkbMJ8i7rn8Rz&sharer_shareinfo=503d9e5c89a8cbcb31422231e0b86177&sharer_shareinfo_first=503d9e5c89a8cbcb31422231e0b86177#rd 这张卡的好处)
 *  [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
+*  [汇丰万事达卡](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NTgxNQ==&mid=2648635927&idx=1&sn=78d34c4e29ba3bbfeddb2c006394de87&chksm=be9ca7ef89eb2ef944a35515cac6c5403a283633877221d876da3142597f49627baf482140d4&mpshare=1&scene=24&srcid=0424jlBoyGjJkbMJ8i7rn8Rz&sharer_shareinfo=503d9e5c89a8cbcb31422231e0b86177&sharer_shareinfo_first=503d9e5c89a8cbcb31422231e0b86177#rd)  这张卡的好处 
 
 <p> 这里申请的默认是红色的汇丰ONE免年费的屌丝卡哈,权益够用,有钱的话可以升级成汇丰卓越卡权益更多要存50w</p>
 <img loading="lazy" decoding="async" width="299" height="187" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-union-card.png" alt="" class="wp-image-115" style="object-fit:cover;width:300px;height:187px">
