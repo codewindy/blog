@@ -8,8 +8,9 @@ tags: life
 
 # 一. 前提
 0. **可以先试着用`bochk.apk `直接线上开户限额20w/天，不一定能成功但是不需要排队**
+   * 线下网点开户是100w/天转帐额度，需要提升到100w/天需要后续去香港网点面签
    * [中银香港支持手机app直接开户ClickMe](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
-1. 如果上面线上开户失败那就要走线下了，首先开香港银行卡一张（必须本人去HK）
+2. 如果上面线上开户失败那就要走线下了，首先开香港银行卡一张（必须本人去HK）
    预约的网址 https://www.bochk.com/sc/contact/online/hkpaccountopen.html
 
    以下是所有中银香港的分行地址: 
@@ -19,8 +20,8 @@ tags: life
    | 中银香港中文地址 | [中银香港所有分行地址中文pdf](https://www.cashpayout.gov.hk/chi/pdf/bank/BOCHK-c.pdf) | 预约中银的时候选择元朗分行【新界元朗青山公路 102-108 號】 |
    | 中银香港英文地址 | [bochk_branch_list_en_pdf](https://www.bochk.com/dam/more/ccf/branch_list_en.pdf) | 英文地址方便后续在中国银行购汇后免费国际汇款的地址填写使用     |
    
-2. 最好选择人少的 **朗屏b1 出口地铁口走几步元朗分行【新界元朗青山公路 102-108 號】这条马路一共3个中银香港分行随便选一个** 一出来就是中银香港和汇丰银行,这两个银行在一起记得先开汇丰银行现场拿卡后再去开中银这样一上午就能开完两个
-3. 注意点： 汇丰的直接 walkin 就能开/ 中银香港的需要下面 6的那些地址证明哈
+3. 最好选择人少的 **朗屏b1 出口地铁口走几步元朗分行【新界元朗青山公路 102-108 號】这条马路一共3个中银香港分行随便选一个** 一出来就是中银香港和汇丰银行,这两个银行在一起记得先开汇丰银行现场拿卡后再去开中银这样一上午就能开完两个
+4. 注意点： 汇丰的直接 walkin 就能开/ 中银香港的需要下面 6的那些地址证明哈
 
    <span style="color:black; background:yellow">**参考必看3个视频教程(看完就知道选哪个银行卡了)：** </span>
 
@@ -104,6 +105,6 @@ tags: life
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
 * [开卡视频教程](https://www.youtube.com/watch?v=oQASsPm0j7k)
 * [中银香港银行卡开户攻略](https://acuario.xyz/others/bochk-debit-card/)  看这个
-* [**中银香港银行卡开户攻略forecho**](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html) 
+* [中银香港银行卡开户攻略forecho](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html) 
 * [za bank open card](https://bank.za.group/hk/account-open)
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
