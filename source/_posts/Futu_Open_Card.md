@@ -81,7 +81,7 @@ tags: life
 
 <p> 这里申请的默认是红色的汇丰ONE免年费的屌丝卡哈,权益够用,有钱的话可以升级成汇丰卓越卡权益更多要存50w</p>
 <img loading="lazy" decoding="async" width="299" height="187" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-union-card.png" alt="" class="wp-image-115" style="object-fit:cover;width:300px;height:187px">
-<p> APP里可以申请<strong>汇丰万事达卡</strong>，会通过邮寄方式寄到你的居住地址，默认是平邮, 记得提前下载下面的汇丰香港app </p>
+<p> APP里可以申请<strong>汇丰万事达卡</strong>，会通过邮寄方式寄到你的居住地址(开户的是英文地址记得去官网改成中文的), 默认是平邮, 记得提前下载下面的汇丰香港app </p>
 <img loading="lazy" decoding="async" width="684" height="433" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png" alt="" class="wp-image-117" style="object-fit:cover;width:300px;height:187px" srcset="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png 684w, https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card-300x190.png 300w" sizes="(max-width: 684px) 100vw, 684px">
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
