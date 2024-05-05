@@ -87,7 +87,7 @@ tags: life
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
 <div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'>
 <a href="https://apps.apple.com/app/apple-store/id1164066737?pt=118152957&amp;ct=APPLE_PWS_SC_DCM21311_5&amp;mt=8"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apple-tc.png" alt="" class="wp-image-62" style="object-fit:cover;width:168px;height:42px"></a><a href="https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-google-tc-1.png" alt="" class="wp-image-63" style="object-fit:cover;width:168px;height:42px"></a>
-<a href="https://m.mobilex-static.hsbc.com.hk/apk/3.45.0/24041616/SIGNED_hk.com.hsbc.hsbchkmobilebanking.apk" <img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apk-tc.png" alt="" class="wp-image-64" style="object-fit:cover;width:168px;height:42px"></a>
+<a href="https://m.mobilex-static.hsbc.com.hk/apk/3.45.0/24041616/SIGNED_hk.com.hsbc.hsbchkmobilebanking.apk" ><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apk-tc.png" alt="" class="wp-image-64" style="object-fit:cover;width:168px;height:42px"></a>
 <a href="https://www.hsbc.com.hk/zh-cn/"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/hongkong-hsbc-logo-sc.png" alt="" class="wp-image-87" style="object-fit:cover;width:160px;height:42px"></a>
 </div></div>
 
