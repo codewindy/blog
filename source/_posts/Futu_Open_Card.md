@@ -20,7 +20,7 @@ tags: life
    | 中银香港中文地址 | [中银香港所有分行地址中文pdf](https://www.cashpayout.gov.hk/chi/pdf/bank/BOCHK-c.pdf) | 预约中银的时候选择元朗分行【新界元朗青山公路 102-108 號】 |
    | 中银香港英文地址 | [bochk_branch_list_en_pdf](https://www.bochk.com/dam/more/ccf/branch_list_en.pdf) | 英文地址方便后续在中国银行购汇后免费国际汇款的地址填写使用     |
    
-3. 最好选择人少的 **朗屏b1 出口地铁口走几步元朗分行【新界元朗青山公路 102-108 號】这条马路一共3个中银香港分行随便选一个** 一出来就是中银香港和汇丰银行,这两个银行在一起记得先开汇丰银行现场拿卡后再去开中银这样一上午就能开完两个
+3. 最好选择人少的 **朗屏 C出口地铁口走几步元朗分行【新界元朗青山公路 102-108 號】这条马路一共3个中银香港分行随便选一个** 一出来就是中银香港和汇丰银行,这两个银行在一起记得先开汇丰银行现场拿卡后再去开中银这样一上午就能开完两个
 4. 注意点： 汇丰的直接 walkin 就能开/ 中银香港的需要下面 6的那些地址证明哈
 
    <span style="color:black; background:yellow">**参考必看3个视频教程(看完就知道选哪个银行卡了)：** </span>
@@ -87,7 +87,7 @@ tags: life
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
 <div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'>
 <a href="https://apps.apple.com/app/apple-store/id1164066737?pt=118152957&amp;ct=APPLE_PWS_SC_DCM21311_5&amp;mt=8"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apple-tc.png" alt="" class="wp-image-62" style="object-fit:cover;width:168px;height:42px"></a><a href="https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-google-tc-1.png" alt="" class="wp-image-63" style="object-fit:cover;width:168px;height:42px"></a>
-<a href="https://m.mobilex-static.hsbc.com.hk/apk/3.45.0/24041616/SIGNED_hk.com.hsbc.hsbchkmobilebanking.apk" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apk-tc.png" alt="" class="wp-image-64" style="object-fit:cover;width:168px;height:42px"></a>
+<a href="https://m.mobilex-static.hsbc.com.hk/apk/3.45.0/24041616/SIGNED_hk.com.hsbc.hsbchkmobilebanking.apk" <img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/icon-apk-tc.png" alt="" class="wp-image-64" style="object-fit:cover;width:168px;height:42px"></a>
 <a href="https://www.hsbc.com.hk/zh-cn/"><img decoding="async" src="https://applybankcard.com/wp-content/uploads/2023/09/hongkong-hsbc-logo-sc.png" alt="" class="wp-image-87" style="object-fit:cover;width:160px;height:42px"></a>
 </div></div>
 
