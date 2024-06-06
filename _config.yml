@@ -82,8 +82,4 @@ deploy:
   # npm install hexo-deployer-git --save
   # hexo clean  hexo g hexo s
   #https://suixinblog.cn/2018/09/hexo.html#GitHub图标设置后不能显示 github 查看不了 请去theme找issue修改这个social-icon.styl
-# 订阅 RSS
-feed:
-  type: atom
-  path: atom.xml
-  limit: false
+  
