@@ -63,15 +63,15 @@ tags: life
 
 ```sql
 欢迎新进群
-3月企业员工专属渠道奖励
+7月企业员工专属渠道奖励
 基本奖励（首次净入资2万HKD）
-1 700HKD股票现金卡+期权现金券5美金
+1 500HKD股票现金卡+期权现金券5美金
 2 港股永久免佣 +美股永久免佣
 3 货币基金收益率5.5%+港股现金打新免费
 
 💵 额外渠道奖励  入金前填邀请码：621475
-领取额外： 100港币现金
-（奖励5个工作日发）
+领取额外： 88京东卡
+（奖励2个工作日发）
 
 ```
 
@@ -106,7 +106,7 @@ tags: life
 * [开通微信香港钱包clickMe]( http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484122&idx=1&sn=95f99ecd139aa12267230267b2681fee&chksm=c24db6cef53a3fd85b1c8cd350a50a03c63258368ed8b5218b3d678a04b5a478e019d9970c2d&mpshare=1&scene=24&srcid=04152zVeWxV77G2SqxPoTy5H&sharer_shareinfo=aee3a799410dfaa2219c01f29246b5ac&sharer_shareinfo_first=aee3a799410dfaa2219c01f29246b5ac#rd)
 
 # 五. 注意
-*  开好港卡后, 银行卡fps 转账港币是免费的, 但是美元$转账 可能会扣 $2 手续费(大约15块钱rmb) 
+*  开好港卡后, 银行卡fps 转账港币是免费的, 通过中银香港转美元是免费的，其他的银行存在手续费美元$转账 可能会扣 $2 手续费(大约15块钱rmb) 
 # 六. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
 * [开卡视频教程](https://www.youtube.com/watch?v=oQASsPm0j7k)
