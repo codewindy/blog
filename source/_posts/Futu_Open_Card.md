@@ -23,7 +23,7 @@ tags: life
 
 ## 1.3 线上开中银
 
-1. 根据上面的情况，我们优先开`中银香港和汇丰银行`，中银香港分线上和线下，线上要求低一些，**可以先试着用`bochk.apk `直接线上开户限额20w/天，不一定能成功但是不需要排队**　
+1. 根据上面的情况，我们优先开`中银香港和汇丰银行`，中银香港分线上和线下，线上要求低一些，**可以先试着安装中银香港app直接线上开户限额20w/天，不一定能成功但是不需要排队**　
    * 线下开户网点是100w/天转帐额度，需要提升到100w/天需要后续去香港网点面签
    * 线上开户[中银香港支持手机app直接开户ClickMe](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
 2. 如果上面线上开户失败❌那就要走线下了，首先开香港银行卡一张（必须本人去HK）
