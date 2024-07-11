@@ -75,7 +75,7 @@ tags: life
 # 二. 步骤
 
 **【腾讯文档】长桥证券领588 和老虎证券开户领2200**
-- <span style="color:black; background:yellow">**长桥证券领588 和老虎证券开户领2200流程文档 https://docs.qq.com/doc/DTWVlZ09ISFRHenVN** </span>
+- 长桥证券领588 和老虎证券开户领2200流程文档 https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
 
 # 三. 图示
 *  [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
