@@ -82,11 +82,13 @@ tags: life
 - 长桥证券领588 和老虎证券开户领2200流程文档 https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
 
 # 三. 图示
-*  [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
-*  [汇丰万事达卡ClickMe](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NTgxNQ==&mid=2648635927&idx=1&sn=78d34c4e29ba3bbfeddb2c006394de87&chksm=be9ca7ef89eb2ef944a35515cac6c5403a283633877221d876da3142597f49627baf482140d4&mpshare=1&scene=24&srcid=0424jlBoyGjJkbMJ8i7rn8Rz&sharer_shareinfo=503d9e5c89a8cbcb31422231e0b86177&sharer_shareinfo_first=503d9e5c89a8cbcb31422231e0b86177#rd)  这张卡的好处 
+* [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
+
+* [汇丰万事达卡ClickMe](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NTgxNQ==&mid=2648635927&idx=1&sn=78d34c4e29ba3bbfeddb2c006394de87&chksm=be9ca7ef89eb2ef944a35515cac6c5403a283633877221d876da3142597f49627baf482140d4&mpshare=1&scene=24&srcid=0424jlBoyGjJkbMJ8i7rn8Rz&sharer_shareinfo=503d9e5c89a8cbcb31422231e0b86177&sharer_shareinfo_first=503d9e5c89a8cbcb31422231e0b86177#rd)  这张卡的好处 
 
 <p> 这里申请的默认是红色的汇丰ONE免年费的屌丝卡哈,权益够用,有钱的话可以升级成汇丰卓越卡权益更多要存50w</p>
 <img loading="lazy" decoding="async" width="299" height="187" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-union-card.png" alt="" class="wp-image-115" style="object-fit:cover;width:300px;height:187px">
+
 <p> APP里可以申请<strong>汇丰万事达卡</strong>，会通过邮寄方式寄到你的居住地址(开户的是英文地址记得去官网改成中文的), 默认是平邮, 记得提前下载下面的汇丰香港app </p>
 <img loading="lazy" decoding="async" width="684" height="433" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png" alt="" class="wp-image-117" style="object-fit:cover;width:300px;height:187px" srcset="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png 684w, https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card-300x190.png 300w" sizes="(max-width: 684px) 100vw, 684px">
 
@@ -100,8 +102,8 @@ tags: life
 
 </div>
    1. 先下载安卓或ios对应app 中银香港 BOCHK/HSBC HK APP下载：<div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'><div><a href="https://apps.apple.com/hk/app/id1534534188" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-store.png" alt="App Store" width="168" height="48"></a></div><a href="https://appgallery.huawei.com/#/app/C103078065" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-app-gallery.png" alt="App Gallery" width="168" height="48"></a><div><a href="https://play.google.com/store/apps/details?id=com.bochk.app.aos" target="_blank" rel="noreferrer"><img src="https://www.bochk.com/dam/more/mobilebanking/images/download-google-play.png" alt="Google Play" width="168" height="48"></a></div><div><a href="https://mba.bochk.com/release/bochk_main20.apk" target="_blank" rel="noreferrer"><img src="https://applybankcard.com/wp-content/uploads/2023/09/boc-logo.png" alt="bochk官网下載安裝檔APK" width="68" height="48"></a></div></div>
-   2. 下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描②提交个人资料 <br/>
-   3. 提交完资料后直接可以来香港hk直接9点之前排队取号开户了
+   2. 下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描 元朗青山分行的 二维码提交个人资料 <br/>
+   3. 提交完资料后直接可以来香港hk直接9点之前排队取号开户了，注意要提前预约最好，不预约walk in 开户需要等很久
 
 # 四. 开通微信香港钱包
 * 开通WeChatpay HK 可以直接使用香港银行卡里面存的港币每天消费额度很高10-100w不等,完全可以买房买车
