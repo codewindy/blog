@@ -14,7 +14,7 @@ tags: life
 | ------------ | -------- | ---------- | ------------------------------------------------------------ |
 | 中银香港     | ✅        | /          | 最好提前预约且带上地址证明，线上开户的时候记得在地址后面加上你的手机号码，防止后面给你寄送银行卡丢失补寄麻烦且费时 |
 | 汇丰银行     | ✅        | /          | 只需要      `身份证/港澳通行证`      即可开户，提前将地址翻译成英文且最后补上手机号码，也是防止后面给你寄送银行卡丢失补寄麻烦且费时 |
-| 众安银行     | ✅        | **JT78T4** | 同汇丰，开户即可得500 港币                                   |
+| 众安银行     | ✅        | **JT78T4** | 同汇丰，开户即可得500 港币，绑定WeChatPayHK 之后买京东e卡返现 |
 | 天星银行     | ✅        |            | 开户送200港币，绑定WeChatpayHK可以直接消费                   |
 | 工银亚洲     | ❌        | /          | 需要在微信公众号预约后才能开，大陆可以取rmb免费              |
 | 恒生银行     | ❌        | /          | 开了汇丰跟这个差不多，属于汇丰，跟汇丰可以相互取现           |
@@ -27,15 +27,19 @@ tags: life
    * 线下开户网点是100w/天转帐额度，需要提升到100w/天需要后续去香港网点面签
    * 线上开户[中银香港支持手机app直接开户ClickMe](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
 2. 如果上面线上开户失败❌那就要走线下了，首先开香港银行卡一张（必须本人去HK）
-   预约的网址 https://www.bochk.com/sc/contact/online/hkpaccountopen.html
+
+  | 预约方式                                                     | 是否推荐   |                                                              |
+   | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+   | 通过PC浏览器预约                                             | ❌        | 预约网址https://www.bochk.com/sc/contact/online/hkpaccountopen.html |
+   | <span style="color:black; background:yellow">**中银香港微信公众号**</span> | ✅        | 微信公众号预约可以预约周六早上 https://transaction.bochk.com/whk/form/openAccount/input.action?lang=zh_HK |
 
    以下是所有中银香港的分行地址: 
-   
+
    | /                | 分行地址Pdf                                                  | 作用                                |
    | ---------------- |-----------------------------------| ---------------------------------------------------------- |
    | 中银香港中文地址 | [中银香港所有分行地址中文pdf](https://www.cashpayout.gov.hk/chi/pdf/bank/BOCHK-c.pdf) | 预约中银的时候选择元朗分行【新界元朗青山公路 102-108 號】 |
    | 中银香港英文地址 | [bochk_branch_list_en_pdf](https://www.bochk.com/dam/more/ccf/branch_list_en.pdf) | 英文地址方便后续在中国银行购汇后免费国际汇款的地址填写使用     |
-   
+
 3. 最好选择人少的 **朗屏 C出口地铁口走几步元朗分行【新界元朗青山公路 102-108 號】这条马路一共3个中银香港分行随便选一个** 一出来就是中银香港和汇丰银行,这两个银行在一起记得先开汇丰银行现场拿卡后再去开中银这样一上午就能开完两个
 4. 注意点： 汇丰的直接 walkin 就能开/ 中银香港的需要下面 7的入港开户要求
 
@@ -51,8 +55,8 @@ tags: life
 5. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户,感兴趣的
    > [**请进电报群讨论**](https://t.me/+XmyIgG47SW0zMTU1): https://t.me/+XmyIgG47SW0zMTU1
 
-6. 注意： 带**微众银行卡在全球包括香港取现金免费不限次数**的，中银香港卡在汇丰银行atm取钱扣了15手续费`20240206`,</br>
-   
+6. 注意： 带**微众银行卡在全球包括香港取现金免费不限次数**的，中银香港卡在汇丰银行atm取钱扣了15手续费20240206   </br>
+
 7. 入港开户要求（中银香港开户最好带上地址证明）：✅
 
    | /              | 必须                                                                                                                                                                                                          | Details                                                                                                                                                                                                |
@@ -85,6 +89,7 @@ tags: life
 <img loading="lazy" decoding="async" width="299" height="187" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-union-card.png" alt="" class="wp-image-115" style="object-fit:cover;width:300px;height:187px">
 <p> APP里可以申请<strong>汇丰万事达卡</strong>，会通过邮寄方式寄到你的居住地址(开户的是英文地址记得去官网改成中文的), 默认是平邮, 记得提前下载下面的汇丰香港app </p>
 <img loading="lazy" decoding="async" width="684" height="433" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png" alt="" class="wp-image-117" style="object-fit:cover;width:300px;height:187px" srcset="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png 684w, https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card-300x190.png 300w" sizes="(max-width: 684px) 100vw, 684px">
+
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
 <div style=' max-width: 1100px;    display: -moz-box;    display: flex;    -moz-box-pack: center;    justify-content: center;    margin: 35px auto auto'>
