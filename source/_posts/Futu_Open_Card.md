@@ -124,6 +124,7 @@ tags: life
 * [za bank open card](https://bank.za.group/hk/account-open)
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
 * [https://lvse.eu.org/](https://lvse.eu.org/) 图床
-* [https://dr.leviding.com/docs/finance/prepare-proof-of-address.html](https://dr.leviding.com/docs/finance/prepare-proof-of-address.html) 如何获取地址证明
-* [https://dr.leviding.com/docs/finance/prepare-cash.html](https://dr.leviding.com/docs/finance/prepare-cash.html)  如何内地换港币现钞
-* [https://nolebase.ayaka.io/to/9305286ab6](https://nolebase.ayaka.io/to/9305286ab6) 如何更新汇丰银行地址保证寄卡能收到货 
+* [https://dr.leviding.com/docs/finance/prepare-proof-of-address.html](https://dr.leviding.com/docs/finance/prepare-proof-of-address.html) **如何获取地址证明**
+* [https://dr.leviding.com/docs/finance/prepare-cash.html](https://dr.leviding.com/docs/finance/prepare-cash.html)  **如何内地换港币现钞**
+* [https://nolebase.ayaka.io/to/9305286ab6](https://nolebase.ayaka.io/to/9305286ab6) **如何更新汇丰银行地址保证寄卡能收到货** 
+* [https://v2money.net/hsbc-mastercard-debit-card/](https://v2money.net/hsbc-mastercard-debit-card/) **如何激活汇丰万事达借记卡** 
