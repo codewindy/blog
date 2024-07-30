@@ -139,6 +139,8 @@ tags: life
 * [https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/](https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/) **如何汇丰银行开户app下载**
 * [https://bank.za.group/hk/account-open](https://bank.za.group/hk/account-open) **如何众安银行开户app下载**
 * [https://longbridge.com/hk/zh-CN/download](https://longbridge.com/hk/zh-CN/download) **如何长桥证券开户app下载**
+* [https://www.futunn.com/download/android](https://www.futunn.com/download/android) **如何富途牛牛证券开户app下载**
+* [https://www.usmart.sg/download](https://www.usmart.sg/download) **如何盈立证券开户app下载**
 * [https://tigr.link/21wymU](https://tigr.link/21wymU) **如何老虎证券开户app下载，存量用户更新**：https://www.itigerup.com/help/detail/86426640
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
 * [https://lvse.eu.org/](https://lvse.eu.org/) 图床
