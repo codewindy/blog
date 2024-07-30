@@ -135,7 +135,11 @@ tags: life
 * [开卡视频教程](https://www.youtube.com/watch?v=oQASsPm0j7k)
 * [中银香港银行卡开户攻略](https://acuario.xyz/others/bochk-debit-card/)  看这个
 * [中银香港银行卡开户攻略forecho](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html) 
-* [za bank open card](https://bank.za.group/hk/account-open)
+* [https://www.bochk.com/sc/more/ebanking/apps.html](https://www.bochk.com/sc/more/ebanking/apps.html) **如何中银香港开户app下载**
+* [https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/](https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/) **如何汇丰银行开户app下载**
+* [https://bank.za.group/hk/account-open](https://bank.za.group/hk/account-open) **如何众安银行开户app下载**
+* [https://longbridge.com/hk/zh-CN/download](https://longbridge.com/hk/zh-CN/download) **如何长桥证券开户app下载**
+* [https://tigr.link/21wymU](https://tigr.link/21wymU) **如何老虎证券开户app下载，存量用户更新**：https://www.itigerup.com/help/detail/86426640
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
 * [https://lvse.eu.org/](https://lvse.eu.org/) 图床
 * [https://dr.leviding.com/docs/finance/prepare-proof-of-address.html](https://dr.leviding.com/docs/finance/prepare-proof-of-address.html) **如何获取地址证明**
