@@ -152,4 +152,4 @@ tags: life
 * [https://dr.leviding.com/docs/finance/prepare-cash.html](https://dr.leviding.com/docs/finance/prepare-cash.html)  **如何内地换港币现钞**
 * [https://nolebase.ayaka.io/to/9305286ab6](https://nolebase.ayaka.io/to/9305286ab6) **如何更新汇丰银行地址保证寄卡能收到货** 
 * [https://v2money.net/hsbc-mastercard-debit-card/](https://v2money.net/hsbc-mastercard-debit-card/) **如何激活汇丰万事达借记卡** 
-* [https://www.cryptocurrencyhongkong.com/en/home](https://www.cryptocurrencyhongkong.com/en/home) **如何查看U实时报价** 
+* [https://www.cryptocurrencyhongkong.com/en/home](https://www.cryptocurrencyhongkong.com/en/home) **如何查看U实时报价** https://www.onesatoshi.hk/
