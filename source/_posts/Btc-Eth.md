@@ -63,4 +63,6 @@ Investment  BTC & ETH
 * [中国经济和股市继续下行，流动行拐点加速下坠【20210519第199期】社融数据和m2的关系](https://www.youtube.com/watch?v=J_o6FAZDi9k)
 * [invest apk](https://www.yxssp.com/27760.html)
 * [coin360 heatMap](https://coin360.com/)
+* [https://www.cryptocurrencyhongkong.com/en/home](https://www.cryptocurrencyhongkong.com/en/home) **如何查看U实时报价** https://www.onesatoshi.hk/
+* [https://cryptobubbles.net/](https://cryptobubbles.net/)
 * [mian5开户优惠](https://www.mian5.com/) https://www.mian5.com/
