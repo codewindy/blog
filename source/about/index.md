@@ -6,7 +6,7 @@ Profile
 ---
 
 * 周鹏/男
-* 现居地:   <font style="color:black; background:yellow">深圳南山</font>
+* 现居地:   <font style="color:black; background:white">深圳南山</font>
 *  **[简历详细版pdf下载](https://codewindy.github.io/resume/周鹏-Java开发-简历2021.pdf)**
 
 
