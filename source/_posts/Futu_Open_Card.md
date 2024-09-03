@@ -10,7 +10,7 @@ tags: life
  * 固定时间： 时间是每周六早上8 点深圳湾口岸集合
  * 固定地点： 深圳湾口岸出境大厅门口
 ## 1.2 银行卡清单
-| 名称     | 是否推荐 | 邀请码     | ATM取现 | 预约 | 备注                                                                        |
+| 名称 | 是否推荐 | 邀请码     | ATM取现 | 预约 | 备注                                                                   |
 |--------| ------ | ---------- |---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | 中银香港 | ✅      | /          | 有卡8w 无卡 1w | [BOC_HK](https://www.bochk.com/sc/contact/online/hkpaccountopen.html) | 最好提前预约且带上地址证明，线上开户的时候记得在地址后面加上你的手机号码，防止后面给你寄送银行卡丢失补寄麻烦且费时，线上开户需要在后续排队签字 |
 | 汇丰银行   | ✅      | /          | 同上  | [HSBC_HK](https://www.eticketing.hsbc.com.hk/Booking/Index/TC) | 只需要      `身份证/港澳通行证`      即可开户，提前将地址翻译成英文且最后补上手机号码，也是防止后面给你寄送银行卡丢失补寄麻烦且费时 |
@@ -100,7 +100,7 @@ tags: life
 
 **【腾讯文档】长桥证券领588 和老虎证券开户领2200， 富途牛牛领1800等**
 
--  <span style="color:white; font-weight:bold;background:#2972F4">长桥证券领588 和老虎证券开户领2200流程文档  点击</span> https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
+-  <span style="color:white; font-weight:bold;background:#2972F4">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > > </span> https://docs.qq.com/doc/DTWVlZ09ISFRHenVN
 
 # 三. 图示
 * [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
