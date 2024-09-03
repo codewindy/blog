@@ -134,9 +134,16 @@ tags: life
 
 * [开通微信香港钱包clickMe]( http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484122&idx=1&sn=95f99ecd139aa12267230267b2681fee&chksm=c24db6cef53a3fd85b1c8cd350a50a03c63258368ed8b5218b3d678a04b5a478e019d9970c2d&mpshare=1&scene=24&srcid=04152zVeWxV77G2SqxPoTy5H&sharer_shareinfo=aee3a799410dfaa2219c01f29246b5ac&sharer_shareinfo_first=aee3a799410dfaa2219c01f29246b5ac#rd)
 
-# 五. 注意美元转账收费
+# 五. 汇款注意事项
 * **换汇和内地银行卡取港币最好选择工作日，周六日的汇率银行为了避免吃亏一般会在实际汇率上额外加点，可以多个银行对比换汇，目前兴业银行是汇率最优的**
-* 开好港卡后, 银行卡fps 转账港币是免费的, 通过中银香港转美元是免费的，其他的银行存在手续费美元$转账 可能会扣 $2 手续费(大约15块钱rmb) 
+
+* 汇款到香港地址写 香港任何一家酒店的英文地址 加房间号即可
+
+  > 例如： Nathan Hotel , Room 511， 378 Nathan Road,Kowloon, Hong Kong
+
+* 汇款到香港 理由写 **私人旅游/ PRIVATE TRAVEL** 
+
+* 美元转账收费： 开好港卡后, 银行卡fps 转账港币是免费的, 通过中银香港转美元是免费的，其他的银行存在手续费美元$转账 可能会扣 $2 手续费(大约15块钱rmb) 
 
 # 六. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
