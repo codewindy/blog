@@ -108,6 +108,7 @@ tags: life
 **【腾讯文档】长桥证券领588 和老虎证券开户领2200， 富途牛牛领1800等**
 
 -  <span style="color:black; font-weight:bold;background:yellow">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > > </span> https://link3.cc/621475
+
 # 三. 图示
 * [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
 
@@ -132,7 +133,24 @@ tags: life
    2. 下载后进入bochk app 内部  点击右上角的铃铛  然后点设置，可以看到 二维码扫描开户  的一栏扫描 元朗青山分行的 二维码提交个人资料 <br/>
    3. 提交完资料后直接可以来香港hk直接9点之前排队取号开户了，注意要提前预约最好，不预约walk in 开户需要等很久
 
-# 四. 开通微信香港钱包
+# 四. 官方app下载
+
+| 新人开户app 下载    | 官网下载地址                                                 | 备注                                                         |
+| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 中银香港开户app     | https://www.bochk.com/sc/more/ebanking/apps.html             | 汇率好                                                       |
+| 汇丰银行开户 app    | https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/ | 汇丰one 卡的汇率很差                                         |
+| 众安银行开户app     | https://bank.za.group/hk/account-open                        | 汇率很差，不建议在app内买股票基金手续费4 美元一次            |
+| 长桥证券开户app     | https://longbridge.com/hk/zh-CN/download                     | 汇率差， 有平台费                                            |
+| 盈立证券开户app     | https://www.usmart.sg/download                               | 汇率差，买港美股 免平台费                                    |
+| 老虎证券开户app     | https://www.itigerup.com/help/detail/86426640                | 汇率差， 出入金很快， 有平台费                               |
+| 富途牛牛证券开户app | https://www.futunn.com/download/android                      | 汇率最好，有15 块钱平台费                                    |
+| ibkr证券开户app     | https://www.interactivebrokers.com/en/trading/tws-mobile.php#trytoday-drop | 汇率最好，免15平台费但是APP难用，每个月一次免费出金，免费的出金次数有限制 |
+| 天星银行 app        | https://www.airstarbank.com/zh-hk/signup-now.html            | 汇率最好，通过fps 转账                                       |
+
+> 货币兑换汇率最优总结：**天星=ibkr =富途牛牛=汇丰卓越（存款100w港币） > 中银香港bochk > 老虎证券 > 长桥证券 > 众安银行 > 汇丰银行 (非卓越用户0 存款)**
+
+# 五. 开通微信香港钱包
+
 * 开通WeChatpay HK 可以直接使用香港银行卡里面存的港币每天消费额度很高10-100w不等,完全可以买房买车
 
 * 汇丰银行支持每天深圳取rmb 8w，会扣几十块钱手续费
@@ -141,7 +159,7 @@ tags: life
 
 * [开通微信香港钱包clickMe]( http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484122&idx=1&sn=95f99ecd139aa12267230267b2681fee&chksm=c24db6cef53a3fd85b1c8cd350a50a03c63258368ed8b5218b3d678a04b5a478e019d9970c2d&mpshare=1&scene=24&srcid=04152zVeWxV77G2SqxPoTy5H&sharer_shareinfo=aee3a799410dfaa2219c01f29246b5ac&sharer_shareinfo_first=aee3a799410dfaa2219c01f29246b5ac#rd)
 
-# 五. 汇款注意事项
+# 六. 汇款注意事项
 * **换汇和内地银行卡取港币最好选择工作日，周六日的汇率银行为了避免吃亏一般会在实际汇率上额外加点，可以多个银行对比换汇，目前兴业银行是汇率最优的**
 
 * 汇款到香港地址写 香港任何一家酒店的英文地址 加房间号即可
@@ -152,7 +170,7 @@ tags: life
 
 * 美元转账收费： 开好港卡后, 银行卡fps 转账港币是免费的, 通过中银香港转美元是免费的，其他的银行存在手续费美元$转账 可能会扣 $2 手续费(大约15块钱rmb) 
 
-# 六. 参考
+# 七. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
 * [开卡视频教程](https://www.youtube.com/watch?v=oQASsPm0j7k)
 * [中银香港银行卡开户攻略](https://acuario.xyz/others/bochk-debit-card/)  看这个
