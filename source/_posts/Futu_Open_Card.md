@@ -105,7 +105,8 @@ tags: life
 
 **【腾讯文档】长桥证券领588 和老虎证券开户领2200， 富途牛牛领1800等**
 
--  <span style="color:black; font-weight:bold;background:yellow">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > > </span> https://link3.cc/621475
+- <span style="color:black; font-weight:bold;background:yellow">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > > </span> https://link3.cc/621475
+- 【腾讯文档】港卡福利开户记录    https://docs.qq.com/doc/DTUJxRFdhUEtRWWdK
 
 # 三. 图示
 * [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
