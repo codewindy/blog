@@ -160,7 +160,7 @@ tags: life
 * [https://tigr.link/21wymU](https://tigr.link/21wymU) **如何老虎证券开户app下载，存量用户更新**：https://www.itigerup.com/help/detail/86426640
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
 * [https://lvse.eu.org/](https://lvse.eu.org/) 图床
-* [https://telegra.ph/](https://telegra.ph/) https://telegra.ph/
+* [https://telegra.ph/](https://telegra.ph/) 文章匿名提交
 * [https://dr.leviding.com/docs/finance/prepare-proof-of-address.html](https://dr.leviding.com/docs/finance/prepare-proof-of-address.html) **如何获取地址证明**
 * [https://dr.leviding.com/docs/finance/prepare-cash.html](https://dr.leviding.com/docs/finance/prepare-cash.html)  **如何内地换港币现钞**
 * [https://nolebase.ayaka.io/to/9305286ab6](https://nolebase.ayaka.io/to/9305286ab6) **如何更新汇丰银行地址保证寄卡能收到货** 
