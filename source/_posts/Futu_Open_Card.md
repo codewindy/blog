@@ -145,7 +145,7 @@ tags: life
 | ibkr证券开户app     | https://www.interactivebrokers.com/en/trading/tws-mobile.php#trytoday-drop | 汇率最好，免15平台费但是APP难用，每个月一次免费出金，免费的出金次数有限制 |
 | 天星银行 app        | https://www.airstarbank.com/zh-hk/signup-now.html            | 汇率最好，通过fps 转账                                       |
 
-> 货币兑换汇率最优总结：**天星= 盈透证券`IBKR`(每月一次免费出金) =富途牛牛=汇丰卓越（存款100w港币） > 中银香港`bochk` > 老虎证券 > 长桥证券 > 众安银行 > 汇丰银行 (非卓越用户0 存款) **
+> 货币兑换汇率最优总结：天星= 盈透证券`IBKR`(每月一次免费出金) =富途牛牛=汇丰卓越（存款100w港币） > 中银香港`bochk` > 老虎证券 > 长桥证券 > 众安银行 > 汇丰银行 (非卓越用户0 存款) 
 
 # 五. 开通微信香港钱包
 
