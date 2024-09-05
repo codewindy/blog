@@ -12,7 +12,7 @@ tags: life
  * 福利聚合网址： https://link3.cc/621475  
  * 开户类型： 免费包开 汇丰 / 中银香港 / 众安银行 且这3张卡完全够用
  * 互助交流电报群： 请进群讨论 https://t.me/+XmyIgG47SW0zMTU1 
- * 交通： 下载CityMapper可在港查路线,  深圳湾口岸做b2 直达元朗汇丰，也可以b2p到 天水围地铁站做到郎屏 d出口下来一直走路到汇丰银行开户
+ * 交通： 下载`CityMapper`可在港查路线,  深圳湾口岸做b2 直达元朗汇丰，也可以b2p到 天水围地铁站做到郎屏 d出口下来一直走路到汇丰银行开户
 
 ## 1.2 银行卡清单
 | 名称 | 是否推荐 | 邀请码     | ATM取现 | 预约 | 备注                                                                   |
@@ -78,13 +78,13 @@ tags: life
 
 >  例如： 入深户了身份证是福田平安中心一楼的地址， 或者买房后身份证地址是某小区没有具体几栋几号房的都会被拒绝所以才需要提供地址证明, 建议最好带上哈
 
-> 记得补充手机号码防止香港平邮丢件，记得加手机号在地址后面，重要的说三遍，不然丢件了补寄银行卡费时费力
+> 记得补充手机号码防止香港平邮丢件，**记得加手机号在地址后面**，重要的说三遍，不然丢件了补寄银行卡费时费力，格式是  地址+ 手机号码
 >
-> 例如：
+> 中银香港的地址格式如下：
 >
 > 广东省深圳市南山区深圳湾科技生态园三期10A栋1306房 13766668888
 
-## 1.4 开汇丰 rmb免费换港币
+## 1.4 开汇丰 rmb 换港币无损到港卡
  * 默认先开汇丰银行, 直接早上8-9点在汇丰银行门口Walk In 排队取号即可开户成功，耗时30分钟内拿到银行卡以及密码函
  * **兴业银行购汇要比中国银行好很多,跨境汇款优先选兴业银行汇款到 汇丰银行**
  * 如果当场下卡，客户经理可能会问是否申请信用卡，一般可以申请「汇丰 Red」或「汇丰 Pulse」信用卡。如果你想申请信用卡，可以主动问客户经理，他会帮你在手机 APP 上申请，审核通过后信用卡会以平邮/挂号信的方式寄到你填的通讯地址。
@@ -93,6 +93,13 @@ tags: life
    >
    > 1. 汇丰银行walkin 是早上走第一个电梯上2楼排队取号，不是在一楼门口排队哈，这个跟中银香港有区别
    > 1. 开完汇丰户口后会收到一个密码信封，里面是默认atm机取款密码需要找atm进行密码修改然后存钱激活
+   > 1. **汇丰地址英文的格式如下**
+   >
+   >    ​	 Guangdong Province</br>
+   >
+   >    ​	 Shenzhen City</br>
+   >
+   >    ​	Room 1306, Building 10A, Phase 3, Shenzhen Bay Science and Technology Ecological Park, Nanshan 	District, 13766668888</br>
 
 ## 1.5 开工银亚洲 rmb免费回国
 
@@ -105,10 +112,10 @@ tags: life
 
 **【腾讯文档】长桥证券领588 和老虎证券开户领2200， 富途牛牛领1800等**
 
-- <span style="color:black; font-weight:bold;background:yellow">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > > </span> https://link3.cc/621475
+- 【<span style="color:black; font-weight:bold;background:yellow">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > >】 </span> https://link3.cc/621475
 - 【腾讯文档】港卡福利开户记录    https://docs.qq.com/doc/DTUJxRFdhUEtRWWdK
--  需要科学上网：  https://linktr.ee/webank88
--  优先大陆可访问：  https://link3.cc/621475
+-  【需要科学上网】：  https://linktr.ee/webank88
+-  【优先大陆可访问】：  https://link3.cc/621475
 
 # 三. 图示
 * [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
@@ -148,22 +155,22 @@ tags: life
 | ibkr证券开户app     | https://www.interactivebrokers.com/en/trading/tws-mobile.php#trytoday-drop | 汇率最好，免15平台费但是APP难用，每个月一次免费出金，免费的出金次数有限制 |
 | 天星银行 app        | https://www.airstarbank.com/zh-hk/signup-now.html            | 汇率最好，通过fps 转账                                       |
 
-> 货币兑换汇率最优总结：天星= 盈透证券`IBKR`(每月一次免费出金) =富途牛牛=汇丰卓越（存款100w港币） > 中银香港`bochk` > 老虎证券 > 长桥证券 > 众安银行 > 汇丰银行 (非卓越用户0 存款) 
+> 货币兑换汇率最优总结：**天星= 盈透证券`IBKR`(每月一次免费出金) =富途牛牛=汇丰卓越（存款100w港币） > 中银香港`bochk` > 老虎证券 > 长桥证券 > 众安银行 > 汇丰银行 (非卓越用户0 存款)** 
 
 # 五. 开通微信香港钱包
 
 * 开通WeChatpay HK 可以直接使用香港银行卡里面存的港币每天消费额度很高10-100w不等,完全可以买房买车
 
-* 汇丰银行支持每天深圳取rmb 8w，会扣几十块钱手续费
+* 汇丰银行支持每天深圳取rmb 8w
 
-* 中银香港每天深圳取现额度是2w rmb，也会扣手续费，所以**直接消费用微信香港支付二维码完全免费**还有优惠券使用
+* 中银香港每天深圳取现额度是2w rmb，所以**直接消费用微信香港支付二维码完全免费**还有优惠券使用
 
 * [开通微信香港钱包clickMe]( http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484122&idx=1&sn=95f99ecd139aa12267230267b2681fee&chksm=c24db6cef53a3fd85b1c8cd350a50a03c63258368ed8b5218b3d678a04b5a478e019d9970c2d&mpshare=1&scene=24&srcid=04152zVeWxV77G2SqxPoTy5H&sharer_shareinfo=aee3a799410dfaa2219c01f29246b5ac&sharer_shareinfo_first=aee3a799410dfaa2219c01f29246b5ac#rd)
 
 # 六. 汇款注意事项
 * **换汇和内地银行卡取港币最好选择工作日，周六日的汇率银行为了避免吃亏一般会在实际汇率上额外加点，可以多个银行对比换汇，目前兴业银行是汇率最优的**
 
-* 汇款到香港地址写 香港任何一家酒店的英文地址 加房间号即可
+* 汇款到香港地址写 香港任何一家酒店的英文地址 加房间号即可，具体可以自己谷歌一个酒店然后写英文如下
 
   > 例如： Nathan Hotel , Room 511， 378 Nathan Road,Kowloon, Hong Kong
 
