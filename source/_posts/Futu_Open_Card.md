@@ -9,7 +9,7 @@ tags: life
 ## 1.1 时间地点
  * 固定时间： 时间是每周六早上8 点深圳湾口岸集合
  * 固定地点： 深圳湾口岸出境大厅门口
- * 福利聚合网址： https://link3.cc/621475  
+ * 福利聚合网址： https://linktr.ee/webank88  
  * 开户类型： 免费包开 汇丰 / 中银香港 / 众安银行 且这3张卡完全够用
  * 互助交流电报群： 请进群讨论 https://t.me/+XmyIgG47SW0zMTU1 
  * 交通： 下载`CityMapper`可在港查路线,  深圳湾口岸做b2 直达元朗汇丰，也可以b2p到 天水围地铁站做到郎屏 d出口下来一直走路到汇丰银行开户
@@ -112,10 +112,10 @@ tags: life
 
 **【腾讯文档】长桥证券领588 和老虎证券开户领2200， 富途牛牛领1800等**
 
-- 【<span style="color:black; font-weight:bold;background:yellow">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > >】 </span> https://link3.cc/621475
-- 【腾讯文档】港卡福利开户记录    https://docs.qq.com/doc/DTUJxRFdhUEtRWWdK
+- 【<span style="color:black; font-weight:bold;background:yellow">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > >】 </span> https://linktr.ee/webank88
+- 【腾讯文档】港卡福利开户记录   https://docs.qq.com/doc/DTWtIb294TVdoSGVY
 -  【需要科学上网】：  https://linktr.ee/webank88
--  【优先大陆可访问】：  https://link3.cc/621475
+-  【优先大陆可访问】：  
 
 # 三. 图示
 * [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
@@ -199,3 +199,4 @@ tags: life
 * [https://v2money.net/hsbc-mastercard-debit-card/](https://v2money.net/hsbc-mastercard-debit-card/) **如何激活汇丰万事达借记卡** 
 * [https://www.cryptocurrencyhongkong.com/en/home](https://www.cryptocurrencyhongkong.com/en/home) **如何查看U实时报价** https://www.onesatoshi.hk/
 * [https://cryptobubbles.net/](https://cryptobubbles.net/) 
+* [https://www.sejda.com/desktop](https://www.sejda.com/desktop)  pdf修改存量证明时间的绿色软件
