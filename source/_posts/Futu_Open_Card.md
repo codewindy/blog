@@ -13,7 +13,10 @@ tags: life
  * 国内聚合网址： https://link3.cc/webank88  
  * 开户类型： 免费包开 汇丰 / 中银香港 / 众安银行 且这3张卡完全够用
  * 互助交流电报群： 请进群讨论 https://t.me/+XmyIgG47SW0zMTU1 
- * 交通： 下载   [CityMapper](https://citymapper.com/) 可在港查路线,  深圳湾口岸做b2 直达元朗汇丰，也可以b2p到 天水围地铁站做到郎屏 d出口下来一直走路到汇丰银行开户
+ * 交通： 下载   [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站做到郎屏 d出口下来一直走路到汇丰银行开户
+ * 美区Apple ID账户： [点击获取临时账户](https://ibaleyy.com/p/downloads/ios]
+ * 美区Apple ID切换教程 : 仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
+ * 安卓手机软件下载： 见底部的官网链接
 
 ## 1.2 银行卡清单
 | 名称 | 是否推荐 | 邀请码     | ATM取现 | 预约 | 备注                                                                   |
@@ -41,9 +44,9 @@ tags: life
 
 1. 根据上面的情况，我们优先开`中银香港和汇丰银行`，中银香港分线上和线下，线上要求低一些，**可以先试着安装中银香港app直接线上开户限额20w/天，不一定能成功但是不需要排队**　
    * 线下开户网点是100w/天转帐额度，需要提升到100w/天需要后续去香港网点面签
-   * 预约中银香港注意点： 提前 7 天放号，最晚只能预约 7 天后的第一个工作日或者周六营业日，凌晨 12 点放号
-   * 线上开户[中银香港支持手机app直接开户ClickMe](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
-2. 如果上面线上开户失败❌那就要走线下了，首先开香港银行卡一张（必须本人去HK）
+2. 最好预约一下，预约中银香港注意点： 提前 7 天放号，最晚只能预约 7 天后的第一个工作日或者周六营业日，凌晨 12 点放号
+   * 线上预约开户[中银香港支持手机app直接开户ClickMe](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
+
 
 | 预约方式                                                     | 是否推荐   |                                                              |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
