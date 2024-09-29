@@ -9,10 +9,10 @@ tags: life
 ## 1.1 时间地点
  * 固定时间： 时间是每周六早上8 点深圳湾口岸集合
  * 固定地点： 深圳湾口岸出境大厅门口
- * 海外聚合网址： https://linktr.ee/webank88  
- * 国内聚合网址： https://link3.cc/webank88  
+ * 海外聚合网址： [https://linktr.ee/webank88](https://linktr.ee/webank88)  
+ * 国内聚合网址： [https://link3.cc/webank88](https://link3.cc/webank88)  
  * 开户类型： 免费包开 汇丰 / 中银香港 / 众安银行 且这3张卡完全够用
- * 互助交流电报群： 请进群讨论 https://t.me/+XmyIgG47SW0zMTU1 
+ * 互助交流电报群： 请进群讨论 [https://t.me/+XmyIgG47SW0zMTU1](https://t.me/+XmyIgG47SW0zMTU1) 
  * 交通： 下载   [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站做到郎屏 d出口下来一直走路到汇丰银行开户
  * 美区Apple ID账户： [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
  * 美区Apple ID切换教程 : 仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
