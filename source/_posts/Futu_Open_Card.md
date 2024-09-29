@@ -14,7 +14,7 @@ tags: life
  * 开户类型： 免费包开 汇丰 / 中银香港 / 众安银行 且这3张卡完全够用
  * 互助交流电报群： 请进群讨论 https://t.me/+XmyIgG47SW0zMTU1 
  * 交通： 下载   [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站做到郎屏 d出口下来一直走路到汇丰银行开户
- * 美区Apple ID账户： [点击获取临时账户](https://ibaleyy.com/p/downloads/ios]
+ * 美区Apple ID账户： [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
  * 美区Apple ID切换教程 : 仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
  * 安卓手机软件下载： 见底部的官网链接
 
@@ -62,15 +62,6 @@ tags: life
 
 3. 最好选择人少的 **朗屏 D出口地铁口走几步元朗教育路分行【新界元朗青山公路 102-108 號】这条马路一共3个中银香港分行随便选一个** 一出来就是中银香港和汇丰银行,这两个银行在一起记得先开汇丰银行现场拿卡后再去开中银这样一上午就能开完两个
 4. 注意点： 汇丰的直接 walkin 就能开/ 中银香港的需要下面 7的入港开户要求
-
-   <span style="color:black; background:yellow">**参考必看3个视频教程(看完就知道选哪个银行卡了)：** </span>
-
-   | /              | 抖音视频                                                        | YouTube 视频(需要能科学上网才能看)                                      |
-   |-------------------------------------------------------------|-------------------------------------------------------------| ---------------------------------------------------------- |
-   |  ①  | [0 门槛中银香港开户保姆级教程！轻松拥有一张境外银行卡](https://v.douyin.com/idtRSnQm/) | [y2b_source_1](https://www.youtube.com/watch?v=frCpO_R4D7M) |
-   |  ②  | [中银香港银行卡的开户过程手把手](https://v.douyin.com/idmAcM7D/) | [y2b_source_2](https://www.youtube.com/watch?v=BLmolwWztvs&t=2s) |
-   |  ③ | [香港银行卡中银香港  zabank ]( https://v.douyin.com/ieuqDRe2/) 支持币圈出入金 | |
-   > 众安银行za bank 邀请码： **JT78T4**
 
 5. 感兴趣的同学随时可以跟我联系哈，手把手教学，周六陪同去香港开户,感兴趣的
    > [**请进电报群讨论**](https://t.me/+XmyIgG47SW0zMTU1): https://t.me/+XmyIgG47SW0zMTU1
