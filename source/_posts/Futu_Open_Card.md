@@ -7,16 +7,16 @@ tags: life
 # 一. 前提
 
 ## 1.1 时间地点
- * 固定时间： 时间是每周六早上8 点深圳湾口岸集合
- * 固定地点： 深圳湾口岸出境大厅门口
- * 海外聚合网址： [https://linktr.ee/webank88](https://linktr.ee/webank88)  
- * 国内聚合网址： [https://link3.cc/webank88](https://link3.cc/webank88)  
- * 开户类型： 免费包开 汇丰 / 中银香港 / 众安银行 且这3张卡完全够用
- * 互助交流电报群： 请进群讨论 [https://t.me/+XmyIgG47SW0zMTU1](https://t.me/+XmyIgG47SW0zMTU1) 
- * 交通： 下载   [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站做到郎屏 d出口下来一直走路到汇丰银行开户
- * 美区Apple ID账户： [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
- * 美区Apple ID切换教程 : 仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
- * 安卓手机软件下载： 见底部的官网链接
+ * 【固定时间】：每周六早上8 点深圳湾口岸集合
+ * 【固定地点】： 深圳湾口岸出境大厅门口
+ * 【海外聚合网址】： [https://linktr.ee/webank88](https://linktr.ee/webank88)  
+ * 【国内聚合网址】： [https://link3.cc/webank88](https://link3.cc/webank88)  
+ * 【开户类型】： 免费包开 汇丰 / 中银香港 / 众安银行 且这3张卡完全够用
+ * 【互助交流电报群】： 请进群讨论 [https://t.me/+XmyIgG47SW0zMTU1](https://t.me/+XmyIgG47SW0zMTU1) 
+ * 【交通】： 下载   [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站做到郎屏 d出口下来一直走路到汇丰银行开户
+ * 【美区Apple ID账户】： [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
+ * 【美区Apple ID切换教程】 : 仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
+ * 【安卓手机】： 软件下载见底部的官网链接
 
 ## 1.2 银行卡清单
 | 名称 | 是否推荐 | 邀请码     | ATM取现 | 预约 | 备注                                                                   |
@@ -160,6 +160,10 @@ tags: life
 | 天星银行 app        | https://www.airstarbank.com/zh-hk/signup-now.html            | 汇率最好，通过fps 转账                                       |
 
 > 货币兑换汇率最优总结：**天星= 盈透证券`IBKR`(每月一次免费出金) =富途牛牛=汇丰卓越（存款100w港币） > 中银香港`bochk` > 老虎证券 > 长桥证券 > 众安银行 > 汇丰银行 (非卓越用户0 存款)** 
+>
+> 【苹果手机】美区Apple ID账户： [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
+>
+> 【安卓手机】直接下载安装即可
 
 # 五. 开通微信香港钱包
 
