@@ -10,7 +10,6 @@ tags: life
  * 【固定时间】 每周六早上8 点深圳湾口岸集合
  * 【固定地点】 深圳湾口岸出境大厅门口
  * 【海外聚合网址】 [https://linktr.ee/webank88](https://linktr.ee/webank88)  
- * 【国内聚合网址】[https://link3.cc/webank88](https://link3.cc/webank88)  
  * 【开户类型】免费包开 汇丰 / 中银香港 / 众安银行 且这3张卡完全够用
  * 【互助交流电报群】 请进群讨论 [https://t.me/+XmyIgG47SW0zMTU1](https://t.me/+XmyIgG47SW0zMTU1) 
  * 【交通】下载 [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站坐到郎屏 d出口下来一直走到汇丰银行
@@ -119,7 +118,6 @@ tags: life
 - 【<span style="color:black; font-weight:bold;background:yellow">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > >】 </span> https://linktr.ee/webank88
 - 【腾讯文档】港卡福利开户记录   https://docs.qq.com/doc/DTWtIb294TVdoSGVY
 -  【需要科学上网】：  https://linktr.ee/webank88
--  【优先大陆可访问】：  https://link3.cc/webank88
 
 # 三. 图示
 * [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
