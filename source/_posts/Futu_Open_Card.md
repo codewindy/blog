@@ -75,7 +75,7 @@ tags: life
    | ✅   | 本人身份证                                                                                                                                                                                                       | 证件剩余有效期大于 6 个月                                                                                                                                                                                                                                  |
    | ✅   | 港澳通行证                                                                                                                                                                                                       | 证件剩余有效期大于 6 个月 且 有效签注                                                                                                                                                                                                                           |
    | ✅   | 过关小票                                                                                                                               | 合法证明出入境会发一张小纸片                                                                                                                                                                                                                                  |
-   | ❌   | 微众/宁波/兴业银行卡                                                                                                                                                                                           | （优先选webank，其余两个银行限制取港币的次数只能取3次/月，而香港的atm机器只能取4000港币/次，超过3次的非微众银行卡要收手续费15块钱）                                                                                                                                                                     |
+   | ✅   | 微众/宁波/兴业银行卡                                                                                                                                                                                           | （优先选webank，其余两个银行限制取港币的次数只能取3次/月，而香港的atm机器只能取4000港币/次，超过3次的非微众银行卡要收手续费15块钱）                                                                                                                                                                     |
    | ✅   | 现金 | 最好带人民币或者港币现钞  2万 开户后直接存入 中银香港atm 机  ，如何换汇看最底下链接                                                                                                                                                                                                 |
    | ✅   | 境外接短信                                                                                                            | 1. **省事费钱方式28块钱**： 支付宝-> 境外上网 -> 填写手机号码 ->  购买流量 ->  当地漫游 28块钱一日套餐即可，<br />2. **省钱费事方式7.9块钱**： 微信关注   [中国移动国际漫游](https://www.10086.cn/index/gd/index_200_200.html)，登录之后开通港澳台漫游功能并购买一日7.9/ 2G流量即可，遇到iPhone 15Promax双卡购买套餐后无法收短信，把多余的卡拔了就可以的情况 |
    | ✅   | 地址证明  | <span style="color:black; font-weight:bold;background:yellow">( **招行信用卡地址3个月内账单最好打印出来**或者**煤气水电费单**或者**保险单地址**或者 **户口本/房产证红本原件不能是复印件**) </span>注意这里的地址证明很魔幻，因为好多次只要上面3个材料即可，地址证明可有可无的，只是开户的时候支行开户人多就会触发这个要求或者身份证地址没有具体地址而是集体户的也不行 |
@@ -118,7 +118,21 @@ tags: life
 
 - 【<span style="color:black; font-weight:bold;background:yellow">长桥证券领588 和老虎证券开户领2200流程文档  点击 > > >】 </span> https://linktr.ee/webank88
 - 【腾讯文档】港卡福利开户记录   https://docs.qq.com/doc/DTWtIb294TVdoSGVY
--  【需要科学上网】：  https://linktr.ee/webank88
+- 【需要科学上网】：  https://linktr.ee/webank88
+```sql 
+ 一、富途牛牛200港币兑换码：ZVKDR2YE 【一定要开户前输入！路径：富途牛牛APP-我的-活动中心-兑换中心】
+
+二、老虎最高2100港币开户礼
+1. 邀请开户链接：https://tigr.link/8xtIoV 
+2. 或在App中使用老虎证券邀请码：WEBANK88
+
+
+三、长桥证券港美股终身免佣 788港币
+1.长桥（HK）邀请注册：https://app.longbridgehk.com/ac/oa?account_channel=lb&channel=HB100006&invite-code=621475
+
+长桥app开户邀请码：621475
+长桥关系绑定： https://activity.longbridgehk.com/pipeline/CN_invite_relationship/index.html?sac=lb&businessType=activity&lbFitsStatusBar=0
+```
 
 # 三. 图示
 * [看图请到issue](https://github.com/codewindy/blog/issues/3) https://github.com/codewindy/blog/issues/3 
