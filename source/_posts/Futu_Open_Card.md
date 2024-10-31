@@ -17,7 +17,7 @@ tags: life
  * 【美区Apple ID账户】 [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
  * 【美区Apple ID切换教程】  仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
  * 【安卓手机】 软件下载见底部的官网链接
- * 【Youtube频道】 [关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
+ * 【关注Youtube频道】 [关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
 ## 1.1 大陆银行卡清单
 | 名称 | 是否推荐 | ATM香港免费取港币次数 | 预约 | 备注                                                                                                   |
 |--------| ------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
