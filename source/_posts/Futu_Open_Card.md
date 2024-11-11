@@ -18,7 +18,7 @@ tags: life
  * 【美区Apple ID账户】 [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
  * 【美区Apple ID切换教程】  仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
  * 【安卓手机】 软件下载见底部的官网链接, 必须卸载`破解软件以及李跳跳/虚拟定位apk`
- * 【关注Youtube频道】 [关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
+ * 【关注Youtube频道】 [点击关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
    >  线上开中银功能有限制，必须签字后功能基本能用，否则最好优先开线下中银！
 ## 1.1 大陆银行卡清单
 | 名称 | 是否推荐 | ATM香港免费取港币次数 | 预约 | 备注                                                                                                   |
@@ -88,6 +88,7 @@ tags: life
    | ✅ | 现金 | 1. **带 2万港币或者人民币现钞** ， 开户后直接存入 中银香港atm 机<span style="color:black; font-weight:bold; background:yellow">【线上开户存的rmb兑换港币后取不出来功能受限需要排队取号签字后才行，线下开的 不影响 更新于20241109】</span>  <br />2. **不能超过2w块钱每人，资金每人限制2w超过可能会没收**<br />3. 如何换汇看最底下链接 |
    | ✅ | 境外接短信                                                                                                            | 1. **省事费钱方式28块钱**： 支付宝-> 境外上网 -> 填写手机号码 ->  购买流量 ->  当地漫游 28块钱一日套餐即可，<br />2. **省钱费事方式7.9块钱**： 微信关注   [中国移动国际漫游](https://www.10086.cn/index/gd/index_200_200.html)，登录之后开通港澳台漫游功能并购买一日7.9/ 2G流量即可，遇到iPhone 15Promax双卡购买套餐后无法收短信，把多余的卡拔了就可以的情况<br />3.  非中国移动： 在app 找客服申请免费国际漫游就可以了<br /> |
    | ✅ | 地址证明  | <span style="color:black; font-weight:bold;background:yellow">**1. 招行信用卡地址3个月内账单最好打印出来**或者<br/>2. 煤气水电费单  或者<br/>3. 保险单地址    或者<br/>4. 户口本原件    或者<br/> 5. 房产证红本原件不能是复印件<br/>6. 汇丰银行的日结单记得存钱了才有结单<br/></span> |
+   | ✅ | 投资证明 | 【**仅仅中银香港线下开户需要20241111更新**】<br />1.  存款证明打印出来<br />2.  中国结算app里面导出股票交割单基金投资流水且上面有你的名字打印出来 |
    
    
 
