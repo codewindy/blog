@@ -11,7 +11,7 @@ tags: life
  * 【固定地点】 **深圳湾口岸出境**大厅门口
  * 【海外聚合网址】 [https://linktr.ee/webank88](https://linktr.ee/webank88)  
  * 【大陆访问网址】 [https://link3.cc/webank88](https:///link3.cc/webank88)  
- * 【开户类型】免费包开 汇丰 / 中银香港 / 众安银行 且这3张卡完全够用
+ * 【开户类型】免费包开 汇丰 / 中银香港【线上】 / 众安银行 且这3张卡完全够用
  * 【互助交流电报群】 请进群讨论 [https://t.me/+XmyIgG47SW0zMTU1](https://t.me/+XmyIgG47SW0zMTU1) 
  * 【搭公交地铁】微信里面搜 **搭车码** 小程序 或 支付宝 点 出行 然后选择香港即可 
  * 【导航】下载 [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站坐到朗屏 c出口下来一直走到汇丰银行
