@@ -270,3 +270,4 @@ tags: life
 * [https://cryptobubbles.net/](https://cryptobubbles.net/) 
 * [https://www.sejda.com/desktop](https://www.sejda.com/desktop)  pdf修改存量证明时间的绿色软件
 * [https://rsload.net/soft/editor/35058-pdf-extra-premium.html](https://rsload.net/soft/editor/35058-pdf-extra-premium.html) pdf extra / pdfgear 
+* [Options Trade Fail Summary](https://codewindy.github.io/efunds%2F20240904_FINIDX.html)  
