@@ -137,6 +137,7 @@ tags: life
 - 【腾讯文档】港卡福利开户记录   https://docs.qq.com/doc/DTWtIb294TVdoSGVY
 
 - 【需要科学上网】：  https://linktr.ee/webank88
+- 【长桥老虎开户送2800 视频教程】：  https://www.youtube.com/watch?v=EzzwnKzRLxo
 - ibkr 客服中国	+86 (21) 6086 8586 直拨	09:00 - 18:00 (周一至周五) (UTC)
 
 - | 券商     | 上市 | 存量证明 | 出入金速度 | 平台费 | 开户送奖金      | 客服    | 备注             |
