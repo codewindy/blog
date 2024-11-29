@@ -277,3 +277,9 @@ tags: life
 * [https://rsload.net/soft/editor/35058-pdf-extra-premium.html](https://rsload.net/soft/editor/35058-pdf-extra-premium.html) pdf extra / pdfgear 
 * [银行卡开户ppt 查看](https://docs.qq.com/slide/DTWR0emJkVXFGT0JS)  
 * [Options Trade Fail Summary](https://codewindy.github.io/efunds%2F20240904_FINIDX.html)  
+
+# 八 . 恒生银行优越理财开户
+#### 1. 阿里巴巴渠道svip 需要赴港恒生总行看资金流水10w左右，无需繁杂的各种材料等等
+#### 2. 预约请在最上面微信群或telegram里面私信我微信号`echo0go`提前2天预约即可
+
+* ![3326f0df368dcd62694e7570544fd740-6201bea9b345d69c0dc1848ea0ccdd46.jpg](https://t.tutu.to/img/RGgio)
