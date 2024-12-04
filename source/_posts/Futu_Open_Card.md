@@ -32,10 +32,10 @@ tags: life
 
 ## 1.2 香港银行卡清单
 
-| 银行         | 好开户的分行地址                                             |
+| 银行         | 好开户的分行地址【优先预约红色的分行】                       |
 | ------------ | ------------------------------------------------------------ |
-| 【中银香港】 | 下葵涌分行、天瑞村分行、荃湾分<br/>行、元朗分行、西区分行、粉岭中心分<br/>行、美孚万利达广场分行、青山道分行<br/><span style="color:black; font-weight:bold;background:yellow">**教育路分行**、**土瓜湾分行**、**鲗鱼涌分行**</span> |
-| 【汇丰银行】 | 天水围分行、荃湾分行、荃湾西分行、粉岭分行、<br /><span style="color:black; font-weight:bold;background:yellow">**元朗分行**、**旺角分行**、**葵芳分行**</span> |
+| 【中银香港】 | 下葵涌分行、天瑞村分行、荃湾分<br/>行、元朗分行、西区分行、粉岭中心分<br/>行、美孚万利达广场分行、青山道分行<br/><span style="color:white; font-weight:bold;background:red">**教育路分行**、**土瓜湾分行**、**鲗鱼涌分行**</span> |
+| 【汇丰银行】 | 天水围分行、荃湾分行、荃湾西分行、粉岭分行、<br /><span style="color:white; font-weight:bold;background:red">**元朗分行**、**旺角分行**、**葵芳分行**</span> |
 
 ---
 
@@ -43,8 +43,8 @@ tags: life
 |--------| ------ | ---------- |---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | 中银香港 | ✅✅✅    | /          | 有卡8w 无卡 1w | [BOC_HK](https://www.bochk.com/sc/contact/online/hkpaccountopen.html) | 1. 最好提前预约且带上地址证明，线上开户的时候记得在地址后面加上你的手机号码，防止后面给你寄送银行卡丢失补寄麻烦且费时，线上开户需要在后续排队签字<br />2. **中银香港开户去元朗教育路分行，开户快服务态度很好**<br />3. 线下拿到实体卡后，汇款时候的收款账户是 012 开头不是62xx，输错了会扣手续费的钱也不会到账 |
 | 汇丰银行   | ✅✅✅    | /          | 同上  | [HSBC_HK](https://www.eticketing.hsbc.com.hk/Booking/Index/TC) | 1. 只需要      `身份证/港澳通行证`      即可开户，提前将地址翻译成英文且最后补上手机号码，也是防止后面给你寄送银行卡丢失补寄麻烦且费时<br />2. 汇款收款账户就是卡面的账户 |
-| 众安银行   | ✅      | **JT78T4** | 5w | [ZA_BANK](https://bank.za.group/hk) | 同汇丰，开户即可得500 港币，绑定WeChatPayHK 之后买京东e卡返现                                   |
-| 天星银行   | ✅      | / | / |  | 开户送200港币，绑定WeChatpayHK可以直接消费                                              |
+| 众安银行   | ✅      | **JT78T4** | 5w | [ZA_BANK](https://bank.za.group/hk) | 开户不送钱                        |
+| 天星银行   | ✅      | / | / |  | 开户送200 小米商场券，邀请码自己去官网搜               |
 | 工银亚洲   | ✅✅✅    | /          |           |           | 需要在微信公众号或者下载工银亚洲app里面直接预约后在前往香港线下核验身份即可开户，大陆可以免费取rmb                    |
 | 恒生银行   | ❌      | /          |           |           | 开了汇丰跟这个差不多，属于汇丰，跟汇丰可以相互取现                                                 |
 | 招商永隆银行 | ❌      | **CMH42N9955**| 3w        |         | 需要存1w 港币，但是app很好用跟招行一样                                                    |
@@ -69,77 +69,6 @@ tags: life
 2. 最好预约一下，预约中银香港注意点： 提前 7 天放号，最晚只能预约 7 天后的第一个工作日或者周六营业日，凌晨 12 点放号
    * 线上预约开户[中银香港支持手机app直接开户ClickMe](http://mp.weixin.qq.com/s?__biz=MzkzMzQwNjA3NQ==&mid=2247484361&idx=1&sn=5498f4a877c678d74d8a3a0d1591ca80&chksm=c24db7ddf53a3ecba4ff6599dce429f4b6523bf09c5ccd163e8d6c7b173fb8a2389d19f21e3e&mpshare=1&scene=24&srcid=0412F279ZpAfmXJDfAfJpVB2&sharer_shareinfo=2a7b11af4f09b336192f675db6147450&sharer_shareinfo_first=2a7b11af4f09b336192f675db6147450#rd)
    
-<table>
-	<tr>
-	    <th>属性</th>
-	    <th>属性值</th>
-	    <th>描述</th>  
-	</tr >
-	<tr >
-	    <td rowspan="9">type</td>
-	    <td>text</td>
-	    <td>单行文本输入框</td>
-	</tr>
-	<tr>
-	    <td>password</td>
-	    <td>密码输入框</td>
-	</tr>
-	<tr>
-	    <td>radio</td>
-	    <td>单选按钮</td>
-	</tr>
-	<tr>
-	    <td>CheckBox</td>
-	    <td>复选按钮</td>
-	</tr>
-	<tr><td>button</td>
-	    <td>普通按钮</td>
-	</tr>
-	<tr>
-	    <td>submit</td>
-	    <td>提交按钮</td>
-	</tr>
-	<tr>
-	    <td>reset</td>
-	    <td>重置按钮</td>
-	</tr>
-	<tr>
-	    <td>image</td>
-	    <td>图像形式的提交按钮</td>
-	</tr>
-	<tr>
-	    <td >file</td>
-	    <td>文件域</td>
-	</tr>
-	<tr>
-	    <td >name</td>
-	    <td>用户自定义</td>
-	    <td>控件名称</td>
-	</tr>
-	<tr>
-	    <td >value</td>
-	    <td >用户自定义</td>
-	    <td >默认文本值</td>
-	</tr>
-	<tr>
-	    <td >size</td>
-	    <td >正整数</td>
-	    <td >控件在页面中的显示宽度</td>
-	</tr>
-	<tr>
-	    <td >checked</td>
-	    <td >checked</td>
-	    <td >定义选择控件默认被选中项</td>
-	</tr>
-	<tr>
-	    <td >maxlength</td>
-	    <td >正整数</td>
-	    <td >控件允许输入的最多字符</td>
-	</tr>
-</table>
-
-
-
 
 
 | 预约方式                                                     | 是否推荐   |                                                              |
