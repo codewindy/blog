@@ -251,14 +251,14 @@ tags: life
 3. 汇款到香港 理由写 **私人旅游/ PRIVATE TRAVEL** 
 
 4. 美元转账收费： 开好港卡后, 银行卡fps 转账港币是免费的, 通过中银香港转美元是免费的，其他的银行存在手续费美元$转账 可能会扣 $2 手续费(大约15块钱rmb) 
-  > ​          例如： Nathan Hotel , Room 511， 378 Nathan Road,Kowloon, Hong Kong
+  > ​          例如： Nathan Hotel , Room 502， 378 Nathan Road,Kowloon, Hong Kong
   > ​    1 .  收款人名称：写本人注册账户时提供证件的姓名拼音，不用区分大小写，但姓氏和名字之间，要用一个空格隔开，比如“Zhao Shiya”不要写成“ZhaoShiya”。
   >
   > 2. 收款人账号：**汇港币就填香港中银港币储蓄账户012开头的那个账号，千万不要填成外汇宝账号。汇美金就一定要填写012开头的外汇宝账号。**
   > **千万千万别写成62开头的账号啦，那个入不了账，退回来还要收手续费。012账号直接填数字就可以，数字间不用加“-”。**
   > 3. 详细地址，我最开始写的银行地址，中国银行客服给我打电话说你转款理由是旅游，就必须写一个酒店地址，地址不能出现BANK。
   > 所以我立马修改为酒店地址了，不知道怎么写的朋友，
-  > 可以用我的这家酒店地址：4A,Homy Residence,283 Shanghai Street,Yau Ma Tei,Hong Kong
+  > 可以用我的这家酒店地址：3A,Homy Residence,283 Shanghai Street,Yau Ma Tei,Hong Kong
 
 # 七. 参考
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
