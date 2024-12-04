@@ -186,6 +186,9 @@ tags: life
 <p> 这里申请的默认是红色的汇丰ONE免年费的屌丝卡哈,权益够用,有钱的话可以升级成汇丰卓越卡权益更多要存50w</p>
 <img loading="lazy" decoding="async" width="299" height="187" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-union-card.png" alt="" class="wp-image-115" style="object-fit:cover;width:300px;height:187px">
 
+申请MasterCard 大陆消费返现10% 登记即可
+https://specials.priceless.com/zh-hk/offers/Mastercard_%E5%9B%9E%E8%B4%88%E8%B3%9E%EF%BC%88%E6%B5%B7%E5%A4%96%E6%97%85%E9%81%8A%E6%B6%88%E8%B2%BB%EF%BC%89?Oid=202407260001&issuerId=&productId=
+
 <p> APP里可以申请<strong>汇丰万事达卡</strong>，会通过邮寄方式寄到你的居住地址(开户的是英文地址记得去官网改成中文的), <b>目前20241101开始通过EMS 5天内收到卡</b>, 记得提前下载下面的汇丰香港app </p>
 这些地方都可以用 香港汇丰万事达借记卡取现金 8w块钱免费 https://www.hsbc.com.cn/help/contact/branch-finder/lists/
 
