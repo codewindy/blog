@@ -11,7 +11,7 @@ tags: life
  * 【固定地点】 **深圳湾口岸出境**大厅门口
  * 【海外聚合网址】 [https://linktr.ee/webank88](https://linktr.ee/webank88)  
  * 【大陆访问网址】 [https://link3.cc/webank88](https:///link3.cc/webank88)  
- * 【开户类型】免费包开 汇丰 / 中银香港【线上】 / 众安银行 且这3张卡完全够用
+ * 【开户类型】免费包开 汇丰 / 中银香港【线上】 / 众安行/天星银行 且这4张卡完全够用
  * 【互助交流电报群】 请进群讨论 [https://t.me/+XmyIgG47SW0zMTU1](https://t.me/+XmyIgG47SW0zMTU1) 
  * 【搭公交地铁】微信里面搜 **搭车码** 小程序 或 支付宝 点 出行 然后选择香港即可 
  * 【导航】下载 [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站坐到朗屏 c出口下来一直走到汇丰银行
@@ -32,10 +32,10 @@ tags: life
 
 ## 1.2 香港银行卡清单
 
-| 银行         | 好开户的分行地址【优先预约红色的分行】                       |
+| 银行         | 好开户的分行地址【优先预约黄色的分行】                       |
 | ------------ | ------------------------------------------------------------ |
-| 【中银香港】 | 下葵涌分行、天瑞村分行、荃湾分<br/>行、元朗分行、西区分行、粉岭中心分<br/>行、美孚万利达广场分行、青山道分行<br/><span style="color:white; font-weight:bold;background:red">**教育路分行**、**土瓜湾分行**、**鲗鱼涌分行**</span> |
-| 【汇丰银行】 | 天水围分行、荃湾分行、荃湾西分行、粉岭分行、<br /><span style="color:white; font-weight:bold;background:red">**元朗分行**、**旺角分行**、**葵芳分行**</span> |
+| 【中银香港】 | 下葵涌分行、天瑞村分行、荃湾分<br/>行、元朗分行、西区分行、粉岭中心分<br/>行、美孚万利达广场分行、青山道分行<br/><span style="color:red; font-weight:bold;background:yellow">**教育路分行**、**土瓜湾分行**、**鲗鱼涌分行**</span> |
+| 【汇丰银行】 | 天水围分行、荃湾分行、荃湾西分行、粉岭分行、<br /><span style="color:red; font-weight:bold;background:yellow">**元朗分行**、**旺角分行**、**葵芳分行**</span> |
 
 ---
 
@@ -151,14 +151,14 @@ tags: life
 
 - 【长桥老虎开户送2800 视频教程】：  https://www.youtube.com/watch?v=EzzwnKzRLxo
 
-- | 券商     | 上市 | 存量证明 | 出入金速度 | 平台费 | 开户送奖金      | 客服    | 备注             |
-  | -------- | ---- | -------- | ---------- |------------| ------------ | ------- | ---------------- |
-  | IBKR     | ✅    | ❌        | 慢         | 0      | 送1000$ 美金  | N/A     | 1. 只需身份证就能开<br />2. ibkr 客服中国	+86 (21) 6086 8586 直拨 09:00 - 18:00 (周一至周五) (UTC) |
-  | 富途牛牛 | ✅    | ✅        | 快         | 15/次  | 送2000港币    | 24 在线 | 最难开           |
-  | 老虎证券 | ✅    | ✅        | 很快       | 15/次  | 送2100港币    | 一般    |                  |
-  | 长桥证券 | ❌    | ✅        | 一般       | 15/次  | 送800 港币    | 一般    |                  |
-  | 盈立证券 | ❌    | ❌        | 很慢       | 0      | 送300港币     | 差      | 只需身份证就能开 |
-  | 尊嘉金融 | ❌    | ❌        | 很慢       | 1/次   | 送200港币 | 很差    | 只需身份证就能开 |
+| 券商     | 上市 | 存量证明 | 出入金速度 | 出金美元 | 平台费 | 开户送奖金      | 客服    | 备注             |
+| -------- | ---- | -------- | ---------- |------------| ------------ | ------- | ---------------- | ---------------- |
+| IBKR     | ✅    | ❌        | 慢         | 免费 | 0      | 送1000$ 美金  | N/A     | 1. 只需身份证就能开<br />2. ibkr 客服中国	+86 (21) 6086 8586 直拨 09:00 - 18:00 (周一至周五) (UTC) |
+| 富途牛牛 | ✅    | ✅        | 快         | 免费       | 15/次  | 送2000港币    | 24 在线 | 最难开           |
+| 老虎证券 | ✅    | ✅        | 很快       |        | 15/次  | 送2100港币    | 一般    |                  |
+| 长桥证券 | ❌    | ✅        | 一般       | 免费     | 15/次  | 送800 港币    | 一般    |                  |
+| 盈立证券 | ❌    | ❌        | 很慢       | /      | 0      | 送300港币     | 差      | 只需身份证就能开 |
+| 尊嘉金融 | ❌    | ❌        | 很慢       | /      | 1/次   | 送200港币 | 很差    | 只需身份证就能开 |
 
 
 
@@ -187,7 +187,8 @@ tags: life
 <img loading="lazy" decoding="async" width="299" height="187" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-union-card.png" alt="" class="wp-image-115" style="object-fit:cover;width:300px;height:187px">
 
 <p> APP里可以申请<strong>汇丰万事达卡</strong>，会通过邮寄方式寄到你的居住地址(开户的是英文地址记得去官网改成中文的), <b>目前20241101开始通过EMS 5天内收到卡</b>, 记得提前下载下面的汇丰香港app </p>
-<p> 这些地方都可以用 香港汇丰万事达借记卡取现金 8w块钱免费 https://www.hsbc.com.cn/help/contact/branch-finder/lists/ </p>
+这些地方都可以用 香港汇丰万事达借记卡取现金 8w块钱免费 https://www.hsbc.com.cn/help/contact/branch-finder/lists/
+
 <img loading="lazy" decoding="async" width="684" height="433" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png" alt="" class="wp-image-117" style="object-fit:cover;width:300px;height:187px" srcset="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card.png 684w, https://applybankcard.com/wp-content/uploads/2023/09/hsbc-master-card-300x190.png 300w" sizes="(max-width: 684px) 100vw, 684px">
 
 <div class="wp-block-group is-horizontal is-content-justification-center is-layout-flex wp-container-core-group-layout-5 wp-block-group-is-layout-flex">
