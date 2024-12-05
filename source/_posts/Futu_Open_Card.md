@@ -161,10 +161,14 @@ tags: life
 | 盈立证券 | ❌    | ❌        | 很慢       | /      | 0      | 送300港币     | 差      | 只需身份证就能开 |
 | 尊嘉金融 | ❌    | ❌        | 很慢       | /      | 1/次   | 送200港币 | 很差    | 只需身份证就能开 |
 
+<span style="color: #3366ff;">WEBANK88</span><button style=
+        "background-color: blue; 
+        color: white;" onclick="navigator.clipboard.writeText('WEBANK88')">点击复制老虎邀请码</button>
 
-<button type="button" bgcolor='purple' onclick="navigator.clipboard.writeText('WEBANK88')">
-    WEBANK88
-</button>
+
+```
+
+```
 
 
 ```sql 
