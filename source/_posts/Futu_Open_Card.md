@@ -161,7 +161,11 @@ tags: life
 | 盈立证券 | ❌    | ❌        | 很慢       | /      | 0      | 送300港币     | 差      | 只需身份证就能开 |
 | 尊嘉金融 | ❌    | ❌        | 很慢       | /      | 1/次   | 送200港币 | 很差    | 只需身份证就能开 |
 
-
+```html
+<button type="button" bgcolor='purple' onclick="navigator.clipboard.writeText('WEBANK88')">
+    WEBANK88
+</button>
+```
 
 ```sql 
  一、富途牛牛200港币兑换码：ZVKDR2YE 【一定要开户前输入！路径：富途牛牛APP-我的-活动中心-兑换中心】
