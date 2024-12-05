@@ -41,7 +41,7 @@ tags: life
 
 | 名称 | 是否推荐 | 邀请码     | ATM取现 | 预约 | 备注                                                                   |
 |--------| ------ | ---------- |---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 中银香港 | ✅✅✅    | /          | 有卡8w 无卡 1w | [教育路分行预约](https://www.bochk.com/sc/contact/online/hkpaccountopen.html) | 1. 最好提前预约且带上地址证明，线上开户的时候记得在地址后面加上你的手机号码，防止后面给你寄送银行卡丢失补寄麻烦且费时，线上开户需要在后续排队签字<br />2. **中银香港开户去元朗教育路分行，开户快服务态度很好**<br />3. 线下拿到实体卡后，汇款时候的收款账户是 012 开头不是62xx，输错了会扣手续费的钱也不会到账 |
+| 中银香港 | ✅✅✅    | <button style="background-color: blue;color: white;" onclick="navigator.clipboard.writeText('M64214872066')">M64214872066</button> | 有卡8w 无卡 1w | [教育路分行预约](https://www.bochk.com/sc/contact/online/hkpaccountopen.html) | 1. 最好提前预约且带上地址证明，线上开户的时候记得在地址后面加上你的手机号码，防止后面给你寄送银行卡丢失补寄麻烦且费时，线上开户需要在后续排队签字<br />2. **中银香港开户去元朗教育路分行，开户快服务态度很好**<br />3. 线下拿到实体卡后，汇款时候的收款账户是 012 开头不是62xx，输错了会扣手续费的钱也不会到账 |
 | 汇丰银行   | ✅✅✅    | /          | 同上  | [元朗青山分行预约](https://www.eticketing.hsbc.com.hk/Booking/Index/TC) | 1. 只需要      `身份证/港澳通行证`      即可开户，提前将地址翻译成英文且最后补上手机号码，也是防止后面给你寄送银行卡丢失补寄麻烦且费时<br />2. 汇款收款账户就是卡面的账户 |
 | 众安银行   | ✅      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">JT78T4</button> | 5w | [ZA_BANK](https://bank.za.group/hk) | 开户不送钱                        |
 | 天星银行   | ✅      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">XIAOMI</button> | / |  | 开户送200 小米商场券，邀请码自己去官网搜               |
@@ -211,7 +211,7 @@ https://specials.priceless.com/zh-hk/offers/Mastercard_%E5%9B%9E%E8%B4%88%E8%B3%
 
 | 新人开户app 下载    | 官网下载地址                                                 | 邀请码                                                       | 备注                                                         |
 | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 中银香港开户app     | https://www.bochk.com/sc/more/ebanking/apps.html             |                                                              | 汇率好                                                       |
+| 中银香港开户app     | https://www.bochk.com/sc/more/ebanking/apps.html             | <button style="background-color: blue;color: white;" onclick="navigator.clipboard.writeText('M64214872066')">M64214872066</button> | 汇率好                                                       |
 | 汇丰银行开户 app    | https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/ |                                                              | 汇丰one 卡的汇率很差                                         |
 | 众安银行开户app     | https://bank.za.group/hk/account-open                        | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">JT78T4</button> | 汇率很差，不建议在app内买股票基金手续费4 美元一次            |
 | 长桥证券开户app     | https://longbridge.com/hk/zh-CN/download                     | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">621475</button> | 汇率差， 有平台费                                            |
