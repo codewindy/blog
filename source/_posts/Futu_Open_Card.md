@@ -166,11 +166,6 @@ tags: life
         color: white;" onclick="navigator.clipboard.writeText('WEBANK88')">点击复制老虎邀请码</button>
 
 
-```
-
-```
-
-
 ```sql 
  一、富途牛牛200港币兑换码：ZVKDR2YE 【一定要开户前输入！路径：富途牛牛APP-我的-活动中心-兑换中心】
 
