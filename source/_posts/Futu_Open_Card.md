@@ -44,7 +44,7 @@ tags: life
 | 中银香港 | ✅    | <button style="background-color: blue;color: white;" onclick="navigator.clipboard.writeText('M64214872066')">M64214872066</button> | 有卡8w 无卡 1w | [教育路分行预约](https://www.bochk.com/sc/contact/online/hkpaccountopen.html) | 1. 最好提前预约且带上地址证明，线上开户的时候记得在地址后面加上你的手机号码，防止后面给你寄送银行卡丢失补寄麻烦且费时，线上开户需要在后续排队签字<br />2. **中银香港开户去元朗教育路分行，开户快服务态度很好**<br />3. 线下拿到实体卡后，汇款时候的收款账户是 012 开头不是62xx，输错了会扣手续费的钱也不会到账 |
 | 汇丰银行   | ✅    | /          | 同上  | [元朗青山分行预约](https://www.eticketing.hsbc.com.hk/Booking/Index/TC) | 1. 只需要      `身份证/港澳通行证`      即可开户，提前将地址翻译成英文且最后补上手机号码，也是防止后面给你寄送银行卡丢失补寄麻烦且费时<br />2. 汇款收款账户就是卡面的账户 |
 | 众安银行   | ✅      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">JT78T4</button> | 5w | [ZA_BANK](https://bank.za.group/hk) | 开户不送钱                        |
-| 天星银行   | ✅      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">XIAOMI</button> | / |  | 开户送200 小米商场券，邀请码自己去官网搜               |
+| 天星银行   | ✅      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('XIAOMI')">XIAOMI</button> | / |  | 开户送200 小米商场券，邀请码自己去官网搜               |
 | 工银亚洲   | ✅    | /          |           |           | 需要在微信公众号或者下载工银亚洲app里面直接预约后在前往香港线下核验身份即可开户，大陆可以免费取rmb                    |
 | 恒生银行   | ❌      | /          |           |           | 开了汇丰跟这个差不多，属于汇丰，跟汇丰可以相互取现                                                 |
 | 信银国际 | ✅ | / | | [开源道分行预约](https://www.cncbinternational.com/appointment/sc/highnetworth.jsp) | 1. 只能用安卓手机<br />2.开户成功后存5w 港币半年后可以申请信用卡返现10% |
@@ -157,7 +157,8 @@ tags: life
 | IBKR     | ✅    | ❌        | 慢         | 免费 | 0      | 送1000$ 美金  | N/A     | 1. 只需身份证就能开<br />2. ibkr 客服中国	+86 (21) 6086 8586 直拨 09:00 - 18:00 (周一至周五) (UTC) |
 | 富途牛牛 | ✅    | ✅        | 快         | 免费       | 15/次  | 送2000港币    | 24 在线 | 最难开           |
 | 老虎证券 | ✅    | ✅        | 很快       | 8 美金 | 15/次  | 送2100港币    | 一般    |                  |
-| 长桥证券 | ❌    | ✅        | 一般       | 免费     | 15/次  | 送800 港币    | 一般    |                  |
+| 长桥证券 | ❌    | ✅        | 一般       | 免费     | 15/次  | 送800 港币    | 一般    | 免佣金 |
+| 卓锐证券 | ❌ | ✅ | 一般 | 免费 | 15/次 | 送2000 港币 | 一般 | 免佣金 |
 | 盈立证券 | ❌    | ❌        | 很慢       | /      | 0      | 送300港币     | 差      | 只需身份证就能开 |
 | 尊嘉金融 | ❌    | ❌        | 很慢       | /      | 1/次   | 送200港币 | 很差    | 只需身份证就能开 |
 
@@ -170,11 +171,15 @@ tags: life
 3. 入金至少1w 港币
 
 
-三、长桥证券港美股终身免佣 788港币
+三、长桥证券港美股终身免佣 1100港币
 1.长桥（HK）邀请注册：https://app.longbridgehk.com/ac/oa?account_channel=lb&channel=HB100006&invite-code=621475
 
 长桥app开户邀请码：621475
 长桥关系绑定： https://activity.longbridgehk.com/pipeline/CN_invite_relationship/index.html?sac=lb&businessType=activity&lbFitsStatusBar=0
+
+四、卓锐证券港美股终身免佣 2000港币
+专属注册链接：https://h5pro.zr66.com/zhuorui_web_h5/?channelId=100397
+如不方便使用邀请链接推广可让客户填写邀请码，下载app注册登录后，在我的-填写邀请码处填写，邀请码ID为您的渠道码：100397
 ```
 
 # 三. 图示
@@ -209,17 +214,18 @@ https://specials.priceless.com/zh-hk/offers/Mastercard_%E5%9B%9E%E8%B4%88%E8%B3%
 
 # 四. 官方app下载
 
-| 新人开户app 下载    | 官网下载地址                                                 | 邀请码                                                       | 备注                                                         |
-| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 中银香港开户app     | https://www.bochk.com/sc/more/ebanking/apps.html             | <button style="background-color: blue;color: white;" onclick="navigator.clipboard.writeText('M64214872066')">M64214872066</button> | 汇率好                                                       |
-| 汇丰银行开户 app    | https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/ | /                                                            | 汇丰one 卡的汇率很差                                         |
-| 众安银行开户app     | https://bank.za.group/hk/account-open                        | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">JT78T4</button> | 汇率很差，不建议在app内买股票基金手续费4 美元一次            |
-| 长桥证券开户app     | https://longbridge.com/hk/zh-CN/download                     | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">621475</button> | 汇率差， 有平台费                                            |
-| 盈立证券开户app     | https://www.usmart.sg/download                               | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">n794l6</button> | 汇率差，买港美股 免平台费                                    |
-| 老虎证券开户app     | https://www.itigerup.com/help/detail/86426640                | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">WEBANK88</button> | 汇率差， 出入金很快， 有平台费                               |
-| 富途牛牛证券开户app | https://www.futunn.com/download/android                      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">ZVKDR2YE</button> | 汇率最好，有15 块钱平台费                                    |
-| ibkr证券开户app     | https://www.interactivebrokers.com/en/trading/tws-mobile.php#trytoday-drop | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">peng888</button> | 汇率最好，免15平台费但是APP难用，每个月一次免费出金，免费的出金次数有限制 |
-| 天星银行 app        | https://www.airstarbank.com/zh-hk/signup-now.html            | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">XIAOMI</button> | 汇率最好，通过fps 转账                                       |
+| 新人开户app 下载 | 官网下载地址                                                 | 邀请码                                                       | 备注                                                         |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 中银香港         | https://www.bochk.com/sc/more/ebanking/apps.html             | <button style="background-color: blue;color: white;" onclick="navigator.clipboard.writeText('M64214872066')">M64214872066</button> | 汇率好                                                       |
+| 汇丰银行         | https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/ | /                                                            | 汇丰one 卡的汇率很差                                         |
+| 众安银行         | https://bank.za.group/hk/account-open                        | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">JT78T4</button> | 汇率很差，不建议在app内买股票基金手续费4 美元一次            |
+| 长桥证券         | https://longbridge.com/hk/zh-CN/download                     | <button style="background-color: yellow;  color: red;" onclick="navigator.clipboard.writeText('621475')">621475</button> | 汇率差， 有平台费                                            |
+| 老虎证券         | https://www.itigerup.com/help/detail/86426640                | <button style="background-color: yellow;  color: red;" onclick="navigator.clipboard.writeText('WEBANK88')">WEBANK88</button> | 汇率差， 出入金很快， 有平台费                               |
+| 卓锐证券         | https://h5pro.zr66.com/zhuorui_web_h5/?channelId=100397      | <button style="background-color: yellow;  color: red;" onclick="navigator.clipboard.writeText('100397')">100397</button> | 免佣金送1400-2000 奖金                                       |
+| 盈立证券         | https://www.usmart.sg/download                               | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('n794l6')">n794l6</button> | 汇率差，买港美股 免平台费                                    |
+| 富途牛牛         | https://www.futunn.com/download/android                      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('ZVKDR2YE')">ZVKDR2YE</button> | 汇率最好，有15 块钱平台费                                    |
+| ibkr开户         | https://www.interactivebrokers.com/en/trading/tws-mobile.php#trytoday-drop | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('peng888')">peng888</button> | 汇率最好，免15平台费但是APP难用，每个月一次免费出金，免费的出金次数有限制 |
+| 天星银行         | https://www.airstarbank.com/zh-hk/signup-now.html            | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('XIAOMI')">XIAOMI</button> | 汇率最好，通过fps 转账                                       |
 
 > 货币兑换汇率最优总结：**天星= 盈透证券`IBKR`(每月一次免费出金) =富途牛牛=汇丰卓越（存款100w港币） > 中银香港`bochk` > 老虎证券 > 长桥证券 > 众安银行 > 汇丰银行 (非卓越用户0 存款)** 
 >
