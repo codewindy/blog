@@ -8,18 +8,30 @@ tags: life
 
 ## 1.0 时间地点
  * 【固定时间】 **每周六早上8 点之前**深圳湾口岸集合
+
  * 【固定地点】 **深圳湾口岸出境**大厅门口
+
  * 【海外聚合网址】 [https://linktr.ee/webank88](https://linktr.ee/webank88)  
+
  * 【大陆访问网址】 [https://link3.cc/webank88](https:///link3.cc/webank88)  
+
  * 【开户类型】免费包开 汇丰 / 中银香港【线上】 / 众安行/天星银行 且这4张卡完全够用
+
  * 【互助交流电报群】 请进群讨论 [https://t.me/+XmyIgG47SW0zMTU1](https://t.me/+XmyIgG47SW0zMTU1) 
+
  * 【搭公交地铁】微信里面搜 **搭车码** 小程序 或 支付宝 点 出行 然后选择香港即可 
+
  * 【导航】下载 [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站坐到朗屏 c出口下来一直走到汇丰银行
+
  * 【美区Apple ID账户】 [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
+
  * 【美区Apple ID切换教程】  仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
+
  * 【安卓手机】 软件下载见底部的官网链接, 必须卸载`破解软件以及李跳跳/虚拟定位apk`
- * 【关注Youtube频道】 [点击关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
+
  * 【腾讯文档】https://docs.qq.com/s/EUtX5kMxZXJbW9rhPg5miq
+
+ * 【关注Youtube频道】 [点击关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
 
    
    >  **线上开中银没签字也可以atm机存2w 人民币，可以绑定edda入金**！
