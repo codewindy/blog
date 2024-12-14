@@ -33,6 +33,8 @@ tags: life
 
  * 【关注Youtube频道】 [点击关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
 
+ * <iframe width="560" height="315" src="https://www.youtube.com/embed/dMrTLD8mksw?si=JOAmV1o_Grozb216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
    
    >  **线上开中银没签字也可以atm机存2w 人民币，可以绑定edda入金**！
 
