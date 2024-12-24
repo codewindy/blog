@@ -153,7 +153,7 @@ tags: life
 
 - 【长桥老虎开户送3300 视频教程】：  https://www.youtube.com/watch?v=kPDjVofsCXw&t=7s
 
-- ![2024-12-14_221958-4971a00494ffdeb6de4904e0ca72d780.jpg](https://img.erpweb.eu.org/imgs/2024/12/8c0084175613cb7f.jpg)
+- ![](https://img.erpweb.eu.org/imgs/2024/12/9d3091f596e1df6b.jpg)
 
 ```sql 
  一、富途牛牛200港币兑换码：ZVKDR2YE 【一定要开户前输入！路径：富途牛牛APP-我的-活动中心-兑换中心】
