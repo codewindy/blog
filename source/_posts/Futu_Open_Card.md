@@ -180,13 +180,16 @@ tags: life
 
 * [汇丰万事达卡ClickMe](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NTgxNQ==&mid=2648635927&idx=1&sn=78d34c4e29ba3bbfeddb2c006394de87&chksm=be9ca7ef89eb2ef944a35515cac6c5403a283633877221d876da3142597f49627baf482140d4&mpshare=1&scene=24&srcid=0424jlBoyGjJkbMJ8i7rn8Rz&sharer_shareinfo=503d9e5c89a8cbcb31422231e0b86177&sharer_shareinfo_first=503d9e5c89a8cbcb31422231e0b86177#rd)  这张卡的好处 
 
+* [信银国际大湾区双币信用卡 返现10%](https://www.cncbinternational.com/personal/promotions/credit-card/tc/index.html) 注意要安卓手机且存10w港币半年后才能申请 更新于  20241223
+
 <p> 这里申请的默认是红色的汇丰ONE免年费的屌丝卡哈,权益够用,有钱的话可以升级成汇丰卓越卡权益更多要存50w</p>
 <img loading="lazy" decoding="async" width="299" height="187" src="https://applybankcard.com/wp-content/uploads/2023/09/hsbc-union-card.png" alt="" class="wp-image-115" style="object-fit:cover;width:300px;height:187px">
 
-申请MasterCard 大陆消费返现10% 登记即可
-https://specials.priceless.com/zh-hk/offers/Mastercard_%E5%9B%9E%E8%B4%88%E8%B3%9E%EF%BC%88%E6%B5%B7%E5%A4%96%E6%97%85%E9%81%8A%E6%B6%88%E8%B2%BB%EF%BC%89?Oid=202407260001&issuerId=&productId=
+[点击我 申请MasterCard 大陆消费返现10% 登记，记住要先登录才能申请](https://specials.priceless.com/zh-hk/offers/Mastercard_%E5%9B%9E%E8%B4%88%E8%B3%9E%EF%BC%88%E6%B5%B7%E5%A4%96%E6%97%85%E9%81%8A%E6%B6%88%E8%B2%BB%EF%BC%89?Oid=202407260001&issuerId=&productId=)
 
-<p> APP里可以申请<strong>汇丰万事达卡</strong>，会通过邮寄方式寄到你的居住地址(开户的是英文地址记得去官网改成中文的), <b>目前20241101开始通过EMS 5天内收到卡</b>,</br> 记得提前下载下面的汇丰香港app ,这些地方都可以用 香港汇丰万事达借记卡取现金 8w块钱免费</br><a>https://www.hsbc.com.cn/help/contact/branch-finder/lists/</a></p>
+<p> APP里可以申请<strong>汇丰万事达卡</strong>，会通过邮寄方式寄到你的居住地址(开户的是英文地址记得去官网改成中文的), <b>目前20241101开始通过EMS 5天内收到卡</b>,</br> 记得提前下载下面的汇丰香港app ,这些地方都可以用 香港汇丰万事达借记卡取现金 8w块钱免费</br></br>
+
+查看大陆汇丰分行atm位置<a>https://www.hsbc.com.cn/help/contact/branch-finder/lists/</a></p>
 
  
 
@@ -214,7 +217,7 @@ https://specials.priceless.com/zh-hk/offers/Mastercard_%E5%9B%9E%E8%B4%88%E8%B3%
 | 众安银行         | https://bank.za.group/hk/account-open                        | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">JT78T4</button> | 汇率很差，不建议在app内买股票基金手续费4 美元一次            |
 | 长桥证券         | https://longbridge.com/hk/zh-CN/download                     | <button style="background-color: yellow;  color: black;" onclick="navigator.clipboard.writeText('621475')">621475</button> | 汇率差， 有平台费                                            |
 | 老虎证券         | https://www.itigerup.com/help/detail/86426640                | <button style="background-color: yellow;  color: black;" onclick="navigator.clipboard.writeText('WEBANK88')">WEBANK88</button> | 汇率差， 出入金很快， 有平台费                               |
-| 卓锐证券         | https://h5pro.zr66.com/zhuorui_web_h5/?channelId=100397      | <button style="background-color: yellow;  color: green;" onclick="navigator.clipboard.writeText('100397')">100397</button> | 免佣金送1400-2000 奖金                                       |
+| 卓锐证券         | https://h5pro.zr66.com/zhuorui_web_h5/?channelId=100397      | <button style="background-color: yellow;  color: black;" onclick="navigator.clipboard.writeText('100397')">100397</button> | 免佣金送1400-2000 奖金                                       |
 | 盈立证券         | https://www.usmart.sg/download                               | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('n794l6')">n794l6</button> | 汇率差，买港美股 免平台费                                    |
 | 富途牛牛         | https://www.futunn.com/download/android                      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('ZVKDR2YE')">ZVKDR2YE</button> | 汇率最好，有15 块钱平台费                                    |
 | ibkr开户         | https://www.interactivebrokers.com/en/trading/tws-mobile.php#trytoday-drop | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('peng888')">peng888</button> | 汇率最好，免15平台费但是APP难用，每个月一次免费出金，免费的出金次数有限制 |
@@ -244,9 +247,9 @@ https://specials.priceless.com/zh-hk/offers/Mastercard_%E5%9B%9E%E8%B4%88%E8%B3%
 | 兴业银行   | 汇丰银行<br />汇款港币直接用汇丰银行卡号收款                 | 0      | t+0  | 1. 额度高到账快，一般上午汇款下午4点之前到账<br />2. 汇丰银行swiftcode **HSBCHKHHHKH** |
 | 任一银行   | 任一香港银行卡                                               | 150/次 | t+0  | 别的银行或上面的银行交叉汇款也会扣手续费的                   |
 
+![](https://img.erpweb.eu.org/imgs/2024/12/b283f24b68999a1f.png)
 
-
-1. **中银香港的实体卡卡号62xxxx开头不是汇款的收款账号012开头这个很重要，汇丰的卡号就是收款账号， 换汇和内地银行卡取港币最好选择工作日，周六日的汇率银行为了避免吃亏一般会在实际汇率上额外加点，可以多个银行对比换汇，目前兴业银行是汇率最优的**
+1. 中银香港的实体卡卡号62xxxx开头不是汇款的收款账号012开头这个很重要，汇丰的卡号就是收款账号， 换汇和内地银行卡取港币最好选择工作日，周六日的汇率银行为了避免吃亏一般会在实际汇率上额外加点，可以多个银行对比换汇，目前兴业银行是汇率最优的
 
 2. 汇款到香港地址写 香港任何一家酒店的英文地址 加房间号即可，具体可以自己谷歌一个酒店然后写英文如下
 
@@ -271,9 +274,9 @@ https://specials.priceless.com/zh-hk/offers/Mastercard_%E5%9B%9E%E8%B4%88%E8%B3%
 * [https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/](https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/) **如何汇丰银行开户app下载**
 * [https://bank.za.group/hk/account-open](https://bank.za.group/hk/account-open) **如何众安银行开户app下载**
 * [https://longbridge.com/hk/zh-CN/download](https://longbridge.com/hk/zh-CN/download) **如何长桥证券开户app下载**
+* [https://tigr.link/21wymU](https://tigr.link/21wymU) **如何老虎证券开户app下载，存量用户更新**：https://www.itigerup.com/help/detail/86426640
 * [https://www.futunn.com/download/android](https://www.futunn.com/download/android) **如何富途牛牛证券开户app下载**
 * [https://www.usmart.sg/download](https://www.usmart.sg/download) **如何盈立证券开户app下载**
-* [https://tigr.link/21wymU](https://tigr.link/21wymU) **如何老虎证券开户app下载，存量用户更新**：https://www.itigerup.com/help/detail/86426640
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
 * [https://lvse.eu.org/](https://lvse.eu.org/) 图床
 * [https://tutu.to/image/RXrsw](https://tutu.to/image/RXrsw) 图床
