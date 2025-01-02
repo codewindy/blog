@@ -37,7 +37,72 @@ tags: life
 * ![proxifier 流量代理](https://user-images.githubusercontent.com/15072465/166215662-eaee41b2-de0a-4f0b-8741-27fee6ef60c0.png)
 * 截至时间`2022-09-11` 使用 [黑洞加速器.apk](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)  
 和  [安易加速器](https://www.anyi8.com/) 默认7天会员 支持android & win10 网速也挺快的
+
+
 # 参考
+* 全平台代理客户端下载链接：
+
+
+安卓——安卓
+
+🟢 v2rayNG (https://github.com/2dust/v2rayNG/releases)
+🟢 Shadowrocket (https://play.google.com/store/apps/details?id=com.v2cross.shadowrocket)
+🟢 NapsterntV (https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+🟢 DarkTunnel (https://play.google.com/store/apps/details?id=net.darktunnel.app)
+🟢  Clash Meta (https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+🟢 Matsuri (https://github.com/MatsuriDayo/Matsuri/releases)
+🟢 NekoBox (https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+🟢 Husi (https://github.com/xchacha20-poly1305/husi/releases/)
+🟢 OneClick (https://play.google.com/store/apps/details?id=earth.oneclick)
+🟢 Hiddify Next (http://github.com/hiddify/hiddify-next/releases/)
+🟢 Karing (http://github.com/KaringX/karing/releases)
+受到推崇的： Hiddify Next (http://github.com/hiddify/hiddify-next/releases/) – NekoBox (https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) – Karing (http://github.com/KaringX/karing/releases) – v2rayNg (https://github.com/2dust/v2rayNG/releases)
+
+.
+
+iPhone — iPhone
+
+🟡 v2boX (https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
+🟡 Shadowrocket (https://apps.apple.com/us/app/shadowrocket/id932747118)
+🟡 NapsterntV (https://apps.apple.com/us/app/napsternetv/id1629465476)
+🟡 Shadowlink (https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518)
+🟡 OneClick (https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197)
+🟡 Streisand (https://apps.apple.com/app/id6450534064)
+🟡 Sing- box (https://sing-box.sagernet.org/installation/clients/sfi/)
+🟡 Karing (https://apps.apple.com/us/app/karing/id6472431552)
+
+受到推崇的： V2box (https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) — Streisand (https://apps.apple.com/app/id6450534064)
+
+.
+
+视窗——Windows
+
+🔸 v2rayN (https://github.com/2dust/v2rayN/releases)
+🔸 v2rayN-pro (http://github.com/lowercase78/V2RayN-PRO/releases/latest)
+🔸 HiddifyN (https://github.com/hiddify/HiddifyN/releases)
+🔸 NekoRay (https://github.com/MatsuriDayo/nekoray/releases)
+🔸 Clash Verge (https://github.com/zzzgydi/clash-verge/releases)
+🔸 Sing-box (https://github.com/sagernet/sing-box/releases/latest)
+🔸Hiddify Next (http://github.com/hiddify/hiddify-next/releases/)
+🔸Karing (http://github.com/KaringX/karing/releases)
+
+受到推崇的： Hiddify Next (http://github.com/hiddify/hiddify-next/releases/) – v2rayN (https://github.com/2dust/v2rayN/releases) – Karing (http://github.com/KaringX/karing/releases)
+
+.
+
+苹果系统
+
+⏺️ NekoRay (https://github.com/MatsuriDayo/nekoray/releases/tag/2.11)
+⏺️ v2rayU (https://github.com/yanue/V2rayU/releases)
+⏺️ v2rayX (https://github.com/Cenmrev/V2RayX/releases)
+⏺️ Sing-Box (https://github.com/sagernet/sing-box/releases/latest)
+⏺️ Hiddify Next (http://github.com/hiddify/hiddify-next/releases/)
+⏺️ Karing (https://apps.apple.com/us/app/karing/id6472431552)
+
+受到推崇的： Hiddify Next (http://github.com/hiddify/hiddify-next/releases/) – NekoRay (https://github.com/MatsuriDayo/nekoray/releases/tag/2.11) – Karing (https://apps.apple.com/us/app/karing/id6472431552)
+
+
+
 * [fflemon快柠檬🍋](https://fflemon.com/p/downloads) 全平台覆盖 每天签到可上网
 * [Every Proxy](https://www.everyproxy.co.uk/)  作用相当于 **本地代理允许来自局域网的连接**
 * [阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快
