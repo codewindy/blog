@@ -57,7 +57,7 @@ tags: life
 ## 1.3 银行卡如下
 
 ![](https://i1.wp.com/img.erpweb.eu.org/imgs/2024/09/ae73ee1a25bd81b5.png)
-## 1.4 开中银香港
+## 1.4 开中银香港【建议用iPhone会好开一些】
 
 
 | 类型 | 是否推荐   | 优点 | 缺点 |
