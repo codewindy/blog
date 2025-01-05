@@ -17,7 +17,7 @@ tags: life
  * 【导航】下载 [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站坐到朗屏 c出口下来一直走到汇丰银行
  * 【美区Apple ID账户】 [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
  * 【美区Apple ID切换教程】  仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
- * 【安卓手机】 软件下载见底部的官网链接, 必须卸载 破解软件以及李跳跳/虚拟定位apk, 华为手机必须关闭纯净模式否则会失败
+ * 【安卓手机】 软件下载见底部的官网链接,必须卸载破解apk, 华为手机必须关闭纯净模式否则会失败
  * 【腾讯文档】https://docs.qq.com/s/EUtX5kMxZXJbW9rhPg5miq
  * 【关注Youtube频道】 [点击关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
  * <iframe width="560" height="315" src="https://www.youtube.com/embed/dMrTLD8mksw?si=JOAmV1o_Grozb216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
