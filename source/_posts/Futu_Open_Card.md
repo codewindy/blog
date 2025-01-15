@@ -148,7 +148,7 @@ tags: life
 - 【<span style="color:black; font-weight:bold;background:yellow">长桥证券 和老虎证券开户流程文档  点击 > > >】 </span> https://linktr.ee/webank88
 - 【需要科学上网】：  https://linktr.ee/webank88
 - 【腾讯文档开户送4900奖金】https://docs.qq.com/s/EUtX5kMxZXJbW9rhPg5miq
-- ![](https://img.erpweb.eu.org/imgs/2024/12/7303f28a7d3e468f.jpg)
+- ![](https://img.erpweb.eu.org/imgs/2025/01/5d689c7428f36bf5.jpg)
 
 ```sql 
  一、富途牛牛200港币兑换码：ZVKDR2YE 【一定要开户前输入！路径：富途牛牛APP-我的-活动中心-兑换中心】
