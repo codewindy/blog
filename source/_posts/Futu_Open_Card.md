@@ -7,13 +7,13 @@ tags: life
 # 一. 前提
 
 ## 1.0 时间地点
- * 【固定时间】 **每周六早上8 点之前**深圳湾口岸集合
- * 【固定地点】 **深圳湾口岸出境**大厅门口
+ * 【固定时间】 **每周六早上8 点之前**深圳湾口岸地铁C出口集合
+ * 【固定地点】 **深圳湾口岸地铁C出口出境**大厅门口
  * 【海外聚合网址】 [https://linktr.ee/webank88](https://linktr.ee/webank88)  
  * 【大陆访问网址】 [https://link3.cc/webank88](https:///link3.cc/webank88)  
  * 【开户类型】免费包开 汇丰 / 中银香港【线上】 / 众安行/天星银行 且这4张卡完全够用
  * 【互助交流电报群】 请进群讨论 [https://t.me/+XmyIgG47SW0zMTU1](https://t.me/+XmyIgG47SW0zMTU1) 
- * 【搭公交地铁】微信里面搜 **搭车码** 小程序 或 支付宝 点 出行 然后选择香港即可 
+ * 【搭公交地铁】微信里面搜 **搭车码** 小程序 或 支付宝 点 出行 然后选择香港即可,云闪付也可以坐车但是要联网才行 
  * 【导航】下载 [CityMapper](https://citymapper.com/) 可在港查路线可以 b2p到 天水围地铁站坐到朗屏 c出口下来一直走到汇丰银行
  * 【美区Apple ID账户】 [点击获取临时账户](https://ibaleyy.com/p/downloads/ios)
  * 【美区Apple ID切换教程】  仅用于下载安装软件用 [点击获取视频教程](https://ibaleyy.com/p/docs/ios#video-change-appleid)
@@ -43,7 +43,7 @@ tags: life
 
 | 名称 | 是否推荐 | 邀请码     | ATM取现 | 预约 | 备注                                                                   |
 |--------| ------ | ---------- |---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 中银香港 | ✅    | <button style="background-color: blue;color: white;" onclick="navigator.clipboard.writeText('M64214872066')">M64214872066</button> | 有卡8w 无卡 1w | [教育路分行预约](https://www.bochk.com/sc/contact/online/hkpaccountopen.html) | 1. 最好提前预约且带上地址证明，线上开户的时候记得在地址后面加上你的手机号码，防止后面给你寄送银行卡丢失补寄麻烦且费时，线上开户需要在后续排队签字<br />2. **中银香港开户去元朗教育路分行，开户快服务态度很好**<br />3. 线下拿到实体卡后，汇款时候的收款账户是 012 开头不是62xx，输错了会扣手续费的钱也不会到账 |
+| 中银香港 | ✅    | <button style="background-color: blue;color: white;" onclick="navigator.clipboard.writeText('M64214872066')">M64214872066</button> | 有卡8w 无卡 1w | [教育路分行预约](https://www.bochk.com/sc/contact/online/hkpaccountopen.html) | 1. 最好提前预约且带上地址证明，线上开户的时候记得在地址后面加上你的手机号码，防止后面给你寄送银行卡丢失补寄麻烦且费时，线上开户需要在后续排队签字<br />2. **中银香港开户去元朗教育路分行，开户快服务态度很好**<br />3. 线下拿到实体卡后，汇款时候的收款账户是 012 开头不是62xx，输错了会扣手续费的钱也不会到账<br />4. 自在理财就可以申请万事达借记卡了 |
 | 汇丰银行   | ✅    | /          | 同上  | [元朗青山分行预约](https://www.eticketing.hsbc.com.hk/Booking/Index/TC) | 1. 只需要      `身份证/港澳通行证`      即可开户，提前将地址翻译成英文且最后补上手机号码，也是防止后面给你寄送银行卡丢失补寄麻烦且费时<br />2. 汇款收款账户就是卡面的账户 |
 | 众安银行   | ✅      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">JT78T4</button> | 5w | [ZA_BANK](https://bank.za.group/hk) | 开户不送钱                        |
 | 天星银行   | ✅      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('XIAOMI')">XIAOMI</button> | / |  | 开户送200 小米商场券，邀请码自己去官网搜               |
@@ -103,7 +103,7 @@ tags: life
    | ✅ | 过关小票                                                                                                                               | 合法证明出入境会发一张小纸片                                                                                                                                                                                                                                                                          |
    | ✅ | 兴业银行卡                                                                                                                                                                                           | 1. 兴业银行卡可以免费汇款到汇丰银行<br />2. 可以在香港免费取现金港币3次/每月<br />3. 需要提前办好，新开户的I类卡要等10天后才能汇款                                                                                                                                                                                                          |
    | ✅ | 现金 | 1. **带 2万港币或者人民币现钞** ， 开户后直接存入 中银香港atm 机<br />2. **不能超过2w块钱每人，资金每人限制2w超过可能会没收**<br />3. 如何换汇看最底下链接                                                |
-   | ✅ | 境外接短信                                                                                                            | 1. **省事费钱方式28块钱**： 支付宝-> 境外上网 -> 填写手机号码 ->  购买流量 ->  当地漫游 28块钱一日套餐即可，<br />2. **省钱费事方式7.9块钱**： 微信关注   [中国移动国际漫游](https://www.10086.cn/index/gd/index_200_200.html)，登录之后开通港澳台漫游功能并购买一日7.9/ 2G流量即可，遇到iPhone 15Promax双卡购买套餐后无法收短信，把多余的卡拔了就可以的情况<br />3.  非中国移动： 在app 找客服申请免费国际漫游就可以了<br /> |
+   | ✅ | 境外接短信                                                                                                            | 1. **省事费钱方式28块钱**： 支付宝-> 境外上网 -> 填写手机号码 ->  购买流量 ->  当地漫游 28块钱一日套餐即可，<br />2. **省钱费事方式7.9块钱**： 微信关注   [中国移动国际漫游](https://www.10086.cn/index/gd/index_200_200.html)，登录之后开通港澳台漫游功能并购买一日7.9/ 2G流量即可，遇到iPhone 15Promax双卡购买套餐后无法收短信，把多余的卡拔了就可以的情况<br />3.  非中国移动： 在app 找客服申请免费国际漫游就可以了<br /><br />4. 下载`无忧行app `里面开通国际漫游和购买流量也可以 |
    | ✅ | 地址证明  | 【**仅仅中银香港线下开户需要20241212更新以下任意6选1**】<br />1. <span style="color:black; font-weight:bold;background:yellow">**招行信用卡打印出来**个人住址3个月内账单【注意地址要很正规详细，有省市区，不能是公司地址，最好提前给我看一下，不然到了香港被拒或浪费时间和打印费】</span><br/>2. 煤气水电费单  或者<br/>3. 保险单地址    或者<br/>4. **户口本原件**    或者<br/>5. 房产证红本原件不能是复印件<br/>6. 汇丰银行的日结单记得存钱了才有结单<br/> |
    | ✅ | 投资证明 | 【**仅仅中银香港线下开户需要20241120更新以下2或3选1个**】<br />2.  <span style="color:black; font-weight:bold;background:yellow">[**中国结算app**](http://m.chinaclear.cn/zdjs/zgjsapppc/zgjsapp_pc.shtml)里面导出**近3个月的**股票交割单基金投资流水且上面有你的名字打印出来</span><br />3. 长桥老虎盈透等证券的**近3个月的**日结单月结单打印出来即可<br />4. 中银香港线下开户还要看 **工资个税社保公积金之类的这个不用打印** |
    
@@ -287,6 +287,5 @@ tags: life
 * [https://cryptobubbles.net/](https://cryptobubbles.net/) 
 * [https://www.sejda.com/desktop](https://www.sejda.com/desktop)  pdf修改存量证明时间的绿色软件
 * [https://rsload.net/soft/editor/35058-pdf-extra-premium.html](https://rsload.net/soft/editor/35058-pdf-extra-premium.html) pdf extra / pdfgear 
-* [银行卡开户ppt 查看](https://docs.qq.com/slide/DTWR0emJkVXFGT0JS)  
 * [Options Trade Fail Summary](https://codewindy.github.io/efunds%2F20240904_FINIDX.html)
 
