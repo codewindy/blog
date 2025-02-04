@@ -20,7 +20,7 @@ tags: life
  * 【安卓手机】 软件下载见底部的官网链接,必须卸载破解apk, 华为手机必须关闭纯净模式否则会失败
  * 【腾讯文档】https://docs.qq.com/s/EUtX5kMxZXJbW9rhPg5miq
  * 【关注Youtube频道】 [点击关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
- * <iframe width="560" height="315" src="https://www.youtube.com/embed/dMrTLD8mksw?si=JOAmV1o_Grozb216" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ * <iframe width="560" height="315" src="https://www.youtube.com/embed/Eubsk2WaUWU?si=PFIxsO9V8bdO7dPn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
    
    >  **线上开中银没签字也可以atm机存2w 人民币，可以绑定edda入金**！
@@ -64,7 +64,7 @@ tags: life
 |----| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 线上 | ❌      | 1. 线上开户不需要地址证明，直接在香港连接WiFi即可开户<br />2. 开户30分钟内搞定<br />3. **线上开中银没签字也可以atm机存2w 人民币，可以绑定edda入金**！ | 1. <span style="color:black; font-weight:bold;background:yellow">20241109 更新中银香港线上开户必须签字否则很多功能不能用只能存钱不能 取钱不能修改限额等</span><br />2. 额度低日转账额度10w/天随便到一个网点签字后可以提额度到100w/天<br />3. 现场无实体卡，但寄送到大陆<br />4. 适合学历稍微好一些本科以上<br />5. 线下签字需要等3个月以后才能取号签字更新于20241212 |
 | 线下 | ✅        | 1. 额度高日转账额度100w/天<br />2. 现场拿银行卡，这个卡可国内取现金rmb | 1. 需要在中银香港微信公众号预约<br />2. 需要打印的纸质地址证明<br />3. 开户一个人耗时1小时以上 |
-
+* ![](https://img.erpweb.eu.org/imgs/2025/02/916e4074b548953a.jpg)
 
 1. 根据上面的情况，我们优先开`中银香港和汇丰银行`，中银香港分线上和线下，线上要求低一些，**可以先试着安装中银香港app直接线上开户限额20w/天，不一定能成功但是不需要排队**　
    * 线下开户网点是100w/天转帐额度，需要提升到100w/天需要后续去香港网点面签
@@ -148,8 +148,7 @@ tags: life
 - 【<span style="color:black; font-weight:bold;background:yellow">长桥证券 和老虎证券开户流程文档  点击 > > >】 </span> https://linktr.ee/webank88
 - 【需要科学上网】：  https://linktr.ee/webank88
 - 【腾讯文档开户送4900奖金】https://docs.qq.com/s/EUtX5kMxZXJbW9rhPg5miq
-- ![](https://img.erpweb.eu.org/imgs/2025/01/5d689c7428f36bf5.jpg)
-
+- ![](https://img.erpweb.eu.org/imgs/2025/02/df1789c2f5f98bfa.png)
 ```sql 
  一、富途牛牛200港币兑换码：ZVKDR2YE 【一定要开户前输入！路径：富途牛牛APP-我的-活动中心-兑换中心】
 
