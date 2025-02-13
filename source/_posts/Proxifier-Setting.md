@@ -46,6 +46,17 @@ Proxifier MacOS Setting
   重新刷新页面即可,如失效请还原host并用代理访问！
   macOS/Linux 下直接 echo "69.194.14.16 lncn.org" >> /etc/hosts 
   export http_proxy=http://127.0.0.1:1087 经常会github连不上 可以curl cip.cc查看ip地址
+  
+  
+  proxifier for Mac 注册码
+  
+  V2
+  
+  P427L-9Y552-5433E-8DSR3-58Z68
+  
+  V3
+  
+  3CWNN-WYTP4-SD83W-ASDFR-84KEA
 ```
 # 七.  参考
 * [kagura.me](https://www.kagura.me/dev/20190324005534.html)   神楽
