@@ -20,7 +20,7 @@ tags: life
  * 【安卓手机】 软件下载见底部的官网链接,必须卸载破解apk, 华为手机必须关闭纯净模式否则会失败
  * 【腾讯文档】https://docs.qq.com/s/EUtX5kMxZXJbW9rhPg5miq
  * 【关注Youtube频道】 [点击关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
- * <iframe width="560" height="315" src="https://www.youtube.com/embed/Eubsk2WaUWU?si=PFIxsO9V8bdO7dPn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ * <iframe width="560" height="315" src="https://www.youtube.com/embed/4wjTZGaUEwI?si=9xmntWKMwJzvnTDj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
    
    >  **线上开中银没签字也可以atm机存2w 人民币，可以绑定edda入金**！
