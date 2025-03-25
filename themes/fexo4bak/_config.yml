@@ -4,7 +4,7 @@ slogan: How do you spend your time?
 url: https://codewindy.github.io/
 
 # Set avatar (Absolute url and relative url)
-avatar: /images/avatar.jpg
+avatar: /images/avatar.png
 
 # Set favicon
 favicon: /images/favicon.ico
@@ -31,9 +31,9 @@ home_nav:
   - name:  港卡开户
     url: https://link3.cc/2025kh
     target_blank: true
-  - name: 港卡开户【要翻墙】
-    url: https://linktr.ee/webank88
-    target_blank: true
+#  - name: 港卡开户【要翻墙】
+#    url: https://linktr.ee/webank88
+#    target_blank: true
 #  - name: Twitter
 #    url: https://twitter.com/forsigner
 #    target_blank: true
