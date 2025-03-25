@@ -151,7 +151,7 @@ tags: life
 - 【腾讯文档开户送4900奖金】https://docs.qq.com/s/EUtX5kMxZXJbW9rhPg5miq
 - ![](https://img.erpweb.eu.org/imgs/2025/03/46d6c21129021df4.png)
 ```sql 
- 一、富途牛牛200港币兑换码：ZVKDR2YE 【一定要开户前输入！路径：富途牛牛APP-我的-活动中心-兑换中心】
+ 一、富途牛牛200港币兑换码：FMCJ 【一定要开户前输入！路径：富途牛牛APP-我的-活动中心-兑换中心】
 
 二、老虎最高2100港币开户礼
 1. 邀请开户链接：https://tigr.link/8xtIoV 
@@ -205,18 +205,18 @@ tags: life
 
 # 四. 官方app下载
 
-| 新人开户app 下载 | 官网下载地址                                                 | 邀请码                                                       | 备注                                                         |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 新人开户app 下载 | 官网下载地址                                                 | 邀请码                                                                                                                                | 备注                                                         |
+| ---------------- | ------------------------------------------------------------ |------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------ |
 | 中银香港         | https://www.bochk.com/sc/more/ebanking/apps.html             | <button style="background-color: blue;color: white;" onclick="navigator.clipboard.writeText('M64214872066')">M64214872066</button> | 汇率好                                                       |
-| 汇丰银行         | https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/ | /                                                            | 汇丰one 卡的汇率很差                                         |
-| 众安银行         | https://bank.za.group/hk/account-open                        | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">JT78T4</button> | 汇率很差，不建议在app内买股票基金手续费4 美元一次            |
-| 长桥证券         | https://longbridge.com/hk/zh-CN/download                     | <button style="background-color: yellow;  color: black;" onclick="navigator.clipboard.writeText('621475')">621475</button> | 汇率差， 有平台费                                            |
-| 老虎证券         | https://www.itigerup.com/help/detail/86426640                | <button style="background-color: yellow;  color: black;" onclick="navigator.clipboard.writeText('WEBANK88')">WEBANK88</button> | 汇率差， 出入金很快， 有平台费                               |
-| 卓锐证券         | https://h5pro.zr66.com/zhuorui_web_h5/?channelId=100397      | <button style="background-color: yellow;  color: black;" onclick="navigator.clipboard.writeText('100397')">100397</button> | 免佣金送1400-2000 奖金                                       |
-| 盈立证券         | https://www.usmart.sg/download                               | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('n794l6')">n794l6</button> | 汇率差，买港美股 免平台费                                    |
-| 富途牛牛         | https://www.futunn.com/download/android                      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('ZVKDR2YE')">ZVKDR2YE</button> | 汇率最好，有15 块钱平台费                                    |
-| ibkr开户         | https://www.interactivebrokers.com/en/trading/tws-mobile.php#trytoday-drop | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('peng888')">peng888</button> | 汇率最好，免15平台费但是APP难用，每个月一次免费出金，免费的出金次数有限制 |
-| 天星银行         | https://www.airstarbank.com/zh-hk/signup-now.html            | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('XIAOMI')">XIAOMI</button> | 汇率最好，通过fps 转账                                       |
+| 汇丰银行         | https://www.hsbc.com.hk/zh-cn/ways-to-bank/mobile-apps/banking/ | /                                                                                                                                  | 汇丰one 卡的汇率很差                                         |
+| 众安银行         | https://bank.za.group/hk/account-open                        | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('JT78T4')">JT78T4</button>           | 汇率很差，不建议在app内买股票基金手续费4 美元一次            |
+| 长桥证券         | https://longbridge.com/hk/zh-CN/download                     | <button style="background-color: yellow;  color: black;" onclick="navigator.clipboard.writeText('621475')">621475</button>         | 汇率差， 有平台费                                            |
+| 老虎证券         | https://www.itigerup.com/help/detail/86426640                | <button style="background-color: yellow;  color: black;" onclick="navigator.clipboard.writeText('WEBANK88')">WEBANK88</button>     | 汇率差， 出入金很快， 有平台费                               |
+| 卓锐证券         | https://h5pro.zr66.com/zhuorui_web_h5/?channelId=100397      | <button style="background-color: yellow;  color: black;" onclick="navigator.clipboard.writeText('100397')">100397</button>         | 免佣金送1400-2000 奖金                                       |
+| 盈立证券         | https://www.usmart.sg/download                               | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('n794l6')">n794l6</button>           | 汇率差，买港美股 免平台费                                    |
+| 富途牛牛         | https://www.futunn.com/download/android                      | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('FMCJ')">FMCJ</button>           | 汇率最好，有15 块钱平台费                                    |
+| ibkr开户         | https://www.interactivebrokers.com/en/trading/tws-mobile.php#trytoday-drop | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('peng888')">peng888</button>         | 汇率最好，免15平台费但是APP难用，每个月一次免费出金，免费的出金次数有限制 |
+| 天星银行         | https://www.airstarbank.com/zh-hk/signup-now.html            | <button style="background-color: blue;  color: white;" onclick="navigator.clipboard.writeText('XIAOMI')">XIAOMI</button>           | 汇率最好，通过fps 转账                                       |
 
 > 货币兑换汇率最优总结：**天星= 盈透证券`IBKR`(每月一次免费出金) =富途牛牛=汇丰卓越（存款100w港币） > 中银香港`bochk` > 老虎证券 > 长桥证券 > 众安银行 > 汇丰银行 (非卓越用户0 存款)** 
 >
