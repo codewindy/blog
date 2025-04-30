@@ -262,7 +262,7 @@ tags: life
   > 所以我立马修改为酒店地址了，不知道怎么写的朋友，
   > 可以用我的这家酒店地址：3A,Homy Residence,283 Shanghai Street,Yau Ma Tei,Hong Kong
 
-![](https://img.erpweb.eu.org/imgs/2025/04/0aac457a9b19aa58.png)
+![](https://img.erpweb.eu.org/imgs/2025/04/acd9d655881c9341.png)
 
 # 七. 参考
 
