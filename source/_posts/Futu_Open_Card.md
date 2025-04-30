@@ -109,6 +109,7 @@ tags: life
    | ✅ | 投资证明 | 【**仅仅中银香港线下开户需要20241120更新以下2或3选1个**】<br />2.  <span style="color:black; font-weight:bold;background:yellow">[**中国结算app**](http://m.chinaclear.cn/zdjs/zgjsapppc/zgjsapp_pc.shtml)里面导出**近3个月的**股票交割单基金投资流水且上面有你的名字打印出来</span><br />3. 长桥老虎盈透等证券的**近3个月的**日结单月结单打印出来即可<br />4. 中银香港线下开户还要看 **工资个税社保公积金之类的这个不用打印** |
    
 
+![](https://img.erpweb.eu.org/imgs/2025/04/2467d702d8c7bed1.png)
 
 >  例如： 入深户了身份证是福田平安中心一楼的地址， 或者买房后身份证地址是某小区没有具体几栋几号房的都会被拒绝所以才需要提供地址证明, 建议最好带上哈
 
@@ -261,7 +262,10 @@ tags: life
   > 所以我立马修改为酒店地址了，不知道怎么写的朋友，
   > 可以用我的这家酒店地址：3A,Homy Residence,283 Shanghai Street,Yau Ma Tei,Hong Kong
 
+![](https://img.erpweb.eu.org/imgs/2025/04/0aac457a9b19aa58.png)
+
 # 七. 参考
+
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
 * [开卡视频教程](https://www.youtube.com/watch?v=oQASsPm0j7k)
 * [中银香港银行卡开户攻略](https://acuario.xyz/others/bochk-debit-card/)  看这个
