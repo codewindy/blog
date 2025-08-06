@@ -11,7 +11,7 @@ tags: life
  * 【固定时间】 **每周六早上8 点之前**深圳湾口岸地铁C出口集合
  * 【固定地点】 **深圳湾口岸地铁C出口出境**大厅门口
  * 【海外聚合网址】 [https://linktr.ee/webank88](https://linktr.ee/webank88)  
- * 【大陆访问网址】 [https://link3.cc/webank88](https:///link3.cc/webank88)  
+ * 【大陆访问网址】 [https://link3.cc/fmcj](https:///link3.cc/fmcj)  
  * 【开户类型】免费包开 汇丰 / 中银香港【线上】 / 众安行/天星银行 且这4张卡完全够用
  * 【互助交流电报群】 请进群讨论 [https://t.me/+XmyIgG47SW0zMTU1](https://t.me/+XmyIgG47SW0zMTU1) 
  * 【搭公交地铁】微信里面搜 **搭车码** 小程序 或 支付宝 点 出行 然后选择香港即可,云闪付也可以坐车但是要联网才行 
@@ -21,7 +21,7 @@ tags: life
  * 【安卓手机】 软件下载见底部的官网链接,必须卸载破解apk, 华为手机必须关闭纯净模式否则会失败
  * 【腾讯文档】https://docs.qq.com/s/EUtX5kMxZXJbW9rhPg5miq
  * 【关注Youtube频道】 [点击关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
- * <iframe width="560" height="315" src="https://www.youtube.com/embed/VY_UbW766rA?si=MAp7Z-V8ROJEGmm1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ * <iframe width="560" height="315" src="https://www.youtube.com/embed/MfCdJBbKNME?si=X9C613h9eBMDgQJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></iframe>
 
    >  **线上开中银没签字也可以atm机存2w 人民币，可以绑定edda入金**！
 
@@ -262,8 +262,7 @@ tags: life
   > 所以我立马修改为酒店地址了，不知道怎么写的朋友，
   > 可以用我的这家酒店地址：3A,Homy Residence,283 Shanghai Street,Yau Ma Tei,Hong Kong
 
-![](https://img.erpweb.eu.org/imgs/2025/04/acd9d655881c9341.png)
-
+* ![](https://img.erpweb.eu.org/imgs/2025/08/ea929870bf866c24.png)
 # 七. 参考
 
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
