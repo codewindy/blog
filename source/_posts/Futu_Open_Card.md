@@ -262,7 +262,7 @@ tags: life
   > 所以我立马修改为酒店地址了，不知道怎么写的朋友，
   > 可以用我的这家酒店地址：3A,Homy Residence,283 Shanghai Street,Yau Ma Tei,Hong Kong
 
-* ![](https://img.erpweb.eu.org/imgs/2025/08/ea929870bf866c24.png)
+* ![](https://img.erpweb.eu.org/imgs/2025/08/ece2af5cb8f7a104.png)
 # 七. 参考
 
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
