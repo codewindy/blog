@@ -21,9 +21,8 @@ tags: life
  * 【安卓手机】 软件下载见底部的官网链接,必须卸载破解apk, 华为手机必须关闭纯净模式否则会失败
  * 【腾讯文档】https://docs.qq.com/s/EUtX5kMxZXJbW9rhPg5miq
  * 【关注Youtube频道】 [点击关注Youtube 视频](https://www.youtube.com/channel/UCer-RCzBCP_CXMmTStJ96wg)
- * <iframe width="560" height="315" src="https://www.youtube.com/embed/MfCdJBbKNME?si=X9C613h9eBMDgQJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></iframe>
-
-   >  **线上开中银没签字也可以atm机存2w 人民币，可以绑定edda入金**！
+ *  <iframe width="560" height="315" src="https://www.youtube.com/embed/HO2BQfHiFG8?si=cOlMUq-Sjo-BfRcp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ * **线上开中银没签字也可以atm机存2w 人民币，可以绑定edda入金**！
 
 ## 1.1 大陆银行卡清单
 | 名称 | 是否推荐 | ATM香港免费取港币次数 | 预约 | 备注                                                                                                                                                                                     |
@@ -262,7 +261,7 @@ tags: life
   > 所以我立马修改为酒店地址了，不知道怎么写的朋友，
   > 可以用我的这家酒店地址：3A,Homy Residence,283 Shanghai Street,Yau Ma Tei,Hong Kong
 
-* ![](https://img.erpweb.eu.org/imgs/2025/08/ece2af5cb8f7a104.png)
+* ![](https://img.erpweb.eu.org/imgs/2025/11/3c3bcf7656076a51.png)
 # 七. 参考
 
 * [招商永隆银行](https://guozh.net/apply-for-a-hong-kong-bank-card/) 注意20230501以后，需要自己在app手动申请走顺丰到付70以内
