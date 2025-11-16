@@ -278,6 +278,7 @@ tags: life
 * [applybankcard](https://applybankcard.com/?p=12) 中银香港汇丰银行等app下载地址和介绍
 * [https://lvse.eu.org/](https://lvse.eu.org/) 图床  https://tutu.to/
 * [https://tt.vg/](https://tt.vg/) 短连接
+* [https://quwenjian.cc/#/send](https://quwenjian.cc/#/send) 在线文件传输
 * [https://draw.uhaka.com/](https://draw.uhaka.com/) draw diy  https://v0.dev/
 * [https://www.raghut.com/](https://www.raghut.com/) ai搜索
 * [https://telegra.ph/](https://telegra.ph/) 文章匿名提交
