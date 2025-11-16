@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>NEW</title>
+    <g id="车型页-PC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10-配置价格01-PC" transform="translate(-160.000000, -246.000000)" fill-rule="nonzero">
+            <g id="NEW" transform="translate(160.000000, 246.000000)">
+                <polyline id="矩形" fill="#EB0A1E" transform="translate(44.000000, 44.000000) rotate(-180.000000) translate(-44.000000, -44.000000) " points="88 0 88 88 0 88"></polyline>
+                <g id="编组" transform="translate(29.718995, 29.009093) rotate(-45.000000) translate(-29.718995, -29.009093) translate(8.218995, 17.509093)" fill="#FFFFFF" font-family="FZFANGJHS_CU--GB1-0, FZFangJunHeiS" font-size="20" font-weight="bold">
+                    <text id="NEW">
+                        <tspan x="7.72804206e-13" y="18">NEW</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
