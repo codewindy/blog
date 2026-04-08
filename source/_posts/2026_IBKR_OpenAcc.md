@@ -11,6 +11,7 @@ tags: ibkr
 >
 <a href="https://img.iduodou.com/images/docs/20260403/BD19192E-94F8-4EEF-A585-04CE3B40F5F7.pdf?attname=260404 中档画质_最新美国盈透IBKR 保姆级开户教程.pdf" target="_blank" class="btn btn-outline-primary btn-sm down_btn_1"><i class="bi-download"></i>
 下载2026年最新美国盈透IBKR保姆级开户教程PDF </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w2mxolvkt9Q?si=rEoYlHeXdzr2BKbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ![](https://i.imgur.com/AzMZ1BZ.png)
 <!--more-->
 ![](https://i.imgur.com/mMKYIGb.png)
